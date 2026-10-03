@@ -1,0 +1,26 @@
+Datasheet: Journeyed hotel facts and rankings: Los Angeles
+
+Motivation
+  Why: to give travellers, researchers and AI assistants sourced, dated answers to common hotel questions in Los Angeles, with every fact traceable to where it was read.
+  Who: Journeyed. Journeyed is a Cloute company.
+
+Composition
+  Los Angeles: 2660 hotels, 9556 sourced facts, 345 questions, 14100 ranking rows, 118 anchors.
+  Each fact row is one value from one source. Two rows with the same place and key are two sources; the site shows the most recently checked one.
+  Missing values mean we have not verified the fact, never that the hotel lacks the amenity.
+  No personal data: the only phone numbers and websites are businesses' public contact details from the place record.
+
+Collection
+  Place records: Overture Maps Places 2026-09-23.1, filtered to lodging inside the market bounding box, deduplicated by entity resolution.
+  Facts: read from each hotel's own website by our crawler, which identifies itself, obeys robots.txt and crawl-delay, waits between requests and stops at any block (https://journeyed.ai/data/).
+  Rankings: computed from the facts and distance with the published formula; sponsorship never changes a rank or a score.
+
+Preprocessing
+  Values are normalized for comparison (times as HH:MM, yes/no, fees as numbers with a unit). The address fact is omitted here because it is the normalized comparison form; hotels.csv has the display address.
+
+Uses
+  Suitable: answering where-to-stay questions with sources, travel research, evaluating AI answers against sourced facts.
+  Not suitable: prices or availability (not included), guest satisfaction (no review data is included).
+
+Distribution and maintenance
+  License CC BY 4.0. Rebuilt with every site build; this copy is 2026-10-03. Versioned by date. Corrections: https://journeyed.ai/corrections/.

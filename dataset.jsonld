@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://journeyed.ai/data/open/#dataset",
+  "name": "Journeyed hotel facts and rankings: Los Angeles",
+  "alternateName": "Journeyed open hotel data",
+  "description": "Hotels in Los Angeles with sourced facts (check-in and check-out times, parking, pets, breakfast, pool, Wi-Fi, accessibility and more), each with its source URL and the date it was checked, plus the 0 to 100 score per hotel and the full ranking for every published question. Built by Journeyed from open place data and facts read from hotels' own websites within robots.txt. No photos, reviews or copied text.",
+  "url": "https://journeyed.ai/data/",
+  "sameAs": "https://journeyed.ai/data/open/README.txt",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "Journeyed",
+    "url": "https://journeyed.ai/",
+    "parentOrganization": {
+      "@type": "Organization",
+      "name": "Cloute",
+      "url": "https://cloute.ai/"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Journeyed",
+    "url": "https://journeyed.ai/"
+  },
+  "dateModified": "2026-10-03",
+  "version": "2026-10-03",
+  "keywords": [
+    "hotels",
+    "lodging",
+    "hotel amenities",
+    "check-in time",
+    "parking",
+    "pet friendly hotels",
+    "free breakfast",
+    "Los Angeles hotels"
+  ],
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Los Angeles",
+    "geo": {
+      "@type": "GeoShape",
+      "box": "33.3 -118.952 34.824 -117.645"
+    }
+  },
+  "temporalCoverage": "2026-10-03/2026-10-03",
+  "measurementTechnique": "Facts are read from open place data and hotels' own websites and kept with their source and checked date; scores and rankings follow the published methodology at https://journeyed.ai/methodology/",
+  "isBasedOn": [
+    "https://docs.overturemaps.org/guides/places/"
+  ],
+  "citation": "Journeyed. Journeyed hotel facts and rankings: Los Angeles. 2026-10-03. https://journeyed.ai/data/",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "Hotels in Los Angeles",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://journeyed.ai/data/open/los-angeles/hotels.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Sourced hotel facts, Los Angeles",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://journeyed.ai/data/open/los-angeles/facts.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Questions and direct answers, Los Angeles",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://journeyed.ai/data/open/los-angeles/questions.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Full rankings per question, Los Angeles",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://journeyed.ai/data/open/los-angeles/rankings.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Anchors (airports, venues, areas), Los Angeles",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://journeyed.ai/data/open/los-angeles/anchors.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Los Angeles hotels, facts and rankings (JSON)",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://journeyed.ai/data/open/los-angeles/hotels.json"
+    }
+  ]
+}

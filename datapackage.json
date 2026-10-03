@@ -1,0 +1,389 @@
+{
+  "profile": "tabular-data-package",
+  "name": "journeyed-hotels",
+  "title": "Journeyed hotel facts and rankings: Los Angeles",
+  "description": "Hotels in Los Angeles with sourced facts (check-in and check-out times, parking, pets, breakfast, pool, Wi-Fi, accessibility and more), each with its source URL and the date it was checked, plus the 0 to 100 score per hotel and the full ranking for every published question. Built by Journeyed from open place data and facts read from hotels' own websites within robots.txt. No photos, reviews or copied text.",
+  "homepage": "https://journeyed.ai/data/",
+  "version": "2026-10-03",
+  "created": "2026-10-03",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Overture Maps Places 2026-09-23.1",
+      "path": "https://docs.overturemaps.org/guides/places/",
+      "license": "CDLA-Permissive-2.0"
+    },
+    {
+      "title": "Hotels' own websites, read within robots.txt (facts only)",
+      "path": "https://journeyed.ai/data/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Journeyed",
+      "path": "https://journeyed.ai/",
+      "role": "publisher"
+    }
+  ],
+  "resources": [
+    {
+      "name": "los-angeles-hotels-csv",
+      "path": "https://journeyed.ai/data/open/los-angeles/hotels.csv",
+      "title": "Hotels in Los Angeles",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "rows": 2660,
+      "schema": {
+        "fields": [
+          {
+            "name": "place_id",
+            "type": "string",
+            "description": "Permanent id: ov:<Overture GERS id>, fsq:<Foursquare id> or cl:<id>."
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Hotel name from the place record."
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "The hotel page on the site (canonical URL)."
+          },
+          {
+            "name": "address",
+            "type": "string",
+            "description": "Street, city, region and postcode from the place record."
+          },
+          {
+            "name": "city",
+            "type": "string",
+            "description": "City from the place record."
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "description": "State or region code."
+          },
+          {
+            "name": "postcode",
+            "type": "string",
+            "description": "Postal code."
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "description": "ISO 3166-1 alpha-2 country code."
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "description": "Latitude (WGS84)."
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "description": "Longitude (WGS84)."
+          },
+          {
+            "name": "phone_e164",
+            "type": "string",
+            "description": "Phone number in E.164 form."
+          },
+          {
+            "name": "website",
+            "type": "string",
+            "description": "The hotel's own website."
+          },
+          {
+            "name": "place_type",
+            "type": "string",
+            "description": "Overture category, e.g. hotel, motel, resort."
+          },
+          {
+            "name": "score",
+            "type": "number",
+            "description": "The 0 to 100 score shown on the hotel page (see the methodology URL)."
+          },
+          {
+            "name": "score_formula",
+            "type": "string",
+            "description": "Score formula version."
+          },
+          {
+            "name": "score_as_of",
+            "type": "date",
+            "description": "Date the score was computed."
+          },
+          {
+            "name": "questions_ranked_on",
+            "type": "integer",
+            "description": "How many published questions rank this hotel."
+          },
+          {
+            "name": "record_source",
+            "type": "string",
+            "description": "Dataset the place record comes from, with its release."
+          },
+          {
+            "name": "record_license",
+            "type": "string",
+            "description": "License basis of the place record."
+          }
+        ]
+      }
+    },
+    {
+      "name": "los-angeles-facts-csv",
+      "path": "https://journeyed.ai/data/open/los-angeles/facts.csv",
+      "title": "Sourced hotel facts, Los Angeles",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "rows": 9556,
+      "schema": {
+        "fields": [
+          {
+            "name": "place_id",
+            "type": "string",
+            "description": "The hotel (hotels.csv place_id)."
+          },
+          {
+            "name": "place_url",
+            "type": "string",
+            "description": "The hotel page on the site."
+          },
+          {
+            "name": "key",
+            "type": "string",
+            "description": "Fact key, e.g. checkin.time, parking.fee, pets.allowed (see the methodology URL)."
+          },
+          {
+            "name": "value",
+            "type": "string",
+            "description": "Normalized value: yes/no, HH:MM, a number, a list of vocabulary slugs joined by commas."
+          },
+          {
+            "name": "unit",
+            "type": "string",
+            "description": "Unit of the value when it has one (USD, USD/night, lb)."
+          },
+          {
+            "name": "source_kind",
+            "type": "string",
+            "description": "dataset or web_page."
+          },
+          {
+            "name": "source_url",
+            "type": "string",
+            "description": "The page the fact was read from (set for web_page facts)."
+          },
+          {
+            "name": "dataset",
+            "type": "string",
+            "description": "The dataset the fact comes from, with its release (set for dataset facts)."
+          },
+          {
+            "name": "license_basis",
+            "type": "string",
+            "description": "Why we may use it: cdla-permissive-2.0 (Overture) or robots-permitted-page (the hotel site, read within robots.txt)."
+          },
+          {
+            "name": "tier",
+            "type": "integer",
+            "description": "1 open data, 2 the hotel site, 4 first party."
+          },
+          {
+            "name": "checked_on",
+            "type": "date",
+            "description": "Date the value was last confirmed at the source."
+          }
+        ]
+      }
+    },
+    {
+      "name": "los-angeles-questions-csv",
+      "path": "https://journeyed.ai/data/open/los-angeles/questions.csv",
+      "title": "Questions and direct answers, Los Angeles",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "rows": 345,
+      "schema": {
+        "fields": [
+          {
+            "name": "question",
+            "type": "string",
+            "description": "The question in neutral wording (the page title)."
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "The question page (canonical URL)."
+          },
+          {
+            "name": "anchor",
+            "type": "string",
+            "description": "The place the question is about (airport, venue, neighborhood or the market)."
+          },
+          {
+            "name": "anchor_url",
+            "type": "string",
+            "description": "The anchor hub page."
+          },
+          {
+            "name": "anchor_lat",
+            "type": "number",
+            "description": "Anchor latitude; empty when the coordinates come from OpenStreetMap (ODbL), see anchors.csv coord_source."
+          },
+          {
+            "name": "anchor_lon",
+            "type": "number",
+            "description": "Anchor longitude; empty when the coordinates come from OpenStreetMap (ODbL)."
+          },
+          {
+            "name": "direct_answer",
+            "type": "string",
+            "description": "The two-sentence answer shown at the top of the page."
+          },
+          {
+            "name": "ranked_total",
+            "type": "integer",
+            "description": "How many hotels the full ranking holds."
+          },
+          {
+            "name": "unverified_total",
+            "type": "integer",
+            "description": "Hotels listed apart because a must-have fact is not yet verified."
+          },
+          {
+            "name": "formula_version",
+            "type": "string",
+            "description": "Fit Score formula version."
+          },
+          {
+            "name": "as_of",
+            "type": "date",
+            "description": "Date the ranking was computed."
+          }
+        ]
+      }
+    },
+    {
+      "name": "los-angeles-rankings-csv",
+      "path": "https://journeyed.ai/data/open/los-angeles/rankings.csv",
+      "title": "Full rankings per question, Los Angeles",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "rows": 14100,
+      "schema": {
+        "fields": [
+          {
+            "name": "question_url",
+            "type": "string",
+            "description": "The question page (questions.csv url)."
+          },
+          {
+            "name": "rank",
+            "type": "integer",
+            "description": "1-based position in the ranking (the page shows the top of it)."
+          },
+          {
+            "name": "place_id",
+            "type": "string",
+            "description": "The hotel (hotels.csv place_id)."
+          },
+          {
+            "name": "place_name",
+            "type": "string",
+            "description": "Hotel name."
+          },
+          {
+            "name": "place_url",
+            "type": "string",
+            "description": "The hotel page."
+          },
+          {
+            "name": "fit_score",
+            "type": "number",
+            "description": "0 to 100 Fit Score for this question."
+          },
+          {
+            "name": "distance_mi",
+            "type": "number",
+            "description": "Straight-line miles from the anchor."
+          }
+        ]
+      }
+    },
+    {
+      "name": "los-angeles-anchors-csv",
+      "path": "https://journeyed.ai/data/open/los-angeles/anchors.csv",
+      "title": "Anchors (airports, venues, areas), Los Angeles",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "rows": 118,
+      "schema": {
+        "fields": [
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "Anchor id within the market."
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Anchor name."
+          },
+          {
+            "name": "kind",
+            "type": "string",
+            "description": "airport, venue, area, landmark, campus, hospital, etc."
+          },
+          {
+            "name": "lat",
+            "type": "number",
+            "description": "Latitude; empty when the coordinates come from OpenStreetMap (ODbL share-alike): use coord_source."
+          },
+          {
+            "name": "lon",
+            "type": "number",
+            "description": "Longitude; empty when the coordinates come from OpenStreetMap."
+          },
+          {
+            "name": "aliases",
+            "type": "string",
+            "description": "Other names, separated by \" | \"."
+          },
+          {
+            "name": "default_radius_mi",
+            "type": "number",
+            "description": "Default search radius for questions about it."
+          },
+          {
+            "name": "coord_source",
+            "type": "string",
+            "description": "Where the coordinates come from."
+          }
+        ]
+      }
+    },
+    {
+      "name": "los-angeles-hotels-json",
+      "path": "https://journeyed.ai/data/open/los-angeles/hotels.json",
+      "title": "Hotels, facts and rankings in one JSON file, Los Angeles",
+      "format": "json",
+      "mediatype": "application/json",
+      "encoding": "utf-8"
+    }
+  ]
+}
