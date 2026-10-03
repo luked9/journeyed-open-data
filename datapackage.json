@@ -3,7 +3,7 @@
   "name": "journeyed-hotels",
   "title": "Journeyed hotel facts and rankings: Los Angeles",
   "description": "Hotels in Los Angeles with sourced facts (check-in and check-out times, parking, pets, breakfast, pool, Wi-Fi, accessibility and more), each with its source URL and the date it was checked, plus the 0 to 100 score per hotel and the full ranking for every published question. Built by Journeyed from open place data and facts read from hotels' own websites within robots.txt. No photos, reviews or copied text.",
-  "homepage": "https://journeyed.ai/data/",
+  "homepage": "https://journeyed.org/data/",
   "version": "2026-10-03",
   "created": "2026-10-03",
   "licenses": [
@@ -21,25 +21,25 @@
     },
     {
       "title": "Hotels' own websites, read within robots.txt (facts only)",
-      "path": "https://journeyed.ai/data/"
+      "path": "https://journeyed.org/data/"
     }
   ],
   "contributors": [
     {
       "title": "Journeyed",
-      "path": "https://journeyed.ai/",
+      "path": "https://journeyed.org/",
       "role": "publisher"
     }
   ],
   "resources": [
     {
       "name": "los-angeles-hotels-csv",
-      "path": "https://journeyed.ai/data/open/los-angeles/hotels.csv",
+      "path": "https://journeyed.org/data/open/los-angeles/hotels.csv",
       "title": "Hotels in Los Angeles",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "rows": 2660,
+      "rows": 2612,
       "schema": {
         "fields": [
           {
@@ -142,12 +142,12 @@
     },
     {
       "name": "los-angeles-facts-csv",
-      "path": "https://journeyed.ai/data/open/los-angeles/facts.csv",
+      "path": "https://journeyed.org/data/open/los-angeles/facts.csv",
       "title": "Sourced hotel facts, Los Angeles",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "rows": 9556,
+      "rows": 10421,
       "schema": {
         "fields": [
           {
@@ -210,12 +210,12 @@
     },
     {
       "name": "los-angeles-questions-csv",
-      "path": "https://journeyed.ai/data/open/los-angeles/questions.csv",
+      "path": "https://journeyed.org/data/open/los-angeles/questions.csv",
       "title": "Questions and direct answers, Los Angeles",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "rows": 345,
+      "rows": 749,
       "schema": {
         "fields": [
           {
@@ -278,12 +278,12 @@
     },
     {
       "name": "los-angeles-rankings-csv",
-      "path": "https://journeyed.ai/data/open/los-angeles/rankings.csv",
+      "path": "https://journeyed.org/data/open/los-angeles/rankings.csv",
       "title": "Full rankings per question, Los Angeles",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "rows": 14100,
+      "rows": 23886,
       "schema": {
         "fields": [
           {
@@ -326,7 +326,7 @@
     },
     {
       "name": "los-angeles-anchors-csv",
-      "path": "https://journeyed.ai/data/open/los-angeles/anchors.csv",
+      "path": "https://journeyed.org/data/open/los-angeles/anchors.csv",
       "title": "Anchors (airports, venues, areas), Los Angeles",
       "format": "csv",
       "mediatype": "text/csv",
@@ -379,7 +379,7 @@
     },
     {
       "name": "los-angeles-hotels-json",
-      "path": "https://journeyed.ai/data/open/los-angeles/hotels.json",
+      "path": "https://journeyed.org/data/open/los-angeles/hotels.json",
       "title": "Hotels, facts and rankings in one JSON file, Los Angeles",
       "format": "json",
       "mediatype": "application/json",
