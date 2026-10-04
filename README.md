@@ -45,7 +45,8 @@ Journeyed (https://journeyed.org/) is an independent guide to hotels in the Los 
 
 - Hotels in Los Angeles: https://journeyed.org/hotels/los-angeles/
 - Guides by neighborhood, venue and travel need: https://journeyed.org/guides/
-- Data reports: https://journeyed.org/reports/
+- Data reports: https://journeyed.org/reports/ (full text in [reports/](reports/))
+- Short answers to every published question: [ANSWERS.md](ANSWERS.md)
 - How the score works: https://journeyed.org/methodology/
 - For AI agents (JSON and markdown for every page): https://journeyed.org/agents/ and https://journeyed.org/llms.txt
 
