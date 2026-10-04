@@ -1,19 +1,19 @@
 detail,fact_keys,hotels_stating,websites_with_a_detail_read,share_of_websites_with_a_detail_read,all_hotels,share_of_all_hotels
-Free Wi-Fi or a Wi-Fi fee,wifi.free,352,453,0.777,2612,0.135
-Whether there is parking,parking.available,292,453,0.645,2612,0.112
-What parking costs,parking.fee valet.fee,235,453,0.519,2612,0.09
-Accessible rooms,accessibility.accessibleRooms,231,453,0.51,2612,0.088
-Check-out time,checkout.time,230,453,0.508,2612,0.088
-Check-in time,checkin.time,223,453,0.492,2612,0.085
-Pet policy,pets.allowed,215,453,0.475,2612,0.082
-Pool,pool,176,453,0.389,2612,0.067
-Smoking policy,smokeFree,130,453,0.287,2612,0.05
-Fitness room,fitness,121,453,0.267,2612,0.046
-Breakfast,breakfast,101,453,0.223,2612,0.039
-Number of rooms,rooms.count,65,453,0.143,2612,0.025
-Pet fee,pets.fee,46,453,0.102,2612,0.018
-Minimum age to check in,checkin.minAge,42,453,0.093,2612,0.016
-Electric vehicle charging,evCharging,38,453,0.084,2612,0.015
-Security deposit,deposit,36,453,0.079,2612,0.014
-"Resort fee, or that there is none",resortFee,32,453,0.071,2612,0.012
-Airport shuttle,shuttle,19,453,0.042,2612,0.007
+Free Wi-Fi or a Wi-Fi fee,wifi.free,352,453,0.777,2610,0.135
+Whether there is parking,parking.available,292,453,0.645,2610,0.112
+What parking costs,parking.fee valet.fee,235,453,0.519,2610,0.09
+Accessible rooms,accessibility.accessibleRooms,231,453,0.51,2610,0.089
+Check-out time,checkout.time,230,453,0.508,2610,0.088
+Check-in time,checkin.time,223,453,0.492,2610,0.085
+Pet policy,pets.allowed,214,453,0.472,2610,0.082
+Pool,pool,176,453,0.389,2610,0.067
+Smoking policy,smokeFree,130,453,0.287,2610,0.05
+Fitness room,fitness,121,453,0.267,2610,0.046
+Breakfast,breakfast,101,453,0.223,2610,0.039
+Number of rooms,rooms.count,65,453,0.143,2610,0.025
+Pet fee,pets.fee,46,453,0.102,2610,0.018
+Minimum age to check in,checkin.minAge,42,453,0.093,2610,0.016
+Electric vehicle charging,evCharging,38,453,0.084,2610,0.015
+Security deposit,deposit,36,453,0.079,2610,0.014
+"Resort fee, or that there is none",resortFee,32,453,0.071,2610,0.012
+Airport shuttle,shuttle,19,453,0.042,2610,0.007

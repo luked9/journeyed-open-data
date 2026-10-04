@@ -26,8 +26,6 @@ Bay Shores Peninsula Hotel,https://journeyed.org/hotel/bay-shores-peninsula-hote
 Bay Shores Peninsula Hotel,https://journeyed.org/hotel/bay-shores-peninsula-hotel-newport-beach-49c0a1/,Newport Beach,checkout.time,11:00,,https://www.bayshoreshotel.com/faq/,2026-10-03
 Bay Shores Peninsula Hotel,https://journeyed.org/hotel/bay-shores-peninsula-hotel-newport-beach-49c0a1/,Newport Beach,checkin.minAge,21,years,https://www.bayshoreshotel.com/faq/,2026-10-03
 Beach House Hotel Hermosa Beach,https://journeyed.org/hotel/beach-house-hotel-hermosa-beach-hermosa-beach-c641bc/,Hermosa Beach,checkout.time,11:00,,https://www.beach-house.com/hermosa-beach/faq,2026-10-03
-Bellflower Century Inn Motel,https://journeyed.org/hotel/bellflower-century-inn-motel-bellflower-126258/,Bellflower,checkin.time,15:00,,https://www.rodewayinnbellflower.com/amenities-services/,2026-10-03
-Bellflower Century Inn Motel,https://journeyed.org/hotel/bellflower-century-inn-motel-bellflower-126258/,Bellflower,checkout.time,11:00,,https://www.rodewayinnbellflower.com/amenities-services/,2026-10-03
 Best Of The Boardwalk,https://journeyed.org/hotel/best-of-the-boardwalk-venice-d0f2e2/,Venice,checkin.time,15:00,,https://www.bestoftheboardwalk.com/faqs,2026-10-03
 Best Western Plus Gardena Inn & Suites,https://journeyed.org/hotel/best-western-plus-gardena-inn-and-suites-gardena-31a2b2/,Gardena,checkin.time,15:00,,https://www.bestwesternla.com/rooms/,2026-10-03
 Best Western Plus Gardena Inn & Suites,https://journeyed.org/hotel/best-western-plus-gardena-inn-and-suites-gardena-31a2b2/,Gardena,checkout.time,11:00,,https://www.bestwesternla.com/rooms/,2026-10-03
@@ -282,6 +280,8 @@ Nite Inn at Universal City,https://journeyed.org/hotel/nite-inn-at-universal-cit
 Nite Inn at Universal City,https://journeyed.org/hotel/nite-inn-at-universal-city-studio-city-110c7a/,Studio City,checkout.time,11:00,,https://www.niteinnuniversal.com/about,2026-10-03
 Noon on Sunset Hill,https://journeyed.org/hotel/noon-on-sunset-hill-los-angeles-c9bd56/,Echo Park,checkin.time,15:00,,https://www.noonsunsethill.com/faq,2026-10-03
 Noon on Sunset Hill,https://journeyed.org/hotel/noon-on-sunset-hill-los-angeles-c9bd56/,Echo Park,checkout.time,11:00,,https://www.noonsunsethill.com/faq,2026-10-03
+OC Hotel Costa Mesa,https://journeyed.org/hotel/oc-hotel-costa-mesa-costa-mesa-a5a2cb/,Costa Mesa,checkin.time,15:00,,https://www.ochotelcostamesa.com/best-hotel-costa-mesa/,2026-10-04
+OC Hotel Costa Mesa,https://journeyed.org/hotel/oc-hotel-costa-mesa-costa-mesa-a5a2cb/,Costa Mesa,checkout.time,11:00,,https://www.ochotelcostamesa.com/best-hotel-costa-mesa/,2026-10-04
 Ocean Lodge Santa Monica Beach Hotel,https://journeyed.org/hotel/ocean-lodge-santa-monica-beach-hotel-santa-monica-8e0131/,Santa Monica,checkout.time,11:00,,https://www.oceanlodgehotel.com/amenities/,2026-10-03
 Ocean Park Hotel,https://journeyed.org/hotel/ocean-park-hotel-santa-monica-c3b48d/,Santa Monica,checkin.time,15:00,,http://www.santamonicaoceanparkhotel.com/our-hotel/policies.html,2026-10-03
 Ocean Park Hotel,https://journeyed.org/hotel/ocean-park-hotel-santa-monica-c3b48d/,Santa Monica,checkout.time,11:00,,http://www.santamonicaoceanparkhotel.com/our-hotel/policies.html,2026-10-03
@@ -318,8 +318,6 @@ Portofino Inn Burbank,https://journeyed.org/hotel/portofino-inn-burbank-burbank-
 Portofino Inn Burbank,https://journeyed.org/hotel/portofino-inn-burbank-burbank-1a7fd2/,Burbank,checkout.time,11:00,,http://www.portofinoburbank.com/faq.asp,2026-10-03
 Queens Inn Anaheim near The Park & Convention Center,https://journeyed.org/hotel/queens-inn-anaheim-near-the-park-and-convention-center-anaheim-dec383/,Anaheim,checkin.time,15:00,,https://queensinnanaheim.com/hotel-near-conventions/,2026-10-03
 Queens Inn Anaheim near The Park & Convention Center,https://journeyed.org/hotel/queens-inn-anaheim-near-the-park-and-convention-center-anaheim-dec383/,Anaheim,checkout.time,11:00,,https://queensinnanaheim.com/hotel-near-conventions/,2026-10-03
-Radisson Plaza Hotel,https://journeyed.org/hotel/radisson-plaza-hotel-manhattan-beach-4f19f9/,Manhattan Beach,checkin.time,16:00,,https://www.westdrift.com/stay/,2026-10-03
-Radisson Plaza Hotel,https://journeyed.org/hotel/radisson-plaza-hotel-manhattan-beach-4f19f9/,Manhattan Beach,checkout.time,11:00,,https://www.westdrift.com/stay/,2026-10-03
 Redac Gateway Hotel,https://journeyed.org/hotel/redac-gateway-hotel-torrance-8fd26a/,Torrance,checkin.time,15:00,,https://www.redachotel.com/overview,2026-10-03
 Redac Gateway Hotel,https://journeyed.org/hotel/redac-gateway-hotel-torrance-8fd26a/,Torrance,checkout.time,11:00,,https://www.redachotel.com/overview,2026-10-03
 Redondo Inn and Suites,https://journeyed.org/hotel/redondo-inn-and-suites-redondo-beach-46c2da/,Redondo Beach,checkin.time,15:00,,https://www.redondoinn.com/amenities-services/,2026-10-03
@@ -403,6 +401,9 @@ Tarzana Inn,https://journeyed.org/hotel/tarzana-inn-tarzana-7b5dc2/,Tarzana,chec
 Terranea Resort,https://journeyed.org/hotel/terranea-resort-rancho-palos-verdes-331a7a/,Rancho Palos Verdes,checkin.time,16:00,,https://www.terranea.com/resort/faqs,2026-10-03
 Terranea Resort,https://journeyed.org/hotel/terranea-resort-rancho-palos-verdes-331a7a/,Rancho Palos Verdes,checkout.time,11:00,,https://www.terranea.com/resort/faqs,2026-10-03
 The Ambrose Hotel,https://journeyed.org/hotel/the-ambrose-hotel-santa-monica-e38da9/,Santa Monica,checkin.minAge,18,years,https://www.ambrosehotel.com/faq,2026-10-03
+"The Anthem Los Angeles Stadium District, Tapestry by Hilton",https://journeyed.org/hotel/the-anthem-los-angeles-stadium-district-tapestry-by-hilton-inglewood-a4ac55/,Inglewood,checkin.time,16:00,,https://www.anthemhotella.com/,2026-10-03
+"The Anthem Los Angeles Stadium District, Tapestry by Hilton",https://journeyed.org/hotel/the-anthem-los-angeles-stadium-district-tapestry-by-hilton-inglewood-a4ac55/,Inglewood,checkout.time,11:00,,https://www.anthemhotella.com/,2026-10-03
+"The Anthem Los Angeles Stadium District, Tapestry by Hilton",https://journeyed.org/hotel/the-anthem-los-angeles-stadium-district-tapestry-by-hilton-inglewood-a4ac55/,Inglewood,checkin.minAge,18,years,https://www.anthemhotella.com/,2026-10-03
 The Avalon Hotel on Catalina Island,https://journeyed.org/hotel/the-avalon-hotel-on-catalina-island-avalon-28fee9/,Avalon,checkin.time,16:00,,https://theavalonhotel.com/faq,2026-10-03
 The Avalon Hotel on Catalina Island,https://journeyed.org/hotel/the-avalon-hotel-on-catalina-island-avalon-28fee9/,Avalon,checkout.time,11:00,,https://theavalonhotel.com/faq,2026-10-03
 The Beachfront Inn and Suites at Dana Point,https://journeyed.org/hotel/the-beachfront-inn-and-suites-at-dana-point-dana-point-6bfa49/,Dana Point,checkin.time,15:00,,https://www.beachfrontinnatdanapoint.com/faq,2026-10-03
@@ -433,9 +434,6 @@ The Lexmar - Dodger Stadium/hollywood,https://journeyed.org/hotel/the-lexmar-dod
 The LINE LA,https://journeyed.org/hotel/the-line-la-los-angeles-1c473b/,Koreatown,checkin.time,15:00,,https://www.thelinehotel.com/los-angeles/faq/,2026-10-03
 The Live Hotel,https://journeyed.org/hotel/the-live-hotel-los-angeles-0c456a/,Downtown Los Angeles,checkin.time,15:00,,https://www.thelivehotel.com/faq/,2026-10-03
 The Live Hotel,https://journeyed.org/hotel/the-live-hotel-los-angeles-0c456a/,Downtown Los Angeles,checkout.time,11:00,,https://www.thelivehotel.com/faq/,2026-10-03
-The Lum Hotel Los Angeles Stadium District,https://journeyed.org/hotel/the-lum-hotel-los-angeles-stadium-district-inglewood-a4ac55/,Inglewood,checkin.time,16:00,,https://www.anthemhotella.com/,2026-10-03
-The Lum Hotel Los Angeles Stadium District,https://journeyed.org/hotel/the-lum-hotel-los-angeles-stadium-district-inglewood-a4ac55/,Inglewood,checkout.time,11:00,,https://www.anthemhotella.com/,2026-10-03
-The Lum Hotel Los Angeles Stadium District,https://journeyed.org/hotel/the-lum-hotel-los-angeles-stadium-district-inglewood-a4ac55/,Inglewood,checkin.minAge,18,years,https://www.anthemhotella.com/,2026-10-03
 The M Malibu,https://journeyed.org/hotel/the-m-malibu-malibu-59a14f/,Malibu,checkin.time,15:00,,https://www.themmalibu.com/rooms,2026-10-03
 The M Malibu,https://journeyed.org/hotel/the-m-malibu-malibu-59a14f/,Malibu,checkout.time,11:00,,https://www.themmalibu.com/rooms,2026-10-03
 The Malibu Bella Vista B&B,https://journeyed.org/hotel/the-malibu-bella-vista-b-and-b-calabasas-9c06a4/,Calabasas,checkout.time,12:00,,https://www.malibubellavista.com/rooms,2026-10-03
@@ -511,6 +509,8 @@ Walnut Inn & Suites,https://journeyed.org/hotel/walnut-inn-and-suites-west-covin
 Walnut Inn & Suites,https://journeyed.org/hotel/walnut-inn-and-suites-west-covina-31aea9/,West Covina,checkout.time,11:30,,https://www.walnutinnandsuites.us/,2026-10-03
 West Coast Motel Santa Ana,https://journeyed.org/hotel/west-coast-motel-santa-ana-santa-ana-0c225d/,Santa Ana,checkin.time,13:00,,https://www.westcoastinnsantaana.us/,2026-10-03
 West Coast Motel Santa Ana,https://journeyed.org/hotel/west-coast-motel-santa-ana-santa-ana-0c225d/,Santa Ana,checkout.time,11:00,,https://www.westcoastinnsantaana.us/,2026-10-03
+westdrift Manhattan Beach,https://journeyed.org/hotel/westdrift-manhattan-beach-manhattan-beach-4f19f9/,Manhattan Beach,checkin.time,16:00,,https://www.westdrift.com/stay/,2026-10-03
+westdrift Manhattan Beach,https://journeyed.org/hotel/westdrift-manhattan-beach-manhattan-beach-4f19f9/,Manhattan Beach,checkout.time,11:00,,https://www.westdrift.com/stay/,2026-10-03
 Whisky Hotel Hollywood,https://journeyed.org/hotel/whisky-hotel-hollywood-los-angeles-c1f473/,Hollywood,checkin.time,15:00,,https://www.whiskyhotel.com/faq,2026-10-03
 Whisky Hotel Hollywood,https://journeyed.org/hotel/whisky-hotel-hollywood-los-angeles-c1f473/,Hollywood,checkin.minAge,21,years,https://www.whiskyhotel.com/faq,2026-10-03
 Whittier Travel Inn,https://journeyed.org/hotel/whittier-travel-inn-whittier-6439fa/,Whittier,checkin.time,15:00,,https://www.whittiertravelinn-ca.us/,2026-10-03

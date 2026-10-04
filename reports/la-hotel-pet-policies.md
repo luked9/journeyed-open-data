@@ -1,35 +1,35 @@
 # 42% of LA hotels that state a pet policy allow pets
 
-Pet Policies Across LA Hotels. Published 2026-10-03. Data checked 2026-10-03.
+Pet Policies Across LA Hotels. Published 2026-10-03. Data checked 2026-10-04.
 
-Of 215 hotels in the Los Angeles area that state a pet policy on their own website, 90 allow pets, 101 do not, and 24 take service animals only. The median stated pet fee is $100.
+Of 214 hotels in the Los Angeles area that state a pet policy on their own website, 90 allow pets, 100 do not, and 24 take service animals only. The median stated pet fee is $100.
 
-Sample: 215 hotels that state a pet policy, out of 453 hotel websites with a detail read and 2,612 hotels in the market.
+Sample: 214 hotels that state a pet policy, out of 453 hotel websites with a detail read and 2,610 hotels in the market.
 
 ## Headline numbers
 
-- **42%** allow pets (90 of 215 hotels that state a pet policy)
+- **42%** allow pets (90 of 214 hotels that state a pet policy)
 - **$100** median stated pet fee (46 hotels stating a fee, from $25 to $350)
 - **40 lb** median stated weight limit (36 hotels stating a limit)
 - **82%** of stated limits allow two pets per room (32 of 39 hotels stating a limit)
 
 ## Key findings
 
-- Of the 2,612 hotels in the Los Angeles area, 215 (8%) state a pet policy on their own website.
-- Of those 215, 90 (42%) allow pets, 101 (47%) do not, and 24 (11%) say service animals only.
+- Of the 2,610 hotels in the Los Angeles area, 214 (8%) state a pet policy on their own website.
+- Of those 214, 90 (42%) allow pets, 100 (47%) do not, and 24 (11%) say service animals only.
 - 46 hotels state a pet fee. The median is $100, the middle half runs from $50 to $150 and the range is $25 to $350.
 - Of the 42 hotels that say how the fee is charged, 29 (69%) charge it once per stay and 13 charge it per night.
 - 36 hotels state a weight limit. The median is 40 pounds and the range is 15 to 100 pounds.
 
 ## How many LA hotels allow pets?
 
-Fewer than half of the hotel websites we could read state a pet policy: 215 of the 453 hotel websites we have read at least one detail from state one.
+Fewer than half of the hotel websites we could read state a pet policy: 214 of the 453 hotel websites we have read at least one detail from state one.
 
 **What hotels that state a pet policy say**
 
-- Pets allowed: 90 of 215 (42%)
-- No pets: 101 of 215 (47%)
-- Service animals only: 24 of 215 (11%)
+- Pets allowed: 90 of 214 (42%)
+- No pets: 100 of 214 (47%)
+- Service animals only: 24 of 214 (11%)
 
 ## Which areas have the most hotels that say pets are welcome?
 
@@ -69,9 +69,11 @@ Fees are as the hotel states them. Most are charged once per stay; the source pa
 
 Only values a person re-read on the hotel’s own page are named here.
 
+Video summary: https://www.youtube.com/watch?v=51dWp02JvJc
+
 ## Cite this report
 
-Journeyed, "Pet Policies Across LA Hotels", data checked October 3, 2026, https://journeyed.org/reports/la-hotel-pet-policies/
+Journeyed, "Pet Policies Across LA Hotels", data checked October 4, 2026, https://journeyed.org/reports/la-hotel-pet-policies/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -80,9 +82,9 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 3, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 4, 2026. Nothing comes from booking sites, review sites or guest reports.
 
-The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,612 hotels, motels, inns and hostels. 2,227 of them list their own website, and we have read at least one detail about the stay from 453 of those websites so far. A website our crawler opened but found no such detail on is not among the 453, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
+The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,610 hotels, motels, inns and hostels. 2,225 of them list their own website, and we have read at least one detail about the stay from 453 of those websites so far. A website our crawler opened but found no such detail on is not among the 453, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
 A hotel is counted only when its website states the fact in plain text. Our crawler reads up to 12 pages per site and runs no JavaScript, so a fee that appears only inside a booking widget, an image or a PDF is not counted. A hotel that is not counted may still offer or charge the thing; it has not said so in a form we could read.
 
@@ -98,6 +100,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-03
+Last checked: 2026-10-04
 
 Canonical: https://journeyed.org/reports/la-hotel-pet-policies/

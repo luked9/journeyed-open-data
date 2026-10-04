@@ -32,8 +32,6 @@ Beach House Hotel Hermosa Beach,https://journeyed.org/hotel/beach-house-hotel-he
 Beach House Hotel Hermosa Beach,https://journeyed.org/hotel/beach-house-hotel-hermosa-beach-hermosa-beach-c641bc/,Hermosa Beach,evCharging,yes,,https://www.beach-house.com/hermosa-beach/faq,2026-10-03
 Bell Manor Motel,https://journeyed.org/hotel/bell-manor-motel-bell-048b84/,Bell,parking.available,yes,,https://www.bellmanormotel.com/amenities-services/,2026-10-03
 Bell Manor Motel,https://journeyed.org/hotel/bell-manor-motel-bell-048b84/,Bell,parking.fee,0,USD,https://www.bellmanormotel.com/amenities-services/,2026-10-03
-Bellflower Century Inn Motel,https://journeyed.org/hotel/bellflower-century-inn-motel-bellflower-126258/,Bellflower,parking.available,yes,,https://www.rodewayinnbellflower.com/amenities-services/,2026-10-03
-Bellflower Century Inn Motel,https://journeyed.org/hotel/bellflower-century-inn-motel-bellflower-126258/,Bellflower,parking.fee,0,USD,https://www.rodewayinnbellflower.com/amenities-services/,2026-10-03
 Best Of The Boardwalk,https://journeyed.org/hotel/best-of-the-boardwalk-venice-d0f2e2/,Venice,parking.available,no,,https://www.bestoftheboardwalk.com/faqs,2026-10-03
 Best Star Inn,https://journeyed.org/hotel/best-star-inn-montebello-c31779/,Montebello,parking.available,yes,,https://beststarinnmontebello.com/amenities,2026-10-03
 Best Star Inn,https://journeyed.org/hotel/best-star-inn-montebello-c31779/,Montebello,parking.fee,0,USD,https://beststarinnmontebello.com/amenities,2026-10-03
@@ -321,6 +319,8 @@ Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beac
 Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,Gardena,parking.available,yes,,https://www.niseiinngardena.com/,2026-10-03
 Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,Gardena,parking.fee,0,USD,https://www.niseiinngardena.com/amenities.html,2026-10-03
 Nite Inn at Universal City,https://journeyed.org/hotel/nite-inn-at-universal-city-studio-city-110c7a/,Studio City,parking.available,yes,,https://www.niteinnuniversal.com/rooms,2026-10-03
+OC Hotel Costa Mesa,https://journeyed.org/hotel/oc-hotel-costa-mesa-costa-mesa-a5a2cb/,Costa Mesa,parking.available,yes,,https://www.ochotelcostamesa.com/best-hotel-costa-mesa/,2026-10-04
+OC Hotel Costa Mesa,https://journeyed.org/hotel/oc-hotel-costa-mesa-costa-mesa-a5a2cb/,Costa Mesa,parking.fee,0,USD,https://www.ochotelcostamesa.com/best-hotel-costa-mesa/,2026-10-04
 Ocean Park Hotel,https://journeyed.org/hotel/ocean-park-hotel-santa-monica-c3b48d/,Santa Monica,parking.available,yes,,http://www.santamonicaoceanparkhotel.com/our-hotel/policies.html,2026-10-03
 Ocean Park Hotel,https://journeyed.org/hotel/ocean-park-hotel-santa-monica-c3b48d/,Santa Monica,parking.fee,0,USD,http://www.santamonicaoceanparkhotel.com/our-hotel/policies.html,2026-10-03
 Ocean Park Inn,https://journeyed.org/hotel/ocean-park-inn-santa-monica-ec5ef7/,Santa Monica,parking.available,yes,,https://oceanparkinn.net/rooms-amenities/,2026-10-03
@@ -455,6 +455,9 @@ Terranea Resort,https://journeyed.org/hotel/terranea-resort-rancho-palos-verdes-
 Terranea Resort,https://journeyed.org/hotel/terranea-resort-rancho-palos-verdes-331a7a/,Rancho Palos Verdes,valet.fee,75,USD,https://www.terranea.com/resort-policies,2026-10-03
 The Ambrose Hotel,https://journeyed.org/hotel/the-ambrose-hotel-santa-monica-e38da9/,Santa Monica,parking.available,yes,,https://www.ambrosehotel.com/faq,2026-10-03
 The Ambrose Hotel,https://journeyed.org/hotel/the-ambrose-hotel-santa-monica-e38da9/,Santa Monica,evCharging,yes,,https://www.ambrosehotel.com/faq,2026-10-03
+"The Anthem Los Angeles Stadium District, Tapestry by Hilton",https://journeyed.org/hotel/the-anthem-los-angeles-stadium-district-tapestry-by-hilton-inglewood-a4ac55/,Inglewood,parking.available,yes,,https://www.anthemhotella.com/,2026-10-03
+"The Anthem Los Angeles Stadium District, Tapestry by Hilton",https://journeyed.org/hotel/the-anthem-los-angeles-stadium-district-tapestry-by-hilton-inglewood-a4ac55/,Inglewood,valet.fee,60.50,USD,https://www.anthemhotella.com/,2026-10-03
+"The Anthem Los Angeles Stadium District, Tapestry by Hilton",https://journeyed.org/hotel/the-anthem-los-angeles-stadium-district-tapestry-by-hilton-inglewood-a4ac55/,Inglewood,evCharging,yes,,https://www.anthemhotella.com/,2026-10-03
 The Audemar Hotel,https://journeyed.org/hotel/the-audemar-hotel-los-angeles-54d6f0/,Downtown Los Angeles,parking.available,yes,,https://theaudemar.com/your-stay/,2026-10-03
 The Audemar Hotel,https://journeyed.org/hotel/the-audemar-hotel-los-angeles-54d6f0/,Downtown Los Angeles,parking.fee,35,USD,https://theaudemar.com/your-stay/,2026-10-03
 The Bell Vista,https://journeyed.org/hotel/the-bell-vista-burbank-31be73/,Burbank,parking.available,yes,,https://www.thebellvista.com/overview,2026-10-03
@@ -487,9 +490,6 @@ The Lexmar - Dodger Stadium/hollywood,https://journeyed.org/hotel/the-lexmar-dod
 The LINE LA,https://journeyed.org/hotel/the-line-la-los-angeles-1c473b/,Koreatown,parking.available,yes,,https://www.thelinehotel.com/los-angeles/faq/,2026-10-03
 The LINE LA,https://journeyed.org/hotel/the-line-la-los-angeles-1c473b/,Koreatown,parking.fee,22,USD,https://www.thelinehotel.com/los-angeles/faq/,2026-10-03
 The Live Hotel,https://journeyed.org/hotel/the-live-hotel-los-angeles-0c456a/,Downtown Los Angeles,parking.available,yes,,https://www.thelivehotel.com/faq/,2026-10-03
-The Lum Hotel Los Angeles Stadium District,https://journeyed.org/hotel/the-lum-hotel-los-angeles-stadium-district-inglewood-a4ac55/,Inglewood,parking.available,yes,,https://www.anthemhotella.com/,2026-10-03
-The Lum Hotel Los Angeles Stadium District,https://journeyed.org/hotel/the-lum-hotel-los-angeles-stadium-district-inglewood-a4ac55/,Inglewood,valet.fee,60.50,USD,https://www.anthemhotella.com/,2026-10-03
-The Lum Hotel Los Angeles Stadium District,https://journeyed.org/hotel/the-lum-hotel-los-angeles-stadium-district-inglewood-a4ac55/,Inglewood,evCharging,yes,,https://www.anthemhotella.com/,2026-10-03
 The Moment Hotel,https://journeyed.org/hotel/the-moment-hotel-los-angeles-82b7bf/,West Hollywood,parking.available,yes,,https://www.themomenthotel.com/amenities/,2026-10-03
 The Moment Hotel,https://journeyed.org/hotel/the-moment-hotel-los-angeles-82b7bf/,West Hollywood,parking.fee,35,USD,https://www.themomenthotel.com/amenities/,2026-10-03
 The Pacific Inn,https://journeyed.org/hotel/the-pacific-inn-seal-beach-722df0/,Seal Beach,parking.available,yes,,https://www.thepacificinn.com/about.asp,2026-10-03

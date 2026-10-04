@@ -1,21 +1,21 @@
 # Of 453 LA hotel websites that state any detail of the stay, 52% say what parking costs and 7% mention a resort fee
 
-What LA Hotel Websites Leave Out. Published 2026-10-03. Data checked 2026-10-03.
+What LA Hotel Websites Leave Out. Published 2026-10-03. Data checked 2026-10-04.
 
 On the websites of 453 hotels in the Los Angeles area our crawler could read at least one detail of the stay. We checked each for 18 basic details: 52% state what parking costs, 47% state a pet policy and 7% say anything about a resort fee.
 
-Sample: 453 hotel websites with a detail read, out of 2,612 hotels in the market.
+Sample: 453 hotel websites with a detail read, out of 2,610 hotels in the market.
 
 ## Headline numbers
 
 - **49%** state a check-in time (223 of 453 hotel websites with a detail read)
 - **52%** state what parking costs (235 of 453 hotel websites with a detail read)
-- **47%** state a pet policy (215 of 453 hotel websites with a detail read)
+- **47%** state a pet policy (214 of 453 hotel websites with a detail read)
 - **7%** mention a resort fee, or say there is none (32 of 453 hotel websites with a detail read)
 
 ## Key findings
 
-- Of 2,612 hotels in the Los Angeles area, 2,227 list their own website and 385 list none.
+- Of 2,610 hotels in the Los Angeles area, 2,225 list their own website and 385 list none.
 - We have read at least one detail about the stay from 453 hotel websites. The figures below are shares of those 453, not of every hotel website: sites where our crawler found no detail at all are not counted, so the true shares are lower.
 - Most often stated: free Wi-Fi or a Wi-Fi fee (78%), whether there is parking (64%), what parking costs (52%).
 - Least often stated: security deposit (8%), resort fee, or that there is none (7%), airport shuttle (4%).
@@ -34,7 +34,7 @@ A low share does not mean hotels hide the detail on purpose. Many chain hotels k
 - Accessible rooms: 231 of 453 (51%)
 - Check-out time: 230 of 453 (51%)
 - Check-in time: 223 of 453 (49%)
-- Pet policy: 215 of 453 (47%)
+- Pet policy: 214 of 453 (47%)
 - Pool: 176 of 453 (39%)
 - Smoking policy: 130 of 453 (29%)
 - Fitness room: 121 of 453 (27%)
@@ -49,7 +49,7 @@ A low share does not mean hotels hide the detail on purpose. Many chain hotels k
 
 ## How does that look across every hotel in the market?
 
-Measured against all 2,612 hotels, including those with no website of their own and those whose website gave our crawler nothing to read, the shares are lower still.
+Measured against all 2,610 hotels, including those with no website of their own and those whose website gave our crawler nothing to read, the shares are lower still.
 
 **Hotels stating each detail on their own website**
 
@@ -61,7 +61,7 @@ Measured against all 2,612 hotels, including those with no website of their own 
 | Accessible rooms | 231 | 51% | 9% |
 | Check-out time | 230 | 51% | 9% |
 | Check-in time | 223 | 49% | 9% |
-| Pet policy | 215 | 47% | 8% |
+| Pet policy | 214 | 47% | 8% |
 | Pool | 176 | 39% | 7% |
 | Smoking policy | 130 | 29% | 5% |
 | Fitness room | 121 | 27% | 5% |
@@ -74,11 +74,13 @@ Measured against all 2,612 hotels, including those with no website of their own 
 | Resort fee, or that there is none | 32 | 7% | 1% |
 | Airport shuttle | 19 | 4% | 1% |
 
-Websites with at least one detail read: 453. All hotels: 2,612.
+Websites with at least one detail read: 453. All hotels: 2,610.
+
+Video summary: https://www.youtube.com/watch?v=fMt7y3fe6as
 
 ## Cite this report
 
-Journeyed, "What LA Hotel Websites Leave Out", data checked October 3, 2026, https://journeyed.org/reports/what-la-hotel-websites-leave-out/
+Journeyed, "What LA Hotel Websites Leave Out", data checked October 4, 2026, https://journeyed.org/reports/what-la-hotel-websites-leave-out/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -87,9 +89,9 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 3, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 4, 2026. Nothing comes from booking sites, review sites or guest reports.
 
-The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,612 hotels, motels, inns and hostels. 2,227 of them list their own website, and we have read at least one detail about the stay from 453 of those websites so far. A website our crawler opened but found no such detail on is not among the 453, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
+The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,610 hotels, motels, inns and hostels. 2,225 of them list their own website, and we have read at least one detail about the stay from 453 of those websites so far. A website our crawler opened but found no such detail on is not among the 453, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
 A hotel is counted only when its website states the fact in plain text. Our crawler reads up to 12 pages per site and runs no JavaScript, so a fee that appears only inside a booking widget, an image or a PDF is not counted. A hotel that is not counted may still offer or charge the thing; it has not said so in a form we could read.
 
@@ -105,6 +107,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-03
+Last checked: 2026-10-04
 
 Canonical: https://journeyed.org/reports/what-la-hotel-websites-leave-out/
