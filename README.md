@@ -39,6 +39,27 @@ Hotels in Los Angeles with sourced facts (check-in and check-out times, parking,
 | [los-angeles/anchors.csv](los-angeles/anchors.csv) | Anchors (airports, venues, areas), Los Angeles | 118 |
 | [los-angeles/hotels.json](los-angeles/hotels.json) | Hotels, facts and rankings in one JSON file, Los Angeles |  |
 
+## What Journeyed is
+
+Journeyed (https://journeyed.org/) is an independent guide to hotels in the Los Angeles area. Get to know the details. Every fact shows its source and the date it was checked, every hotel has a 0 to 100 Journeyed Score, and readers vote Yes or No on small details (mattress firmness, water pressure, parking) instead of writing reviews.
+
+- Hotels in Los Angeles: https://journeyed.org/hotels/los-angeles/
+- Guides by neighborhood, venue and travel need: https://journeyed.org/guides/
+- Data reports: https://journeyed.org/reports/
+- How the score works: https://journeyed.org/methodology/
+- For AI agents (JSON and markdown for every page): https://journeyed.org/agents/ and https://journeyed.org/llms.txt
+
+## Findings from the data (as of 2026-10-03)
+
+- **The LA Hotel Parking Report**: 72% of LA hotels that publish a parking price say parking is free. Of 214 hotels in the Los Angeles area that state a self-parking price on their own website, 154 say it is free. Where a price is charged, the median stated price is $27. https://journeyed.org/reports/la-hotel-parking-report/
+- **Resort and Destination Fees at LA Hotels**: The median stated resort fee at LA hotels is $35 a day. 32 hotels in the Los Angeles area state on their own website whether they charge a resort, destination or amenity fee. 28 state a daily amount, from $3 to $125, and 4 say they charge none. https://journeyed.org/reports/la-hotel-resort-fees/
+- **Pet Policies Across LA Hotels**: 42% of LA hotels that state a pet policy allow pets. Of 215 hotels in the Los Angeles area that state a pet policy on their own website, 90 allow pets, 101 do not, and 24 take service animals only. The median stated pet fee is $100. https://journeyed.org/reports/la-hotel-pet-policies/
+- **Hotels Near LA Stadiums and Arenas**: Crypto.com Arena has 215 hotels within 3 miles, Rose Bowl Stadium has 26. We counted the hotels within 1, 3 and 5 miles of 10 stadiums and arenas in the Los Angeles area, and what those hotels say about parking and breakfast on their own websites. https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/
+- **What LA Hotel Websites Leave Out**: Of 453 LA hotel websites that state any detail of the stay, 52% say what parking costs and 7% mention a resort fee. On the websites of 453 hotels in the Los Angeles area our crawler could read at least one detail of the stay. We checked each for 18 basic details: 52% state what parking costs, 47% state a pet policy and 7% say anything about a resort fee. https://journeyed.org/reports/what-la-hotel-websites-leave-out/
+- **Check-in and Check-out Times at LA Hotels**: The usual LA hotel day: check in at 3 PM, check out by 11 AM. Of 223 hotels in the Los Angeles area that state a check-in time on their own website, 54% say 3 PM, and 28% make guests wait until 4 PM or later. https://journeyed.org/reports/la-hotel-check-in-and-check-out-times/
+
+Figures come from what hotels state on their own websites; each report gives its method, sample size and a CSV.
+
 Live copy, rebuilt with the site: https://journeyed.org/data/open/README.txt
 
 ```text
