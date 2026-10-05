@@ -4,7 +4,7 @@ type: dataset
 title: "Journeyed hotel facts and rankings: Los Angeles"
 authors:
   - name: "Journeyed"
-version: "2026-10-04"
-date-released: "2026-10-04"
+version: "2026-10-05"
+date-released: "2026-10-05"
 license: CC-BY-4.0
 url: "https://journeyed.org/data/"

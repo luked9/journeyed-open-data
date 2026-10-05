@@ -1,6 +1,6 @@
 # Crypto.com Arena has 215 hotels within 3 miles, Rose Bowl Stadium has 26
 
-Hotels Near LA Stadiums and Arenas. Published 2026-10-03. Data checked 2026-10-04.
+Hotels Near LA Stadiums and Arenas. Published 2026-10-03. Data checked 2026-10-05.
 
 We counted the hotels within 1, 3 and 5 miles of 10 stadiums and arenas in the Los Angeles area, and what those hotels say about parking and breakfast on their own websites.
 
@@ -65,11 +65,13 @@ For event nights the practical questions are whether the hotel charges for parki
 
 A median charge needs at least 5 stated prices. A hotel that states nothing is not counted as charging or as free.
 
+Also asked as: How many hotels are near SoFi Stadium? · How many hotels are near Crypto.com Arena? · Which Los Angeles stadium has the most hotels nearby? · How many hotels are within walking distance of Dodger Stadium?
+
 Video summary: https://www.youtube.com/watch?v=qC4S_bNi3zk
 
 ## Cite this report
 
-Journeyed, "Hotels Near LA Stadiums and Arenas", data checked October 4, 2026, https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/
+Journeyed, "Hotels Near LA Stadiums and Arenas", data checked October 5, 2026, https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -78,7 +80,7 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 4, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 5, 2026. Nothing comes from booking sites, review sites or guest reports.
 
 The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,610 hotels, motels, inns and hostels. 2,225 of them list their own website, and we have read at least one detail about the stay from 453 of those websites so far. A website our crawler opened but found no such detail on is not among the 453, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
@@ -101,6 +103,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-04
+Last checked: 2026-10-05
 
 Canonical: https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/
