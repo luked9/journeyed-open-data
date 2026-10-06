@@ -1,6 +1,6 @@
 # Answers about Los Angeles hotels
 
-748 questions people ask about where to stay in Los Angeles, each with the short answer from Journeyed as of 2026-10-05. Each link opens the full ranking, with the fact behind every hotel, its source and the date it was checked. Canonical index: https://journeyed.org/answers.json
+748 questions people ask about where to stay in Los Angeles, each with the short answer from Journeyed as of 2026-10-06. Each link opens the full ranking, with the fact behind every hotel, its source and the date it was checked. Canonical index: https://journeyed.org/answers.json
 
 ## Disneyland Resort
 

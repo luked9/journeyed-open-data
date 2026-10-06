@@ -5,7 +5,7 @@ Hotels in Los Angeles with sourced facts (check-in and check-out times, parking,
 
 Journeyed is an independent guide to hotels in Los Angeles, built from sourced facts and reader votes. Get to know the details.
 
-Version: 2026-10-05
+Version: 2026-10-06
 Landing page: https://journeyed.org/data/
 Methodology: https://journeyed.org/methodology/
 License: Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/)

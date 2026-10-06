@@ -23,4 +23,4 @@ Uses
   Not suitable: prices or availability (not included), guest satisfaction (no review data is included).
 
 Distribution and maintenance
-  License CC BY 4.0. Rebuilt with every site build; this copy is 2026-10-05. Versioned by date. Corrections: https://journeyed.org/corrections/.
+  License CC BY 4.0. Rebuilt with every site build; this copy is 2026-10-06. Versioned by date. Corrections: https://journeyed.org/corrections/.
