@@ -5,7 +5,7 @@ Hotels in Los Angeles with sourced facts (check-in and check-out times, parking,
 
 Journeyed is an independent guide to hotels in Los Angeles, built from sourced facts and reader votes. Get to know the details.
 
-Version: 2026-10-06
+Version: 2026-10-07
 Landing page: https://journeyed.org/data/
 Methodology: https://journeyed.org/methodology/
 License: Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/)
@@ -13,7 +13,7 @@ Attribute as: Journeyed (https://journeyed.org/), CC BY 4.0, with a link to the 
 
 Contents
 --------
-- Los Angeles: 2610 hotels, 10421 sourced facts, 748 questions, 23849 ranking rows, 118 anchors
+- Los Angeles: 2608 hotels, 10418 sourced facts, 888 questions, 30633 ranking rows, 118 anchors
 
 Los Angeles:
   https://journeyed.org/data/open/los-angeles/hotels.csv     one row per hotel (place record, score, page URL)

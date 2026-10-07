@@ -1,21 +1,21 @@
 # 72% of LA hotels that publish a parking price say parking is free
 
-The LA Hotel Parking Report. Published 2026-10-03. Data checked 2026-10-06.
+The LA Hotel Parking Report. Published 2026-10-03. Data checked 2026-10-07.
 
 Of 214 hotels in the Los Angeles area that state a self-parking price on their own website, 154 say it is free. Where a price is charged, the median stated price is $27.
 
-Sample: 214 hotels that state a self-parking price, out of 453 hotel websites with a detail read and 2,610 hotels in the market.
+Sample: 214 hotels that state a self-parking price, out of 453 hotel websites with a detail read and 2,608 hotels in the market.
 
 ## Headline numbers
 
 - **72%** say self-parking is free (154 of 214 hotels that state a self-parking price)
 - **$27** median stated self-parking price where one is charged (49 hotels stating a price, from $10 to $79)
 - **$60** median stated valet price (30 hotels stating a valet price, from $25 to $79)
-- **8%** of all hotels state a self-parking price (214 of 2,610 hotels in the market)
+- **8%** of all hotels state a self-parking price (214 of 2,608 hotels in the market)
 
 ## Key findings
 
-- Of the 2,610 hotels in the Los Angeles area, 214 (8%) state a self-parking price on their own website in a form software can read.
+- Of the 2,608 hotels in the Los Angeles area, 214 (8%) state a self-parking price on their own website in a form software can read.
 - Of those 214, 154 (72%) say self-parking is free.
 - 49 hotels state a price for self-parking. The median is $27, the middle half runs from $21 to $37 and the full range is $10 to $79.
 - 30 hotels state a valet price. The median is $60 and the range is $25 to $79.
@@ -91,7 +91,7 @@ Video summary: https://www.youtube.com/watch?v=1QJQm5Mg1Fk
 
 ## Cite this report
 
-Journeyed, "The LA Hotel Parking Report", data checked October 6, 2026, https://journeyed.org/reports/la-hotel-parking-report/
+Journeyed, "The LA Hotel Parking Report", data checked October 7, 2026, https://journeyed.org/reports/la-hotel-parking-report/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -102,7 +102,7 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 5, 2026. Nothing comes from booking sites, review sites or guest reports.
 
-The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,610 hotels, motels, inns and hostels. 2,225 of them list their own website, and we have read at least one detail about the stay from 453 of those websites so far. A website our crawler opened but found no such detail on is not among the 453, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
+The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,224 of them list their own website, and we have read at least one detail about the stay from 453 of those websites so far. A website our crawler opened but found no such detail on is not among the 453, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
 A hotel is counted only when its website states the fact in plain text. Our crawler reads up to 12 pages per site and runs no JavaScript, so a fee that appears only inside a booking widget, an image or a PDF is not counted. A hotel that is not counted may still offer or charge the thing; it has not said so in a form we could read.
 
@@ -118,6 +118,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-06
+Last checked: 2026-10-07
 
 Canonical: https://journeyed.org/reports/la-hotel-parking-report/
