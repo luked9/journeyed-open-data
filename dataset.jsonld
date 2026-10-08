@@ -19,8 +19,8 @@
     "name": "Journeyed",
     "url": "https://journeyed.org/"
   },
-  "dateModified": "2026-10-07",
-  "version": "2026-10-07",
+  "dateModified": "2026-10-08",
+  "version": "2026-10-08",
   "keywords": [
     "hotels",
     "lodging",
@@ -39,12 +39,12 @@
       "box": "33.3 -118.952 34.824 -117.645"
     }
   },
-  "temporalCoverage": "2026-10-07/2026-10-07",
+  "temporalCoverage": "2026-10-08/2026-10-08",
   "measurementTechnique": "Facts are read from open place data and hotels' own websites and kept with their source and checked date; scores and rankings follow the published methodology at https://journeyed.org/methodology/",
   "isBasedOn": [
     "https://docs.overturemaps.org/guides/places/"
   ],
-  "citation": "Journeyed. Journeyed hotel facts and rankings: Los Angeles. 2026-10-07. https://journeyed.org/data/",
+  "citation": "Journeyed. Journeyed hotel facts and rankings: Los Angeles. 2026-10-08. https://journeyed.org/data/",
   "distribution": [
     {
       "@type": "DataDownload",
