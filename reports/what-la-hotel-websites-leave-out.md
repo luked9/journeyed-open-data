@@ -1,6 +1,6 @@
 # Of 453 LA hotel websites that state any detail of the stay, 52% say what parking costs and 7% mention a resort fee
 
-What LA Hotel Websites Leave Out. Published 2026-10-03. Data checked 2026-10-08.
+What LA Hotel Websites Leave Out. Published 2026-10-03. Data checked 2026-10-09.
 
 On the websites of 453 hotels in the Los Angeles area our crawler could read at least one detail of the stay. We checked each for 18 basic details: 52% state what parking costs, 47% state a pet policy and 7% say anything about a resort fee.
 
@@ -82,7 +82,7 @@ Video summary: https://www.youtube.com/watch?v=fMt7y3fe6as
 
 ## Cite this report
 
-Journeyed, "What LA Hotel Websites Leave Out", data checked October 8, 2026, https://journeyed.org/reports/what-la-hotel-websites-leave-out/
+Journeyed, "What LA Hotel Websites Leave Out", data checked October 9, 2026, https://journeyed.org/reports/what-la-hotel-websites-leave-out/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -109,6 +109,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-08
+Last checked: 2026-10-09
 
 Canonical: https://journeyed.org/reports/what-la-hotel-websites-leave-out/

@@ -1,6 +1,6 @@
 # The usual LA hotel day: check in at 3 PM, check out by 11 AM
 
-Check-in and Check-out Times at LA Hotels. Published 2026-10-03. Data checked 2026-10-08.
+Check-in and Check-out Times at LA Hotels. Published 2026-10-03. Data checked 2026-10-09.
 
 Of 223 hotels in the Los Angeles area that state a check-in time on their own website, 54% say 3 PM, and 28% make guests wait until 4 PM or later.
 
@@ -64,7 +64,7 @@ Video summary: https://www.youtube.com/watch?v=JX2W2QCuQYI
 
 ## Cite this report
 
-Journeyed, "Check-in and Check-out Times at LA Hotels", data checked October 8, 2026, https://journeyed.org/reports/la-hotel-check-in-and-check-out-times/
+Journeyed, "Check-in and Check-out Times at LA Hotels", data checked October 9, 2026, https://journeyed.org/reports/la-hotel-check-in-and-check-out-times/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -91,6 +91,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-08
+Last checked: 2026-10-09
 
 Canonical: https://journeyed.org/reports/la-hotel-check-in-and-check-out-times/

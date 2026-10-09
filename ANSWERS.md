@@ -1,6 +1,6 @@
 # Answers about Los Angeles hotels
 
-930 questions people ask about where to stay in Los Angeles, each with the short answer from Journeyed as of 2026-10-08. Each link opens the full ranking, with the fact behind every hotel, its source and the date it was checked. Canonical index: https://journeyed.org/answers.json
+930 questions people ask about where to stay in Los Angeles, each with the short answer from Journeyed as of 2026-10-09. Each link opens the full ranking, with the fact behind every hotel, its source and the date it was checked. Canonical index: https://journeyed.org/answers.json
 
 ## Los Angeles International Airport
 
