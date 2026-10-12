@@ -1,6 +1,6 @@
 # The median stated resort fee at LA hotels is $35 a day
 
-Resort and Destination Fees at LA Hotels. Published 2026-10-03. Data checked 2026-10-11.
+Resort and Destination Fees at LA Hotels. Published 2026-10-03. Data checked 2026-10-12.
 
 31 hotels in the Los Angeles area state on their own website whether they charge a resort, destination or amenity fee. 27 state a daily amount, from $3 to $125, and 4 say they charge none.
 
@@ -19,7 +19,7 @@ Sample: 31 hotels that state a resort fee policy, out of 454 hotel websites with
 - The median stated fee is $35 a day, the middle half runs from $25 to $45 and the range is $3 to $125.
 - 34 hotels state a fee for smoking in a room. The median is $250 and the highest is $750.
 - 36 hotels state a security deposit or card hold. The median is $100.
-- Of the 351 hotels that mention Wi-Fi, 349 (99%) say it is free.
+- Of the 352 hotels that mention Wi-Fi, 350 (99%) say it is free.
 
 ## How many LA hotels state a resort fee, and how much is it?
 
@@ -89,7 +89,7 @@ Video summary: https://www.youtube.com/watch?v=tWwIHHQ2mm0
 
 ## Cite this report
 
-Journeyed, "Resort and Destination Fees at LA Hotels", data checked October 11, 2026, https://journeyed.org/reports/la-hotel-resort-fees/
+Journeyed, "Resort and Destination Fees at LA Hotels", data checked October 12, 2026, https://journeyed.org/reports/la-hotel-resort-fees/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -98,7 +98,7 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 11, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 12, 2026. Nothing comes from booking sites, review sites or guest reports.
 
 The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,224 of them list their own website, and we have read at least one detail about the stay from 454 of those websites so far. A website our crawler opened but found no such detail on is not among the 454, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
@@ -121,6 +121,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-11
+Last checked: 2026-10-12
 
 Canonical: https://journeyed.org/reports/la-hotel-resort-fees/
