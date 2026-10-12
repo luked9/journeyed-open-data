@@ -106,4 +106,6 @@ A hotel or anyone else can correct a fact at https://journeyed.org/claim/ or htt
 
 ## MCP server for agents
 
-The same facts are available live to AI agents through a remote MCP server (no key, read-only): `https://journeyed.org/mcp`. See [MCP.md](MCP.md). Registry entry: `org.journeyed/hotels`.
+The same facts are available live to AI agents through a remote MCP server (no key, read-only): `https://journeyed.org/mcp`. See [MCP.md](MCP.md). Registry entry: `org.journeyed/hotels`. Smithery: https://smithery.ai/servers/luke-zsfm/journeyed
+
+[![smithery badge](https://smithery.ai/badge/luke-zsfm/journeyed)](https://smithery.ai/servers/luke-zsfm/journeyed)

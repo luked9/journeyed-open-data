@@ -2,6 +2,10 @@
 
 A remote [Model Context Protocol](https://modelcontextprotocol.io) server. No key, read-only.
 
+[![smithery badge](https://smithery.ai/badge/luke-zsfm/journeyed)](https://smithery.ai/servers/luke-zsfm/journeyed)
+
+On Smithery: https://smithery.ai/servers/luke-zsfm/journeyed
+
 - Endpoint (streamable HTTP): `https://journeyed.org/mcp`
 - Manifest: https://journeyed.org/.well-known/mcp.json
 - Docs for agents: https://journeyed.org/agents/
