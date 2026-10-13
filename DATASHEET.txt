@@ -5,7 +5,7 @@ Motivation
   Who: Journeyed.
 
 Composition
-  Los Angeles: 2608 hotels, 10451 sourced facts, 930 questions, 32517 ranking rows, 121 anchors.
+  Los Angeles: 2608 hotels, 10451 sourced facts, 1151 questions, 37660 ranking rows, 121 anchors.
   Each fact row is one value from one source. Two rows with the same place and key are two sources; the site shows the most recently checked one.
   Missing values mean we have not verified the fact, never that the hotel lacks the amenity.
   No personal data: the only phone numbers and websites are businesses' public contact details from the place record.

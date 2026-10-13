@@ -215,7 +215,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "rows": 930,
+      "rows": 1151,
       "schema": {
         "fields": [
           {
@@ -283,7 +283,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "rows": 32517,
+      "rows": 37660,
       "schema": {
         "fields": [
           {

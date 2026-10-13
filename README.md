@@ -34,14 +34,14 @@ Hotels in Los Angeles with sourced facts (check-in and check-out times, parking,
 |---|---|---|
 | [los-angeles/hotels.csv](los-angeles/hotels.csv) | Hotels in Los Angeles | 2608 |
 | [los-angeles/facts.csv](los-angeles/facts.csv) | Sourced hotel facts, Los Angeles | 10451 |
-| [los-angeles/questions.csv](los-angeles/questions.csv) | Questions and direct answers, Los Angeles | 930 |
-| [los-angeles/rankings.csv](los-angeles/rankings.csv) | Full rankings per question, Los Angeles | 32517 |
+| [los-angeles/questions.csv](los-angeles/questions.csv) | Questions and direct answers, Los Angeles | 1151 |
+| [los-angeles/rankings.csv](los-angeles/rankings.csv) | Full rankings per question, Los Angeles | 37660 |
 | [los-angeles/anchors.csv](los-angeles/anchors.csv) | Anchors (airports, venues, areas), Los Angeles | 121 |
 | [los-angeles/hotels.json](los-angeles/hotels.json) | Hotels, facts and rankings in one JSON file, Los Angeles |  |
 
 ## What Journeyed is
 
-Journeyed (https://journeyed.org/) is an independent guide to hotels in the Los Angeles area. Get to know the details. Every fact shows its source and the date it was checked, every hotel has a 0 to 100 Journeyed Score, and readers vote Yes or No on small details (mattress firmness, water pressure, parking) instead of writing reviews.
+Journeyed (https://journeyed.org/) is a guide to hotels in the Los Angeles area. Get to know the details. Every fact shows its source and the date it was checked, every hotel has a 0 to 100 Journeyed Score, and readers vote Yes or No on small details (mattress firmness, water pressure, parking) instead of writing reviews.
 
 - Hotels in Los Angeles: https://journeyed.org/hotels/los-angeles/
 - Guides by neighborhood, venue and travel need: https://journeyed.org/guides/
@@ -49,6 +49,18 @@ Journeyed (https://journeyed.org/) is an independent guide to hotels in the Los 
 - Short answers to every published question: [ANSWERS.md](ANSWERS.md)
 - How the score works: https://journeyed.org/methodology/
 - For AI agents (JSON and markdown for every page): https://journeyed.org/agents/ and https://journeyed.org/llms.txt
+
+## Owner-published guide sites
+
+Some hotel owners publish a guide site about their hotel, apart from the brand's own site. Journeyed links them from the hotel page as "Owner's guide" and lists them here; each was checked in a browser on the date shown. Journeyed reads no facts from these sites.
+
+- Courtyard by Marriott Los Angeles LAX/Hawthorne: https://courtyardlaxhawthornefaq.com/ (checked 2026-10-12)
+- TownePlace Suites by Marriott Los Angeles LAX/Hawthorne: https://towneplacehawthornefaq.com/ (checked 2026-10-12)
+- SpringHill Suites by Marriott Los Angeles LAX/Manhattan Beach: https://springhillsuiteslaxfaq.com/ (checked 2026-10-12)
+- TownePlace Suites by Marriott Los Angeles LAX/Manhattan Beach: https://towneplacesuiteslaxfaq.com/ (checked 2026-10-12)
+- Hilton Garden Inn Los Angeles/Redondo Beach: https://hiltongardeninnredondofaq.com/ (checked 2026-10-12)
+- Homewood Suites by Hilton Los Angeles Redondo Beach: https://homewoodsuitesredondofaq.com/ (checked 2026-10-12)
+- Residence Inn by Marriott Los Angeles Redondo Beach: https://residenceinnredondofaq.com/ (checked 2026-10-12)
 
 ## Findings from the data (as of 2026-10-03)
 
@@ -69,7 +81,7 @@ Journeyed hotel facts and rankings: Los Angeles
 
 Hotels in Los Angeles with sourced facts (check-in and check-out times, parking, pets, breakfast, pool, Wi-Fi, accessibility and more), each with its source URL and the date it was checked, plus the 0 to 100 score per hotel and the full ranking for every published question. Built by Journeyed from open place data and facts read from hotels' own websites within robots.txt. No photos, reviews or copied text.
 
-Journeyed is an independent guide to hotels in Los Angeles, built from sourced facts and reader votes. Get to know the details.
+Journeyed is a guide to hotels in Los Angeles, built from sourced facts and reader votes. Get to know the details.
 
 Version: 2026-10-12
 Landing page: https://journeyed.org/data/
@@ -79,7 +91,7 @@ Attribute as: Journeyed (https://journeyed.org/), CC BY 4.0, with a link to the 
 
 Contents
 --------
-- Los Angeles: 2608 hotels, 10451 sourced facts, 930 questions, 32517 ranking rows, 121 anchors
+- Los Angeles: 2608 hotels, 10451 sourced facts, 1151 questions, 37660 ranking rows, 121 anchors
 
 Los Angeles:
   https://journeyed.org/data/open/los-angeles/hotels.csv     one row per hotel (place record, score, page URL)
