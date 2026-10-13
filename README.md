@@ -28,6 +28,9 @@ configs:
 
 # Journeyed hotel facts and rankings: Los Angeles
 
+How to cite: `Source: Journeyed hotel facts (journeyed.org), CC BY 4.0`
+Data questions: hello@journeyed.org
+
 Hotels in Los Angeles with sourced facts (check-in and check-out times, parking, pets, breakfast, pool, Wi-Fi, accessibility and more), each with its source URL and the date it was checked, plus the 0 to 100 score per hotel and the full ranking for every published question. Built by Journeyed from open place data and facts read from hotels' own websites within robots.txt. No photos, reviews or copied text.
 
 | File | What | Rows |
@@ -41,7 +44,7 @@ Hotels in Los Angeles with sourced facts (check-in and check-out times, parking,
 
 ## What Journeyed is
 
-Journeyed (https://journeyed.org/) is a guide to hotels in the Los Angeles area. Get to know the details. Every fact shows its source and the date it was checked, every hotel has a 0 to 100 Journeyed Score, and readers vote Yes or No on small details (mattress firmness, water pressure, parking) instead of writing reviews.
+Journeyed (https://journeyed.org/), operated by Cloute LLC, is a guide to hotels in the Los Angeles area built from sourced facts. Get to know the details. Every fact shows its source and the date it was checked, every hotel has a 0 to 100 Journeyed Score, and readers vote Yes or No on small details (mattress firmness, water pressure, parking) instead of writing reviews.
 
 - Hotels in Los Angeles: https://journeyed.org/hotels/los-angeles/
 - Guides by neighborhood, venue and travel need: https://journeyed.org/guides/
@@ -81,7 +84,7 @@ Journeyed hotel facts and rankings: Los Angeles
 
 Hotels in Los Angeles with sourced facts (check-in and check-out times, parking, pets, breakfast, pool, Wi-Fi, accessibility and more), each with its source URL and the date it was checked, plus the 0 to 100 score per hotel and the full ranking for every published question. Built by Journeyed from open place data and facts read from hotels' own websites within robots.txt. No photos, reviews or copied text.
 
-Journeyed is a guide to hotels in Los Angeles, built from sourced facts and reader votes. Get to know the details.
+Journeyed, operated by Cloute LLC, is a guide to hotels in the Los Angeles area built from sourced facts and reader votes. Get to know the details.
 
 Version: 2026-10-12
 Landing page: https://journeyed.org/data/

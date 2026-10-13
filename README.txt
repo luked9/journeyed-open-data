@@ -1,9 +1,12 @@
 Journeyed hotel facts and rankings: Los Angeles
 ===============================================
 
+How to cite: Source: Journeyed hotel facts (journeyed.org), CC BY 4.0
+Data questions: hello@journeyed.org
+
 Hotels in Los Angeles with sourced facts (check-in and check-out times, parking, pets, breakfast, pool, Wi-Fi, accessibility and more), each with its source URL and the date it was checked, plus the 0 to 100 score per hotel and the full ranking for every published question. Built by Journeyed from open place data and facts read from hotels' own websites within robots.txt. No photos, reviews or copied text.
 
-Journeyed is a guide to hotels in Los Angeles, built from sourced facts and reader votes. Get to know the details.
+Journeyed, operated by Cloute LLC, is a guide to hotels in the Los Angeles area built from sourced facts and reader votes. Get to know the details.
 
 Version: 2026-10-12
 Landing page: https://journeyed.org/data/
