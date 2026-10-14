@@ -1,6 +1,6 @@
 # 71% of LA hotels that publish a parking price say parking is free
 
-The LA Hotel Parking Report. Published 2026-10-03. Data checked 2026-10-13.
+The LA Hotel Parking Report. Published 2026-10-03. Data checked 2026-10-14.
 
 Of 216 hotels in the Los Angeles area that state a self-parking price on their own website, 154 say it is free. Where a price is charged, the median stated price is $30.
 
@@ -90,7 +90,7 @@ Video summary: https://www.youtube.com/watch?v=1QJQm5Mg1Fk
 
 ## Cite this report
 
-Journeyed, "The LA Hotel Parking Report", data checked October 13, 2026, https://journeyed.org/reports/la-hotel-parking-report/
+Journeyed, "The LA Hotel Parking Report", data checked October 14, 2026, https://journeyed.org/reports/la-hotel-parking-report/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -117,6 +117,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-13
+Last checked: 2026-10-14
 
 Canonical: https://journeyed.org/reports/la-hotel-parking-report/
