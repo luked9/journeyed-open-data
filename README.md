@@ -28,15 +28,12 @@ configs:
 
 # Journeyed hotel facts and rankings: Los Angeles
 
-How to cite: `Source: Journeyed hotel facts (journeyed.org), CC BY 4.0`
-Data questions: hello@journeyed.org
-
 Hotels in Los Angeles with sourced facts (check-in and check-out times, parking, pets, breakfast, pool, Wi-Fi, accessibility and more), each with its source URL and the date it was checked, plus the 0 to 100 score per hotel and the full ranking for every published question. Built by Journeyed from open place data and facts read from hotels' own websites within robots.txt. No photos, reviews or copied text.
 
 | File | What | Rows |
 |---|---|---|
 | [los-angeles/hotels.csv](los-angeles/hotels.csv) | Hotels in Los Angeles | 2608 |
-| [los-angeles/facts.csv](los-angeles/facts.csv) | Sourced hotel facts, Los Angeles | 10451 |
+| [los-angeles/facts.csv](los-angeles/facts.csv) | Sourced hotel facts, Los Angeles | 10450 |
 | [los-angeles/questions.csv](los-angeles/questions.csv) | Questions and direct answers, Los Angeles | 1151 |
 | [los-angeles/rankings.csv](los-angeles/rankings.csv) | Full rankings per question, Los Angeles | 37660 |
 | [los-angeles/anchors.csv](los-angeles/anchors.csv) | Anchors (airports, venues, areas), Los Angeles | 121 |
@@ -44,7 +41,7 @@ Hotels in Los Angeles with sourced facts (check-in and check-out times, parking,
 
 ## What Journeyed is
 
-Journeyed (https://journeyed.org/), operated by Cloute LLC, is a guide to hotels in the Los Angeles area built from sourced facts. Get to know the details. Every fact shows its source and the date it was checked, every hotel has a 0 to 100 Journeyed Score, and readers vote Yes or No on small details (mattress firmness, water pressure, parking) instead of writing reviews.
+Journeyed (https://journeyed.org/) is a guide to hotels in the Los Angeles area. Get to know the details. Every fact shows its source and the date it was checked, every hotel has a 0 to 100 Journeyed Score, and readers vote Yes or No on small details (mattress firmness, water pressure, parking) instead of writing reviews.
 
 - Hotels in Los Angeles: https://journeyed.org/hotels/los-angeles/
 - Guides by neighborhood, venue and travel need: https://journeyed.org/guides/
@@ -65,14 +62,15 @@ Some hotel owners publish a guide site about their hotel, apart from the brand's
 - Homewood Suites by Hilton Los Angeles Redondo Beach: https://homewoodsuitesredondofaq.com/ (checked 2026-10-12)
 - Residence Inn by Marriott Los Angeles Redondo Beach: https://residenceinnredondofaq.com/ (checked 2026-10-12)
 
-## Findings from the data (as of 2026-10-03)
+## Findings from the data (as of 2026-10-13)
 
-- **The LA Hotel Parking Report**: 72% of LA hotels that publish a parking price say parking is free. Of 214 hotels in the Los Angeles area that state a self-parking price on their own website, 154 say it is free. Where a price is charged, the median stated price is $27. https://journeyed.org/reports/la-hotel-parking-report/
-- **Resort and Destination Fees at LA Hotels**: The median stated resort fee at LA hotels is $35 a day. 32 hotels in the Los Angeles area state on their own website whether they charge a resort, destination or amenity fee. 28 state a daily amount, from $3 to $125, and 4 say they charge none. https://journeyed.org/reports/la-hotel-resort-fees/
-- **Pet Policies Across LA Hotels**: 42% of LA hotels that state a pet policy allow pets. Of 215 hotels in the Los Angeles area that state a pet policy on their own website, 90 allow pets, 101 do not, and 24 take service animals only. The median stated pet fee is $100. https://journeyed.org/reports/la-hotel-pet-policies/
+- **The LA Hotel Parking Report**: 71% of LA hotels that publish a parking price say parking is free. Of 216 hotels in the Los Angeles area that state a self-parking price on their own website, 154 say it is free. Where a price is charged, the median stated price is $30. https://journeyed.org/reports/la-hotel-parking-report/
+- **Resort and Destination Fees at LA Hotels**: The median stated resort fee at LA hotels is $35 a day. 31 hotels in the Los Angeles area state on their own website whether they charge a resort, destination or amenity fee. 27 state a daily amount, from $3 to $125, and 4 say they charge none. https://journeyed.org/reports/la-hotel-resort-fees/
+- **Pet Policies Across LA Hotels**: 42% of LA hotels that state a pet policy allow pets. Of 214 hotels in the Los Angeles area that state a pet policy on their own website, 90 allow pets, 100 do not, and 24 take service animals only. The median stated pet fee is $100. https://journeyed.org/reports/la-hotel-pet-policies/
 - **Hotels Near LA Stadiums and Arenas**: Crypto.com Arena has 215 hotels within 3 miles, Rose Bowl Stadium has 26. We counted the hotels within 1, 3 and 5 miles of 10 stadiums and arenas in the Los Angeles area, and what those hotels say about parking and breakfast on their own websites. https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/
-- **What LA Hotel Websites Leave Out**: Of 453 LA hotel websites that state any detail of the stay, 52% say what parking costs and 7% mention a resort fee. On the websites of 453 hotels in the Los Angeles area our crawler could read at least one detail of the stay. We checked each for 18 basic details: 52% state what parking costs, 47% state a pet policy and 7% say anything about a resort fee. https://journeyed.org/reports/what-la-hotel-websites-leave-out/
+- **What LA Hotel Websites Leave Out**: Of 454 LA hotel websites that state any detail of the stay, 52% say what parking costs and 7% mention a resort fee. On the websites of 454 hotels in the Los Angeles area our crawler could read at least one detail of the stay. We checked each for 18 basic details: 52% state what parking costs, 47% state a pet policy and 7% say anything about a resort fee. https://journeyed.org/reports/what-la-hotel-websites-leave-out/
 - **Check-in and Check-out Times at LA Hotels**: The usual LA hotel day: check in at 3 PM, check out by 11 AM. Of 223 hotels in the Los Angeles area that state a check-in time on their own website, 54% say 3 PM, and 28% make guests wait until 4 PM or later. https://journeyed.org/reports/la-hotel-check-in-and-check-out-times/
+- **The Journeyed LA Hotel Fee Index**: LA Hotel Fee Index, October 2026: median stated self-parking charge is $30 a night. A monthly index of the fees hotels in the Los Angeles area state on their own websites. October 2026 edition: 216 hotels state a self-parking price and 154 (71%) say it is free, with a median charge of $30 a night where one is charged. 27 hotels state a resort or destination fee amount, median $35 a night. 46 state a pet fee, median $100. https://journeyed.org/reports/la-hotel-fee-index/
 
 Figures come from what hotels state on their own websites; each report gives its method, sample size and a CSV.
 
@@ -84,9 +82,9 @@ Journeyed hotel facts and rankings: Los Angeles
 
 Hotels in Los Angeles with sourced facts (check-in and check-out times, parking, pets, breakfast, pool, Wi-Fi, accessibility and more), each with its source URL and the date it was checked, plus the 0 to 100 score per hotel and the full ranking for every published question. Built by Journeyed from open place data and facts read from hotels' own websites within robots.txt. No photos, reviews or copied text.
 
-Journeyed, operated by Cloute LLC, is a guide to hotels in the Los Angeles area built from sourced facts and reader votes. Get to know the details.
+Journeyed is a guide to hotels in Los Angeles, built from sourced facts and reader votes. Get to know the details.
 
-Version: 2026-10-12
+Version: 2026-10-13
 Landing page: https://journeyed.org/data/
 Methodology: https://journeyed.org/methodology/
 License: Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/)
@@ -94,7 +92,7 @@ Attribute as: Journeyed (https://journeyed.org/), CC BY 4.0, with a link to the 
 
 Contents
 --------
-- Los Angeles: 2608 hotels, 10451 sourced facts, 1151 questions, 37660 ranking rows, 121 anchors
+- Los Angeles: 2608 hotels, 10450 sourced facts, 1151 questions, 37660 ranking rows, 121 anchors
 
 Los Angeles:
   https://journeyed.org/data/open/los-angeles/hotels.csv     one row per hotel (place record, score, page URL)
@@ -118,9 +116,3 @@ Corrections
 -----------
 A hotel or anyone else can correct a fact at https://journeyed.org/claim/ or https://journeyed.org/corrections/. The dataset is rebuilt with the site.
 ```
-
-## MCP server for agents
-
-The same facts are available live to AI agents through a remote MCP server (no key, read-only): `https://journeyed.org/mcp`. See [MCP.md](MCP.md). Registry entry: `org.journeyed/hotels`. Smithery: https://smithery.ai/servers/luke-zsfm/journeyed
-
-[![smithery badge](https://smithery.ai/badge/luke-zsfm/journeyed)](https://smithery.ai/servers/luke-zsfm/journeyed)
