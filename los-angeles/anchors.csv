@@ -26,12 +26,14 @@ covina,Covina,area,,,Covina CA | Covina California,2,https://www.openstreetmap.o
 crypto-com-arena,Crypto.com Arena,venue,,,Crypto arena | Staples Center | Staples Center Los Angeles,1.5,https://www.openstreetmap.org/way/428021739
 culver-city,Culver City,area,,,Culver City CA | Culver City California,2,https://www.openstreetmap.org/relation/3492137
 cypress,Cypress,area,,,Cypress CA | Cypress California,2,https://www.openstreetmap.org/relation/6013836
+dignity-health-sports-park,Dignity Health Sports Park,venue,,,StubHub Center | Home Depot Center | Dignity Health Park | LA Galaxy stadium | Carson stadium,3,https://www.openstreetmap.org/way/966517632
 disneyland,Disneyland Resort,attraction,,,Disneyland | Disneyland Anaheim | Disneyland Park | Disney California Adventure,3,https://www.openstreetmap.org/relation/5586855
 dodger-stadium,Dodger Stadium,venue,,,Dodgers stadium | Chavez Ravine,3,https://www.openstreetmap.org/way/1353249584
 downey,Downey,area,,,Downey CA | Downey California,2,https://www.openstreetmap.org/relation/3529373
 downtown-la,Downtown Los Angeles,area,,,Downtown LA | DTLA | downtown Los Angeles,2,https://www.openstreetmap.org/way/80579943
 downtown-long-beach,Downtown Long Beach,area,,,Long Beach downtown | Downtown Long Beach CA | Long Beach CA | Long Beach California,2,https://www.openstreetmap.org/relation/112100
 echo-park,Echo Park,area,,,Echo Park CA | Echo Park California,2,https://www.openstreetmap.org/node/2770492362
+el-camino-college,El Camino College,campus,,,ECC | El Camino Community College | El Camino College Torrance,2,https://www.openstreetmap.org/way/45306471
 el-monte,El Monte,area,,,El Monte CA | El Monte California,2,https://www.openstreetmap.org/relation/16310540
 el-segundo,El Segundo,area,,,El Segundo CA | El Segundo business district,2,https://www.openstreetmap.org/node/368171453
 fountain-valley,Fountain Valley,area,,,Fountain Valley CA | Fountain Valley California,2,https://www.openstreetmap.org/relation/5982789
@@ -41,6 +43,7 @@ gardena,Gardena,area,,,Gardena CA | Gardena California,2,https://www.openstreetm
 getty-center,Getty Center,attraction,,,The Getty | Getty Museum | J. Paul Getty Museum,3,https://www.openstreetmap.org/node/4745189816
 glendale,Glendale,area,,,Glendale CA | Glendale California,2,https://www.openstreetmap.org/relation/2313082
 griffith-observatory,Griffith Observatory,attraction,,,Griffith Park Observatory | Griffith Park,3,https://www.openstreetmap.org/way/422130705
+harbor-ucla,Harbor-UCLA Medical Center,hospital,,,Harbor UCLA | Harbor-UCLA | Harbor UCLA hospital | Harbor General,2,https://www.openstreetmap.org/way/49836233
 hawthorne,Hawthorne,area,,,Hawthorne CA | Hawthorne California,2,https://www.openstreetmap.org/relation/2317585
 hermosa-beach,Hermosa Beach,area,,,Hermosa Beach CA | Hermosa Beach California,2,https://www.openstreetmap.org/relation/2317586
 hollywood,Hollywood,area,,,Hollywood CA | Hollywood and Vine,2,https://www.openstreetmap.org/node/5041566108
@@ -82,6 +85,7 @@ orange,Orange,area,,,Orange CA | Orange California,2,https://www.openstreetmap.o
 pasadena,Pasadena,area,,,Pasadena CA | Old Pasadena | Old Town Pasadena,2,https://www.openstreetmap.org/way/37741479
 playa-vista,Playa Vista,area,,,Playa Vista CA | Playa Vista California,2,https://www.openstreetmap.org/node/7301120282
 pomona,Pomona,area,,,Pomona CA | Pomona California,2,https://www.openstreetmap.org/relation/1532363
+providence-torrance,Providence Little Company of Mary Medical Center Torrance,hospital,,,Little Company of Mary | Providence Little Company of Mary Torrance | Providence Torrance | LCM Torrance,2,https://www.openstreetmap.org/way/285842342
 redondo-beach,"Redondo Beach, CA",area,,,Redondo Beach CA | Redondo Beach California,2,https://www.openstreetmap.org/relation/2314270
 redondo-beach-pier,Redondo Beach Pier,beach,,,Redondo pier | Redondo Beach | King Harbor,2,https://www.openstreetmap.org/relation/9363404
 rose-bowl,Rose Bowl Stadium,venue,,,Rose Bowl | Rose Bowl Pasadena,3,https://www.openstreetmap.org/way/5208863
@@ -102,6 +106,8 @@ tcl-chinese-theatre,TCL Chinese Theatre,attraction,,,Hollywood Walk of Fame | Wa
 the-grove,The Grove,attraction,,,The Grove LA | Original Farmers Market | Farmers Market LA | Farmers Market Fairfax,2,https://www.openstreetmap.org/relation/10179682
 thousand-oaks,Thousand Oaks,area,,,Thousand Oaks CA | Thousand Oaks California,2,https://www.openstreetmap.org/relation/112603
 torrance,Torrance,area,,,Torrance CA | Torrance California,2,https://www.openstreetmap.org/relation/2314273
+torrance-memorial,Torrance Memorial Medical Center,hospital,,,Torrance Memorial | TMMC | Torrance Memorial hospital,2,https://www.openstreetmap.org/way/571401800
+toyota-sports-performance-center,Toyota Sports Performance Center,venue,,,TSPC | Toyota Sports Center | LA Kings practice facility | Kings training center,2,https://www.openstreetmap.org/way/424945942
 tustin,Tustin,area,,,Tustin CA | Tustin California,2,https://www.openstreetmap.org/relation/114486
 ucla,UCLA,campus,,,University of California Los Angeles | UCLA campus | Westwood campus,2,https://www.openstreetmap.org/relation/7493269
 ucla-medical-center,Ronald Reagan UCLA Medical Center,hospital,,,UCLA Medical Center | UCLA hospital | Ronald Reagan hospital | UCLA Health Westwood,2,https://www.openstreetmap.org/relation/2389785
