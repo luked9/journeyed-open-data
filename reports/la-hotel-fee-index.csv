@@ -15,7 +15,7 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-10,Azusa Inn Motel,https://journeyed.org/hotel/azusa-inn-motel-la-puente-0a39e4/,La Puente,parking.fee,0,USD,https://www.azusainnlapuente.us/,2026-10-11
 2026-10,Balboa Bay Resort,https://journeyed.org/hotel/balboa-bay-resort-newport-beach-20ee4a/,Newport Beach,resortFee,40,USD,https://balboabayresort.com/faq/,2026-10-11
 2026-10,Bay Shores Peninsula Hotel,https://journeyed.org/hotel/bay-shores-peninsula-hotel-newport-beach-49c0a1/,Newport Beach,parking.fee,55,USD,https://www.bayshoreshotel.com/faq/,2026-10-11
-2026-10,Baymont by Wyndham,https://journeyed.org/hotel/baymont-by-wyndham-monterey-park-566e76/,Monterey Park,parking.fee,0,USD,https://www.wyndhamhotels.com/baymont/monterey-park-california/baymont-by-wyndham-monterey-park/overview,2026-10-02
+2026-10,Baymont by Wyndham,https://journeyed.org/hotel/baymont-by-wyndham-monterey-park-566e76/,Monterey Park,parking.fee,0,USD,https://www.wyndhamhotels.com/baymont/monterey-park-california/baymont-by-wyndham-monterey-park/overview,2026-10-17
 2026-10,Bayside Hotel,https://journeyed.org/hotel/bayside-hotel-santa-monica-51236a/,Santa Monica,parking.fee,paid,USD,https://www.baysidehotel.com/amenities,2026-10-11
 2026-10,Beach House Hotel Hermosa Beach,https://journeyed.org/hotel/beach-house-hotel-hermosa-beach-hermosa-beach-c641bc/,Hermosa Beach,valet.fee,46,USD,https://www.beach-house.com/hermosa-beach/faq,2026-10-11
 2026-10,Bell Manor Motel,https://journeyed.org/hotel/bell-manor-motel-bell-048b84/,Bell,parking.fee,0,USD,https://www.bellmanormotel.com/amenities-services/,2026-10-11
@@ -62,7 +62,7 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-10,Cortona Inn and Suites,https://journeyed.org/hotel/cortona-inn-and-suites-anaheim-a88221/,Anaheim,deposit,50,USD,https://www.cortonainn.com/faqs,2026-10-03
 2026-10,Cozy Inn Costa Mesa,https://journeyed.org/hotel/cozy-inn-costa-mesa-costa-mesa-9b0cff/,Costa Mesa,parking.fee,0,USD,http://cozyinn.com/dining/,2026-10-03
 2026-10,Crystal Inn Suites & Spas LAX,https://journeyed.org/hotel/crystal-inn-suites-and-spas-lax-inglewood-6dffc6/,Inglewood,parking.fee,0,USD,https://www.crystalinnlax.com/amenities/,2026-10-11
-2026-10,Days Inn & Suites Fullerton,https://journeyed.org/hotel/days-inn-and-suites-fullerton-fullerton-5bde98/,Fullerton,parking.fee,0,USD,https://www.wyndhamhotels.com/days-inn/fullerton-california/days-inn-and-suites-fullerton/overview,2026-10-02
+2026-10,Days Inn & Suites Fullerton,https://journeyed.org/hotel/days-inn-and-suites-fullerton-fullerton-5bde98/,Fullerton,parking.fee,0,USD,https://www.wyndhamhotels.com/days-inn/fullerton-california/days-inn-and-suites-fullerton/overview,2026-10-17
 2026-10,Desert Palms Hotel and Suites,https://journeyed.org/hotel/desert-palms-hotel-and-suites-anaheim-f28202/,Anaheim,parking.fee,31,USD,https://www.desertpalmshotel.com/frequently-asked-questions,2026-10-11
 2026-10,Desert Palms Hotel and Suites,https://journeyed.org/hotel/desert-palms-hotel-and-suites-anaheim-f28202/,Anaheim,earlyCheckin.fee,35,USD,https://www.desertpalmshotel.com/frequently-asked-questions,2026-10-11
 2026-10,Desert Palms Hotel and Suites,https://journeyed.org/hotel/desert-palms-hotel-and-suites-anaheim-f28202/,Anaheim,lateCheckout.fee,35,USD,https://www.desertpalmshotel.com/frequently-asked-questions,2026-10-11
@@ -185,7 +185,7 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-10,Hotel Seville,https://journeyed.org/hotel/hotel-seville-ontario-4d7987/,Ontario,parking.fee,0,USD,https://www.hotelsevilleontario.com/overview,2026-10-03
 2026-10,Hotel Silver Lake Los Angeles,https://journeyed.org/hotel/hotel-silver-lake-los-angeles-los-angeles-930b69/,Silver Lake,parking.fee,0,USD,http://www.hotelsilverlakela.com/amenities.html,2026-10-11
 2026-10,Hotel Xilo Glendale,https://journeyed.org/hotel/hotel-xilo-glendale-glendale-959693/,Glendale,parking.fee,12,USD,https://www.hotelxilo.com/overview,2026-10-11
-2026-10,Howard Johnson,https://journeyed.org/hotel/howard-johnson-fullerton-3cde1f/,Fullerton,parking.fee,0,USD,https://www.wyndhamhotels.com/hojo/fullerton-california/howard-johnson-fullerton-anaheim-hotel-and-conference-center/overview,2026-10-11
+2026-10,Howard Johnson,https://journeyed.org/hotel/howard-johnson-fullerton-3cde1f/,Fullerton,parking.fee,0,USD,https://www.wyndhamhotels.com/hojo/fullerton-california/howard-johnson-fullerton-anaheim-hotel-and-conference-center/overview,2026-10-17
 2026-10,Howard Johnson,https://journeyed.org/hotel/howard-johnson-torrance-62f27a/,Torrance,parking.fee,0,USD,https://www.wyndhamhotels.com/hojo/torrance-california/howard-johnson-torrance/overview,2026-10-02
 2026-10,Huntington Beach Inn,https://journeyed.org/hotel/huntington-beach-inn-huntington-beach-7c19f2/,Huntington Beach,parking.fee,15,USD,https://www.huntingtonbeachinn.com/amenities/,2026-10-11
 2026-10,Huntington Beach Inn,https://journeyed.org/hotel/huntington-beach-inn-huntington-beach-7c19f2/,Huntington Beach,deposit,100,USD,https://www.huntingtonbeachinn.com/amenities/,2026-10-11
@@ -243,7 +243,7 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-10,My Sunshine Hotel,https://journeyed.org/hotel/my-sunshine-hotel-los-angeles-2a4b49/,Downtown Los Angeles,parking.fee,0,USD,https://www.mysunshinehotella.us/,2026-10-11
 2026-10,MyStayLA,https://journeyed.org/hotel/mystayla-los-angeles-3bbaeb/,Mid-Wilshire,parking.fee,paid,USD,https://mystayla.thelosangeleshotels.com/en/,2026-10-11
 2026-10,Newport Bay Inn,https://journeyed.org/hotel/newport-bay-inn-costa-mesa-6fe5ce/,Costa Mesa,parking.fee,0,USD,https://www.newportbayinncostamesa.us/,2026-10-11
-2026-10,Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,parking.fee,0,USD,https://www.newportchannelinn.com/guestrooms.htm,2026-10-13
+2026-10,Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,parking.fee,0,USD,https://www.newportchannelinn.com/guestrooms.htm,2026-10-17
 2026-10,Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,Gardena,parking.fee,0,USD,https://www.niseiinngardena.com/amenities.html,2026-10-11
 2026-10,Nite Inn at Universal City,https://journeyed.org/hotel/nite-inn-at-universal-city-studio-city-110c7a/,Studio City,smoking.fee,200,USD,https://www.niteinnuniversal.com/about,2026-10-11
 2026-10,OC Hotel Costa Mesa,https://journeyed.org/hotel/oc-hotel-costa-mesa-costa-mesa-a5a2cb/,Costa Mesa,parking.fee,0,USD,https://www.ochotelcostamesa.com/best-hotel-costa-mesa/,2026-10-11
@@ -287,8 +287,8 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-10,Providencia Motel,https://journeyed.org/hotel/providencia-motel-burbank-e89fc0/,Burbank,parking.fee,0,USD,https://www.providenciamotelburbank.com/amenities/,2026-10-11
 2026-10,Queens Inn Anaheim near The Park & Convention Center,https://journeyed.org/hotel/queens-inn-anaheim-near-the-park-and-convention-center-anaheim-dec383/,Anaheim,parking.fee,0,USD,https://queensinnanaheim.com/rooms/,2026-10-11
 2026-10,Rainbow Inn,https://journeyed.org/hotel/rainbow-inn-anaheim-4441a2/,Anaheim,parking.fee,0,USD,https://www.anaheimrainbowinn.com/cheap-hotels-in-anaheim-ca/,2026-10-11
-2026-10,Ramada Plaza,https://journeyed.org/hotel/ramada-plaza-garden-grove-4aca89/,Garden Grove,parking.fee,0,USD,https://www.wyndhamhotels.com/ramada/garden-grove-california/ramada-plaza-hotel-garden-grove/overview,2026-10-02
-2026-10,Ramada Plaza,https://journeyed.org/hotel/ramada-plaza-west-hollywood-5a9d89/,West Hollywood,parking.fee,paid,USD,https://www.wyndhamhotels.com/ramada/west-hollywood-california/ramada-plaza-hotel-suites-west-hollywood-beverly-hills/overview,2026-10-02
+2026-10,Ramada Plaza,https://journeyed.org/hotel/ramada-plaza-garden-grove-4aca89/,Garden Grove,parking.fee,0,USD,https://www.wyndhamhotels.com/ramada/garden-grove-california/ramada-plaza-hotel-garden-grove/overview,2026-10-17
+2026-10,Ramada Plaza,https://journeyed.org/hotel/ramada-plaza-west-hollywood-5a9d89/,West Hollywood,parking.fee,paid,USD,https://www.wyndhamhotels.com/ramada/west-hollywood-california/ramada-plaza-hotel-suites-west-hollywood-beverly-hills/overview,2026-10-17
 2026-10,Redac Gateway Hotel,https://journeyed.org/hotel/redac-gateway-hotel-torrance-8fd26a/,Torrance,parking.fee,0,USD,https://www.redachotel.com/overview,2026-10-11
 2026-10,Redac Gateway Hotel,https://journeyed.org/hotel/redac-gateway-hotel-torrance-8fd26a/,Torrance,deposit,150,USD,https://www.redachotel.com/overview,2026-10-11
 2026-10,Redondo Inn and Suites,https://journeyed.org/hotel/redondo-inn-and-suites-redondo-beach-46c2da/,Redondo Beach,parking.fee,0,USD,https://www.redondoinn.com/amenities-services/,2026-10-11
@@ -430,11 +430,11 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-10,Tourist Lodge,https://journeyed.org/hotel/tourist-lodge-inglewood-0687c1/,Inglewood,parking.fee,0,USD,https://www.touristlodgeinglewood.us/amenities.html,2026-10-11
 2026-10,Tower Motel Long Beach,https://journeyed.org/hotel/tower-motel-long-beach-long-beach-a61bb0/,Long Beach,parking.fee,0,USD,https://www.calypsohotel.info/,2026-10-11
 2026-10,Travelers Inn,https://journeyed.org/hotel/travelers-inn-lawndale-6e5332/,Lawndale,parking.fee,0,USD,https://www.travelersinnlawndalelax.com/amenities-services/,2026-10-11
-2026-10,Travelodge,https://journeyed.org/hotel/travelodge-buena-park-27ed52/,Buena Park,parking.fee,0,USD,https://www.wyndhamhotels.com/en-ca/travelodge/buena-park-california/travelodge-buena-park/overview,2026-10-11
-2026-10,Travelodge by Wyndham Commerce Los Angeles Area,https://journeyed.org/hotel/travelodge-by-wyndham-commerce-los-angeles-area-commerce-382f9f/,Commerce,parking.fee,0,USD,https://www.wyndhamhotels.com/en-ca/travelodge/commerce-california/travelodge-commerce-la-area/overview,2026-10-11
+2026-10,Travelodge,https://journeyed.org/hotel/travelodge-buena-park-27ed52/,Buena Park,parking.fee,0,USD,https://www.wyndhamhotels.com/en-ca/travelodge/buena-park-california/travelodge-buena-park/overview,2026-10-17
+2026-10,Travelodge by Wyndham Commerce Los Angeles Area,https://journeyed.org/hotel/travelodge-by-wyndham-commerce-los-angeles-area-commerce-382f9f/,Commerce,parking.fee,0,USD,https://www.wyndhamhotels.com/en-ca/travelodge/commerce-california/travelodge-commerce-la-area/overview,2026-10-17
 2026-10,Travelodge by Wyndham LAX,https://journeyed.org/hotel/travelodge-by-wyndham-lax-el-segundo-e64d4f/,El Segundo,parking.fee,15,USD,https://www.wyndhamhotels.com/en-ca/travelodge/el-segundo-california/travelodge-by-wyndham-lax/overview,2026-10-02
 2026-10,Travelodge by Wyndham LAX,https://journeyed.org/hotel/travelodge-by-wyndham-lax-el-segundo-e64d4f/,El Segundo,lateCheckout.fee,15,USD,https://www.wyndhamhotels.com/en-ca/travelodge/el-segundo-california/travelodge-by-wyndham-lax/overview,2026-10-02
-2026-10,Travelodge by Wyndham Sunset Beach Oceanfront,https://journeyed.org/hotel/travelodge-by-wyndham-sunset-beach-oceanfront-huntington-beach-43f400/,Huntington Beach,parking.fee,0,USD,https://www.wyndhamhotels.com/en-ca/travelodge/sunset-beach-california/travelodge-sunset-huntington-beach-ocean-front/overview,2026-10-11
+2026-10,Travelodge by Wyndham Sunset Beach Oceanfront,https://journeyed.org/hotel/travelodge-by-wyndham-sunset-beach-oceanfront-huntington-beach-43f400/,Huntington Beach,parking.fee,0,USD,https://www.wyndhamhotels.com/en-ca/travelodge/sunset-beach-california/travelodge-sunset-huntington-beach-ocean-front/overview,2026-10-17
 2026-10,Travelodge Inn & Suites,https://journeyed.org/hotel/travelodge-inn-and-suites-anaheim-7d1c50/,Anaheim,parking.fee,0,USD,https://www.travelodgedisneyland.com/services,2026-10-11
 2026-10,Travelodge Inn and Suites by Wyndham Bell Los Angeles Area,https://journeyed.org/hotel/travelodge-inn-and-suites-by-wyndham-bell-los-angeles-area-bell-7cb6b5/,Bell,parking.fee,0,USD,https://www.travelodgeinnbell.com/amenities-services/,2026-10-11
 2026-10,Trend Hotel LAX,https://journeyed.org/hotel/trend-hotel-lax-inglewood-ad1aaa/,Inglewood,parking.fee,0,USD,https://www.trendhotellax.com/amenities-services/,2026-10-11
