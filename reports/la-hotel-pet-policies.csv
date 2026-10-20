@@ -1,7 +1,7 @@
 hotel,hotel_url,area,key,value,unit,source_url,checked_on
 1 Hotel,https://journeyed.org/hotel/1-hotel-west-hollywood-39a29d/,West Hollywood,pets.allowed,yes,,https://www.1hotels.com/west-hollywood?utm_source=bing&utm_medium=cpc&utm_campaign=wh_bing_search_category_domestic_top_markets&msclkid=ffc793111bde18e35934f9c7112e2288&utm_term=luxury%20hotel%20in%20la&utm_content=luxury%2Fexperiences_pm_US_Domestic,2026-10-19
 1 Hotel,https://journeyed.org/hotel/1-hotel-west-hollywood-39a29d/,West Hollywood,pets.maxCount,2,pets,https://www.1hotels.com/west-hollywood/faq,2026-10-19
-AIR Venice,https://journeyed.org/hotel/air-venice-venice-ff70f0/,Venice,pets.allowed,yes,,https://www.airinvenice.com/ocean-front-rooms-venice/,2026-10-11
+AIR Venice,https://journeyed.org/hotel/air-venice-venice-ff70f0/,Venice,pets.allowed,yes,,https://www.airinvenice.com/ocean-front-rooms-venice/,2026-10-20
 Alamo Inn and Suites,https://journeyed.org/hotel/alamo-inn-and-suites-anaheim-8277ca/,Anaheim,pets.allowed,service-animals-only,,https://www.thealamoinn.com/accommodations,2026-10-11
 Americas Best Value Inn & Suites Anaheim Convention Center,https://journeyed.org/hotel/americas-best-value-inn-and-suites-anaheim-convention-center-anaheim-56ec7c/,Anaheim,pets.allowed,no,,https://www.valueinnanaheim.com/hotel-policies/,2026-10-19
 Anaheim Carriage Inn,https://journeyed.org/hotel/anaheim-carriage-inn-anaheim-66123e/,Anaheim,pets.allowed,no,,http://anaheimcarriagehotel.com/,2026-10-13
@@ -31,15 +31,15 @@ Candy Cane Inn,https://journeyed.org/hotel/candy-cane-inn-anaheim-b3b422/,Anahei
 Capistrano Coast House,https://journeyed.org/hotel/capistrano-coast-house-capistrano-beach-672aa1/,Capistrano Beach,pets.allowed,yes,,https://capistranocoasthouse.com/policies/,2026-10-13
 Capistrano Coast House,https://journeyed.org/hotel/capistrano-coast-house-capistrano-beach-672aa1/,Capistrano Beach,pets.fee,50,USD,https://capistranocoasthouse.com/policies/,2026-10-13
 Casa Bell Motel,https://journeyed.org/hotel/casa-bell-motel-inglewood-2fe9e6/,Inglewood,pets.allowed,no,,https://www.casabellmotelinglewood.com/amenities-services/,2026-10-19
-Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,pets.fee,225,USD,https://casalomalagunabeach.com/faq/,2026-10-12
-Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,pets.feePeriod,per-stay,,https://casalomalagunabeach.com/faq/,2026-10-12
-Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,pets.weightLimit,40,lb,https://casalomalagunabeach.com/faq/,2026-10-12
-Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,pets.maxCount,2,pets,https://casalomalagunabeach.com/faq/,2026-10-12
+Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,pets.fee,225,USD,https://casalomalagunabeach.com/faq/,2026-10-20
+Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,pets.feePeriod,per-stay,,https://casalomalagunabeach.com/faq/,2026-10-20
+Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,pets.weightLimit,40,lb,https://casalomalagunabeach.com/faq/,2026-10-20
+Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,pets.maxCount,2,pets,https://casalomalagunabeach.com/faq/,2026-10-20
 Castaway Motel,https://journeyed.org/hotel/castaway-motel-orange-c2cbf9/,Orange,pets.allowed,no,,https://www.castawaymotelorange.us/,2026-10-19
 Catalina Canyon Inn,https://journeyed.org/hotel/catalina-canyon-inn-avalon-454bcc/,Avalon,pets.allowed,yes,,https://www.catalinacanyoninn.com/,2026-10-13
 Catalina Island Inn,https://journeyed.org/hotel/catalina-island-inn-avalon-ba1727/,Avalon,pets.allowed,no,,https://www.catalinaislandinn.com/faqs,2026-10-03
 Catalina's Courtyard Garden Suites,https://journeyed.org/hotel/catalinas-courtyard-garden-suites-avalon-0b81dc/,Avalon,pets.allowed,no,,https://catalinacourtyardsuites.com/faq,2026-10-13
-Century Park Hotel,https://journeyed.org/hotel/century-park-hotel-los-angeles-0bd74f/,Century City,pets.allowed,service-animals-only,,https://www.centuryparkla.com/losangeles-boutique-hotels/,2026-10-19
+Century Park Hotel,https://journeyed.org/hotel/century-park-hotel-los-angeles-0bd74f/,Century City,pets.allowed,service-animals-only,,https://www.centuryparkla.com/losangeles-boutique-hotels/,2026-10-20
 Chamberlain West Hollywood Hotel,https://journeyed.org/hotel/chamberlain-west-hollywood-hotel-west-hollywood-c09126/,West Hollywood,pets.allowed,yes,,https://www.chamberlainwesthollywood.com/rooms/ada-premier-king-suite/,2026-10-03
 Chamberlain West Hollywood Hotel,https://journeyed.org/hotel/chamberlain-west-hollywood-hotel-west-hollywood-c09126/,West Hollywood,pets.maxCount,2,pets,https://www.chamberlainwesthollywood.com/rooms/ada-premier-king-suite/,2026-10-03
 Chase Suite Hotel Brea,https://journeyed.org/hotel/chase-suite-hotel-brea-brea-44e66b/,Brea,pets.allowed,yes,,https://www.chasehotelbrea.com/faqs,2026-10-11
@@ -50,7 +50,7 @@ Clementine Hotel & Suites Anaheim,https://journeyed.org/hotel/clementine-hotel-a
 Clementine Hotel & Suites Anaheim,https://journeyed.org/hotel/clementine-hotel-and-suites-anaheim-anaheim-8c9fc7/,Anaheim,pets.weightLimit,75,lb,https://clementinehotel.com/faqs/,2026-10-19
 Clementine Hotel & Suites Anaheim,https://journeyed.org/hotel/clementine-hotel-and-suites-anaheim-anaheim-8c9fc7/,Anaheim,pets.maxCount,2,pets,https://clementinehotel.com/faqs/,2026-10-19
 Cortona Inn and Suites,https://journeyed.org/hotel/cortona-inn-and-suites-anaheim-a88221/,Anaheim,pets.allowed,service-animals-only,,https://www.cortonainn.com/faqs,2026-10-03
-Crescent Bay Inn,https://journeyed.org/hotel/crescent-bay-inn-laguna-beach-ca8843/,Laguna Beach,pets.allowed,service-animals-only,,https://www.crescentbayinn.com/amenities-services/,2026-10-12
+Crescent Bay Inn,https://journeyed.org/hotel/crescent-bay-inn-laguna-beach-ca8843/,Laguna Beach,pets.allowed,service-animals-only,,https://www.crescentbayinn.com/amenities-services/,2026-10-20
 Days Inn by Wyndham Los Angeles LAX/Redondo/Manhattan Beach,https://journeyed.org/hotel/days-inn-by-wyndham-los-angeles-lax-redondo-manhattan-beach-lawndale-481227/,Lawndale,pets.allowed,no,,http://www.daysinnsouthbay.com/south-bay-hotel-lawndale-hotel-faq.html,2026-10-19
 Days Inn Hotel,https://journeyed.org/hotel/days-inn-hotel-inglewood-f43ccd/,Inglewood,pets.allowed,no,,https://www.daysinnlaxairport.com/faq-of-los-angeles-ca-hotel.html,2026-10-19
 Del Sol Inn,https://journeyed.org/hotel/del-sol-inn-anaheim-58e9c1/,Anaheim,pets.allowed,no,,https://www.delsolinn.com/faqs,2026-10-11
@@ -75,7 +75,7 @@ Embassy Suites by Hilton Los Angeles International Airport North,https://journey
 Empire Inn LAX,https://journeyed.org/hotel/empire-inn-lax-los-angeles-a33244/,Inglewood,pets.allowed,no,,https://www.empireinnlax.com/overview,2026-10-11
 Encore Inn,https://journeyed.org/hotel/encore-inn-inglewood-bfca1e/,Inglewood,pets.allowed,no,,https://www.encoreinnlax.com/guestrooms,2026-10-11
 Epic Hotel,https://journeyed.org/hotel/epic-hotel-pico-rivera-467b8b/,Pico Rivera,pets.allowed,no,,https://www.epichotelpicorivera.com/statements-policies/hotel-policy-guest-agreement/,2026-10-19
-Evergreen Inn,https://journeyed.org/hotel/evergreen-inn-covina-88d181/,Covina,pets.allowed,yes,,https://www.evergreeninncovina.com/,2026-10-12
+Evergreen Inn,https://journeyed.org/hotel/evergreen-inn-covina-88d181/,Covina,pets.allowed,yes,,https://www.evergreeninncovina.com/,2026-10-20
 Fairmont Breakers Long Beach,https://journeyed.org/hotel/fairmont-breakers-long-beach-long-beach-b42ac3/,Long Beach,pets.allowed,yes,,https://www.fairmont-breakers.com/faqs/,2026-10-19
 Fairmont Breakers Long Beach,https://journeyed.org/hotel/fairmont-breakers-long-beach-long-beach-b42ac3/,Long Beach,pets.fee,150,USD,https://www.fairmont-breakers.com/faqs/,2026-10-19
 Fairmont Century Plaza,https://journeyed.org/hotel/fairmont-century-plaza-los-angeles-a6d82f/,Century City,pets.allowed,yes,,https://www.fairmontcenturyplaza.com/faqs/,2026-10-19
@@ -85,7 +85,7 @@ Glendale Express Hotel,https://journeyed.org/hotel/glendale-express-hotel-glenda
 Glendale Express Hotel,https://journeyed.org/hotel/glendale-express-hotel-glendale-569f37/,Glendale,pets.fee,75,USD,https://www.glendaleexpresshotel.com/faq,2026-10-19
 Glendale Express Hotel,https://journeyed.org/hotel/glendale-express-hotel-glendale-569f37/,Glendale,pets.weightLimit,50,lb,https://www.glendaleexpresshotel.com/faq,2026-10-19
 Glendale Express Hotel,https://journeyed.org/hotel/glendale-express-hotel-glendale-569f37/,Glendale,pets.maxCount,2,pets,https://www.glendaleexpresshotel.com/faq,2026-10-19
-Glendora Motel,https://journeyed.org/hotel/glendora-motel-glendora-81b63c/,Glendora,pets.allowed,no,,https://www.glendoramotel.us/,2026-10-12
+Glendora Motel,https://journeyed.org/hotel/glendora-motel-glendora-81b63c/,Glendora,pets.allowed,no,,https://www.glendoramotel.us/,2026-10-20
 Glenridge Inn Glendale Pasadena,https://journeyed.org/hotel/glenridge-inn-glendale-pasadena-glendale-8c8107/,Glendale,pets.allowed,no,,https://www.glenridgeinn.com/amenities-and-services/,2026-10-19
 Hermosa Hotel,https://journeyed.org/hotel/hermosa-hotel-avalon-1ca071/,Avalon,pets.fee,25,USD,https://hermosahotel.com/amenities/,2026-10-13
 Hermosa Hotel,https://journeyed.org/hotel/hermosa-hotel-avalon-1ca071/,Avalon,pets.feePeriod,per-night,,https://hermosahotel.com/amenities/,2026-10-13
@@ -154,14 +154,14 @@ Kawada Hotel,https://journeyed.org/hotel/kawada-hotel-los-angeles-7be796/,Downto
 Kimpton Everly Hotel,https://journeyed.org/hotel/kimpton-everly-hotel-los-angeles-a953cf/,Hollywood,pets.allowed,yes,,https://www.everlyhotelhollywood.com/boutique-hollywood-hotel-amenities/,2026-10-19
 Kimpton Hotel Palomar Los Angeles Beverly Hills,https://journeyed.org/hotel/kimpton-hotel-palomar-los-angeles-beverly-hills-los-angeles-6e88a1/,Westwood,pets.allowed,yes,,https://www.hotelpalomar-beverlyhills.com/beverly-hills-boutique-hotel-amenities/,2026-10-19
 Kimpton Shorebreak Resort,https://journeyed.org/hotel/kimpton-shorebreak-resort-huntington-beach-255402/,Huntington Beach,pets.allowed,yes,,https://www.shorebreakhotel.com/boutique-hotel-amenities/,2026-10-19
-La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,pets.allowed,yes,,https://lacasadelcamino.com/photo-gallery/faq/,2026-10-12
-La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,pets.weightLimit,50,lb,https://lacasadelcamino.com/photo-gallery/faq/,2026-10-12
+La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,pets.allowed,yes,,https://lacasadelcamino.com/photo-gallery/faq/,2026-10-20
+La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,pets.weightLimit,50,lb,https://lacasadelcamino.com/photo-gallery/faq/,2026-10-20
 La Paloma Las Flores,https://journeyed.org/hotel/la-paloma-las-flores-avalon-41d369/,Avalon,pets.allowed,no,,https://www.lapalomalasflores.com/aboutus,2026-10-13
 La Quinta Inn & Suites by Wyndham Pomona,https://journeyed.org/hotel/la-quinta-inn-and-suites-by-wyndham-pomona-pomona-ec3309/,Pomona,pets.allowed,yes,,https://www.wyndhamhotels.com/laquinta/pomona-california/la-quinta-pomona/overview,2026-10-02
-Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,pets.fee,125,USD,https://www.thelagunabeachhouse.com/faq/,2026-10-12
-Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,pets.feePeriod,per-stay,,https://www.thelagunabeachhouse.com/faq/,2026-10-12
-Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,pets.weightLimit,40,lb,https://www.thelagunabeachhouse.com/faq/,2026-10-12
-Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,pets.maxCount,2,pets,https://www.thelagunabeachhouse.com/faq/,2026-10-12
+Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,pets.fee,125,USD,https://www.thelagunabeachhouse.com/faq/,2026-10-20
+Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,pets.feePeriod,per-stay,,https://www.thelagunabeachhouse.com/faq/,2026-10-20
+Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,pets.weightLimit,40,lb,https://www.thelagunabeachhouse.com/faq/,2026-10-20
+Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,pets.maxCount,2,pets,https://www.thelagunabeachhouse.com/faq/,2026-10-20
 Lambert Inn,https://journeyed.org/hotel/lambert-inn-whittier-8efefc/,Whittier,pets.allowed,no,,https://lambertinnca.com/whittier-hotel-policies/,2026-10-11
 Le Blanc Inn and Suites,https://journeyed.org/hotel/le-blanc-inn-and-suites-el-monte-465f08/,El Monte,pets.allowed,yes,,https://www.leblancinnelmonte.com/faq-for-hotel-in-el-monte.html,2026-10-19
 Le Blanc Inn and Suites,https://journeyed.org/hotel/le-blanc-inn-and-suites-el-monte-465f08/,El Monte,pets.fee,35,USD,https://www.leblancinnelmonte.com/el-monte-hotel-accommodations.html,2026-10-19
@@ -171,15 +171,15 @@ Le Parc at Melrose,https://journeyed.org/hotel/le-parc-at-melrose-west-hollywood
 Level Long Beach,https://journeyed.org/hotel/level-long-beach-long-beach-1b60a6/,Long Beach,pets.allowed,yes,,https://stayinglevel.com/long-beach/east-village/,2026-10-19
 Level Los Angeles - Hollywood,https://journeyed.org/hotel/level-los-angeles-hollywood-los-angeles-4519e8/,Hollywood,pets.allowed,yes,,https://stayinglevel.com/los-angeles/hollywood/,2026-10-19
 Lexen Hotel,https://journeyed.org/hotel/lexen-hotel-los-angeles-10413e/,Hollywood,pets.allowed,no,,https://www.lexenhotelhollywood.us/,2026-10-19
-（林肯酒店）Lincoln Hotel,https://journeyed.org/hotel/lincoln-hotel-monterey-park-cd0e49/,Monterey Park,pets.allowed,yes,,https://lincolnplazahotel.net/,2026-10-12
-Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,pets.allowed,no,,https://www.littleinnbythebay.com/rooms-suites/,2026-10-12
+（林肯酒店）Lincoln Hotel,https://journeyed.org/hotel/lincoln-hotel-monterey-park-cd0e49/,Monterey Park,pets.allowed,yes,,https://lincolnplazahotel.net/,2026-10-20
+Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,pets.allowed,no,,https://www.littleinnbythebay.com/rooms-suites/,2026-10-20
 Magnolia Tree Hotel,https://journeyed.org/hotel/magnolia-tree-hotel-anaheim-7f5868/,Anaheim,pets.allowed,service-animals-only,,https://www.magnoliatreehotel.com/amenities-services/,2026-10-19
-Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,pets.allowed,yes,,https://www.malibucountryinn.com/policies1,2026-10-12
-Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,pets.feePeriod,per-stay,,https://www.malibucountryinn.com/policies1,2026-10-12
+Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,pets.allowed,yes,,https://www.malibucountryinn.com/policies1,2026-10-20
+Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,pets.feePeriod,per-stay,,https://www.malibucountryinn.com/policies1,2026-10-20
 Marina Motel,https://journeyed.org/hotel/marina-motel-long-beach-c794ec/,Long Beach,pets.allowed,no,,https://www.lbmarinamotel.com/,2026-10-19
 Marina Seven Motel,https://journeyed.org/hotel/marina-seven-motel-los-angeles-d17851/,Venice,pets.allowed,no,,https://www.marina7motella.us/,2026-10-19
 Metro Plaza Hotel,https://journeyed.org/hotel/metro-plaza-hotel-los-angeles-190134/,Downtown Los Angeles,pets.allowed,no,,https://www.metroplazahotellosangeles.site/policies.html,2026-10-19
-Mirror Motel,https://journeyed.org/hotel/mirror-motel-los-angeles-409ce7/,Los Angeles (other areas),pets.allowed,no,,https://www.losangeles-besthotels.com/en/property/hotel-los-angeles-236.html,2026-10-12
+Mirror Motel,https://journeyed.org/hotel/mirror-motel-los-angeles-409ce7/,Los Angeles (other areas),pets.allowed,no,,https://www.losangeles-besthotels.com/en/property/hotel-los-angeles-236.html,2026-10-20
 Miyako Hotel Los Angeles,https://journeyed.org/hotel/miyako-hotel-los-angeles-los-angeles-2f343b/,Downtown Los Angeles,pets.allowed,no,,https://www.miyakola.com/hotel-policies.htm,2026-10-19
 Miyako Hybrid Hotel,https://journeyed.org/hotel/miyako-hybrid-hotel-torrance-03ad77/,Torrance,pets.allowed,no,,https://www.miyakohybridhotel.com/hotel-policies.htm,2026-10-19
 Montrose at Beverly Hills,https://journeyed.org/hotel/montrose-at-beverly-hills-west-hollywood-adad38/,West Hollywood,pets.fee,150,USD,https://www.montrosewesthollywood.com/,2026-10-03
@@ -228,7 +228,7 @@ Pasea Hotel & Spa,https://journeyed.org/hotel/pasea-hotel-and-spa-huntington-bea
 Pasea Hotel & Spa,https://journeyed.org/hotel/pasea-hotel-and-spa-huntington-beach-334342/,Huntington Beach,pets.feePeriod,per-stay,,https://www.paseahotel.com/experience/traveling-with-pets/,2026-10-19
 Pendry Newport Beach,https://journeyed.org/hotel/pendry-newport-beach-newport-beach-b5e3d7/,Newport Beach,pets.allowed,yes,,https://www.pendry.com/newport-beach/faqs/,2026-10-11
 Pendry Newport Beach,https://journeyed.org/hotel/pendry-newport-beach-newport-beach-b5e3d7/,Newport Beach,pets.fee,150,USD,https://www.pendry.com/newport-beach/faqs/,2026-10-11
-Pomona Inn Motel,https://journeyed.org/hotel/pomona-inn-motel-pomona-99b533/,Pomona,pets.allowed,yes,,https://www.pomonainn.com/pomona-ca-hotel-amenities.html,2026-10-12
+Pomona Inn Motel,https://journeyed.org/hotel/pomona-inn-motel-pomona-99b533/,Pomona,pets.allowed,yes,,https://www.pomonainn.com/pomona-ca-hotel-amenities.html,2026-10-20
 Queens Inn Anaheim near The Park & Convention Center,https://journeyed.org/hotel/queens-inn-anaheim-near-the-park-and-convention-center-anaheim-dec383/,Anaheim,pets.allowed,no,,https://queensinnanaheim.com/hotel-near-conventions/,2026-10-19
 Redac Gateway Hotel,https://journeyed.org/hotel/redac-gateway-hotel-torrance-8fd26a/,Torrance,pets.allowed,service-animals-only,,https://www.redachotel.com/overview,2026-10-11
 Regency Inn,https://journeyed.org/hotel/regency-inn-los-angeles-38f0c4/,Glendale,pets.allowed,no,,https://regencyinneaglerock.com/,2026-10-19
@@ -265,7 +265,7 @@ Sofitel Los Angeles at Beverly Hills,https://journeyed.org/hotel/sofitel-los-ang
 Sonesta ES Suites Chatsworth,https://journeyed.org/hotel/sonesta-es-suites-chatsworth-chatsworth-10fa75/,Chatsworth,pets.allowed,yes,,https://www.sonesta.com/sonesta-es-suites/ca/chatsworth/sonesta-es-suites-chatsworth,2026-10-03
 Sonesta ES Suites Chatsworth,https://journeyed.org/hotel/sonesta-es-suites-chatsworth-chatsworth-10fa75/,Chatsworth,pets.maxCount,2,pets,https://www.sonesta.com/sonesta-es-suites/ca/chatsworth/sonesta-es-suites-chatsworth,2026-10-03
 Stanford Inn & Suites,https://journeyed.org/hotel/stanford-inn-and-suites-anaheim-adc3f6/,Anaheim,pets.allowed,no,,https://www.stanfordinnanaheim.com/,2026-10-19
-Starlight Inn Canoga Park,https://journeyed.org/hotel/starlight-inn-canoga-park-los-angeles-3b843f/,Los Angeles (other areas),pets.allowed,no,,https://www.starlightinncanogaparkca.com/bob-hope-burbank-airport-faq.html,2026-10-12
+Starlight Inn Canoga Park,https://journeyed.org/hotel/starlight-inn-canoga-park-los-angeles-3b843f/,Los Angeles (other areas),pets.allowed,no,,https://www.starlightinncanogaparkca.com/bob-hope-burbank-airport-faq.html,2026-10-20
 Starlight Inn South El Monte,https://journeyed.org/hotel/starlight-inn-south-el-monte-south-el-monte-785d0c/,South El Monte,pets.allowed,no,,https://www.starlightinnsouthelmonte.com/Motel-in-South-El-Monte-California-FAQ.html,2026-10-19
 Stuart Hotel,https://journeyed.org/hotel/stuart-hotel-los-angeles-7d77ab/,Downtown Los Angeles,pets.allowed,no,,https://www.stuarthotel-losangeles.us/,2026-10-19
 Studio City Court Yard Hotel,https://journeyed.org/hotel/studio-city-court-yard-hotel-los-angeles-f24639/,Studio City,pets.allowed,no,,https://www.studiocitycourtyard.com/amenities/faq,2026-10-19
@@ -276,10 +276,10 @@ Sunset Tower Hotel,https://journeyed.org/hotel/sunset-tower-hotel-west-hollywood
 Sunset Tower Hotel,https://journeyed.org/hotel/sunset-tower-hotel-west-hollywood-c67495/,West Hollywood,pets.fee,100,USD,https://www.sunsettowerhotel.com/policies,2026-10-19
 Sunset Tower Hotel,https://journeyed.org/hotel/sunset-tower-hotel-west-hollywood-c67495/,West Hollywood,pets.feePeriod,per-stay,,https://www.sunsettowerhotel.com/policies,2026-10-19
 Sunset Tower Hotel,https://journeyed.org/hotel/sunset-tower-hotel-west-hollywood-c67495/,West Hollywood,pets.weightLimit,40,lb,https://www.sunsettowerhotel.com/policies,2026-10-19
-Super 8,https://journeyed.org/hotel/super-8-los-angeles-384d4a/,Echo Park,pets.allowed,no,,https://www.super8losangeles.com/lodging-losangeles-ca.asp,2026-10-12
-Surf & Sand Laguna Beach,https://journeyed.org/hotel/surf-and-sand-laguna-beach-laguna-beach-d6f6b7/,Laguna Beach,pets.allowed,yes,,https://www.surfandsandresort.com/,2026-10-12
-Surf & Sand Laguna Beach,https://journeyed.org/hotel/surf-and-sand-laguna-beach-laguna-beach-d6f6b7/,Laguna Beach,pets.weightLimit,40,lb,https://www.surfandsandresort.com/faq,2026-10-12
-Surf & Sand Laguna Beach,https://journeyed.org/hotel/surf-and-sand-laguna-beach-laguna-beach-d6f6b7/,Laguna Beach,pets.maxCount,2,pets,https://www.surfandsandresort.com/faq,2026-10-12
+Super 8,https://journeyed.org/hotel/super-8-los-angeles-384d4a/,Echo Park,pets.allowed,no,,https://www.super8losangeles.com/lodging-losangeles-ca.asp,2026-10-20
+Surf & Sand Laguna Beach,https://journeyed.org/hotel/surf-and-sand-laguna-beach-laguna-beach-d6f6b7/,Laguna Beach,pets.allowed,yes,,https://www.surfandsandresort.com/,2026-10-20
+Surf & Sand Laguna Beach,https://journeyed.org/hotel/surf-and-sand-laguna-beach-laguna-beach-d6f6b7/,Laguna Beach,pets.weightLimit,40,lb,https://www.surfandsandresort.com/faq,2026-10-20
+Surf & Sand Laguna Beach,https://journeyed.org/hotel/surf-and-sand-laguna-beach-laguna-beach-d6f6b7/,Laguna Beach,pets.maxCount,2,pets,https://www.surfandsandresort.com/faq,2026-10-20
 SW Beach Hotel,https://journeyed.org/hotel/sw-beach-hotel-hermosa-beach-b62500/,Hermosa Beach,pets.allowed,no,,https://swbeachhotel.com/faq,2026-10-19
 Tapestry Collection by Hilton,https://journeyed.org/hotel/tapestry-collection-by-hilton-redondo-beach-9a41be/,Redondo Beach,pets.allowed,no,,https://www.theredondo.com/frequently-asked-questions/,2026-10-19
 Tarzana Inn,https://journeyed.org/hotel/tarzana-inn-tarzana-7b5dc2/,Tarzana,pets.allowed,service-animals-only,,https://www.tarzanainn.com/policies/,2026-10-03
@@ -300,7 +300,7 @@ The Eden,https://journeyed.org/hotel/the-eden-santa-monica-de2664/,Santa Monica,
 The Fairmont Miramar Hotel Santa Monica,https://journeyed.org/hotel/the-fairmont-miramar-hotel-santa-monica-santa-monica-37e90f/,Santa Monica,pets.allowed,yes,,https://www.fairmont-miramar.com/faqs/,2026-10-19
 The Fairmont Miramar Hotel Santa Monica,https://journeyed.org/hotel/the-fairmont-miramar-hotel-santa-monica-santa-monica-37e90f/,Santa Monica,pets.feePeriod,per-stay,,https://www.fairmont-miramar.com/stay/pet-policy/,2026-10-19
 The Fairmont Miramar Hotel Santa Monica,https://journeyed.org/hotel/the-fairmont-miramar-hotel-santa-monica-santa-monica-37e90f/,Santa Monica,pets.maxCount,2,pets,https://www.fairmont-miramar.com/stay/pet-policy/,2026-10-19
-The French Estate,https://journeyed.org/hotel/the-french-estate-orange-4e2c12/,Orange,pets.allowed,yes,,https://www.thefrenchestate.com/faqs,2026-10-12
+The French Estate,https://journeyed.org/hotel/the-french-estate-orange-4e2c12/,Orange,pets.allowed,yes,,https://www.thefrenchestate.com/faqs,2026-10-20
 The Garland,https://journeyed.org/hotel/the-garland-north-hollywood-711779/,North Hollywood,pets.weightLimit,40,lb,https://www.thegarland.com/stay/pets,2026-10-19
 The Garland,https://journeyed.org/hotel/the-garland-north-hollywood-711779/,North Hollywood,pets.maxCount,1,pets,https://www.thegarland.com/stay/pets,2026-10-19
 The Hills Inn Eagle Rock,https://journeyed.org/hotel/the-hills-inn-eagle-rock-los-angeles-3d74ce/,Glendale,pets.allowed,no,,https://www.thehillsinneaglerockla.com/overview,2026-10-11
@@ -336,7 +336,7 @@ The Richland,https://journeyed.org/hotel/the-richland-orange-99dbc4/,Orange,pets
 "The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,pets.feePeriod,per-stay,,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-10-13
 "The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,pets.maxCount,2,pets,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-10-13
 The Steady,https://journeyed.org/hotel/the-steady-los-angeles-2ef8a9/,Silver Lake,pets.allowed,no,,https://www.thesteadyhostel.com/policy,2026-10-19
-The Surfrider Malibu,https://journeyed.org/hotel/the-surfrider-malibu-malibu-a16091/,Malibu,pets.allowed,no,,https://www.thesurfridermalibu.com/faq,2026-10-12
+The Surfrider Malibu,https://journeyed.org/hotel/the-surfrider-malibu-malibu-a16091/,Malibu,pets.allowed,no,,https://www.thesurfridermalibu.com/faq,2026-10-20
 The Venice Beach House,https://journeyed.org/hotel/the-venice-beach-house-los-angeles-84ae0a/,Venice,pets.allowed,no,,https://www.venicebeachhouse.com/policies,2026-10-19
 "The Viv Hotel, Anaheim, a Tribute Portfolio Hotel",https://journeyed.org/hotel/the-viv-hotel-anaheim-a-tribute-portfolio-hotel-anaheim-d8ba41/,Anaheim,pets.fee,150,USD,https://www.thevivhotelanaheim.com/things-to-do-in-anaheim/our-hotel,2026-10-19
 "The Wayfarer Downtown LA, Tapestry Collection by Hilton",https://journeyed.org/hotel/the-wayfarer-downtown-la-tapestry-collection-by-hilton-los-angeles-295154/,Downtown Los Angeles,pets.allowed,yes,,https://www.wayfarerdtla.com/,2026-10-19
@@ -344,17 +344,17 @@ The Venice Beach House,https://journeyed.org/hotel/the-venice-beach-house-los-an
 "The Wayfarer Downtown LA, Tapestry Collection by Hilton",https://journeyed.org/hotel/the-wayfarer-downtown-la-tapestry-collection-by-hilton-los-angeles-295154/,Downtown Los Angeles,pets.feePeriod,per-stay,,https://www.wayfarerdtla.com/pet-policy/,2026-10-19
 "The Wayfarer Downtown LA, Tapestry Collection by Hilton",https://journeyed.org/hotel/the-wayfarer-downtown-la-tapestry-collection-by-hilton-los-angeles-295154/,Downtown Los Angeles,pets.weightLimit,40,lb,https://www.wayfarerdtla.com/pet-policy/,2026-10-19
 "The Wayfarer Downtown LA, Tapestry Collection by Hilton",https://journeyed.org/hotel/the-wayfarer-downtown-la-tapestry-collection-by-hilton-los-angeles-295154/,Downtown Los Angeles,pets.maxCount,2,pets,https://www.wayfarerdtla.com/pet-policy/,2026-10-19
-"Tiller House, Laguna Hills, A Tribute Portfolio Hotel",https://journeyed.org/hotel/tiller-house-laguna-hills-a-tribute-portfolio-hotel-laguna-hills-f99e24/,Laguna Hills,pets.allowed,yes,,https://www.tillerhouse.com/faq.htm,2026-10-12
-"Tiller House, Laguna Hills, A Tribute Portfolio Hotel",https://journeyed.org/hotel/tiller-house-laguna-hills-a-tribute-portfolio-hotel-laguna-hills-f99e24/,Laguna Hills,pets.fee,75,USD,https://www.tillerhouse.com/faq.htm,2026-10-12
-"Tiller House, Laguna Hills, A Tribute Portfolio Hotel",https://journeyed.org/hotel/tiller-house-laguna-hills-a-tribute-portfolio-hotel-laguna-hills-f99e24/,Laguna Hills,pets.feePeriod,per-stay,,https://www.tillerhouse.com/faq.htm,2026-10-12
-"Tiller House, Laguna Hills, A Tribute Portfolio Hotel",https://journeyed.org/hotel/tiller-house-laguna-hills-a-tribute-portfolio-hotel-laguna-hills-f99e24/,Laguna Hills,pets.weightLimit,35,lb,https://www.tillerhouse.com/faq.htm,2026-10-12
-"Tiller House, Laguna Hills, A Tribute Portfolio Hotel",https://journeyed.org/hotel/tiller-house-laguna-hills-a-tribute-portfolio-hotel-laguna-hills-f99e24/,Laguna Hills,pets.maxCount,2,pets,https://www.tillerhouse.com/faq.htm,2026-10-12
+"Tiller House, Laguna Hills, A Tribute Portfolio Hotel",https://journeyed.org/hotel/tiller-house-laguna-hills-a-tribute-portfolio-hotel-laguna-hills-f99e24/,Laguna Hills,pets.allowed,yes,,https://www.tillerhouse.com/faq.htm,2026-10-20
+"Tiller House, Laguna Hills, A Tribute Portfolio Hotel",https://journeyed.org/hotel/tiller-house-laguna-hills-a-tribute-portfolio-hotel-laguna-hills-f99e24/,Laguna Hills,pets.fee,75,USD,https://www.tillerhouse.com/faq.htm,2026-10-20
+"Tiller House, Laguna Hills, A Tribute Portfolio Hotel",https://journeyed.org/hotel/tiller-house-laguna-hills-a-tribute-portfolio-hotel-laguna-hills-f99e24/,Laguna Hills,pets.feePeriod,per-stay,,https://www.tillerhouse.com/faq.htm,2026-10-20
+"Tiller House, Laguna Hills, A Tribute Portfolio Hotel",https://journeyed.org/hotel/tiller-house-laguna-hills-a-tribute-portfolio-hotel-laguna-hills-f99e24/,Laguna Hills,pets.weightLimit,35,lb,https://www.tillerhouse.com/faq.htm,2026-10-20
+"Tiller House, Laguna Hills, A Tribute Portfolio Hotel",https://journeyed.org/hotel/tiller-house-laguna-hills-a-tribute-portfolio-hotel-laguna-hills-f99e24/,Laguna Hills,pets.maxCount,2,pets,https://www.tillerhouse.com/faq.htm,2026-10-20
 Tourist Lodge,https://journeyed.org/hotel/tourist-lodge-inglewood-0687c1/,Inglewood,pets.allowed,no,,https://www.touristlodgeinglewood.us/policies.html,2026-10-19
 Travelodge Inn and Suites by Wyndham Bell Los Angeles Area,https://journeyed.org/hotel/travelodge-inn-and-suites-by-wyndham-bell-los-angeles-area-bell-7cb6b5/,Bell,pets.allowed,no,,https://www.travelodgeinnbell.com/amenities-services/,2026-10-19
 Tropico Motel,https://journeyed.org/hotel/tropico-motel-glendale-5579cf/,Glendale,pets.allowed,no,,https://www.tropicomotel-glendale.us/,2026-10-19
 USC Hotel,https://journeyed.org/hotel/usc-hotel-los-angeles-536d2e/,Los Angeles (other areas),pets.allowed,yes,,https://uschotel.usc.edu/,2026-10-19
 Value Inn Bellflower,https://journeyed.org/hotel/value-inn-bellflower-bellflower-4cafaf/,Bellflower,pets.allowed,no,,https://valueinnbellflowerca.com/amenities/,2026-10-19
-Value Inn Motel,https://journeyed.org/hotel/value-inn-motel-los-angeles-74bee7/,Los Angeles (other areas),pets.allowed,no,,https://www.valueinnsylmar.us/policies.html,2026-10-12
+Value Inn Motel,https://journeyed.org/hotel/value-inn-motel-los-angeles-74bee7/,Los Angeles (other areas),pets.allowed,no,,https://www.valueinnsylmar.us/policies.html,2026-10-20
 Vector Travel,https://journeyed.org/hotel/vector-travel-los-angeles-5b03df/,Downtown Los Angeles,pets.allowed,no,,https://www.vectorstays.com/,2026-10-19
 Venice Breeze Suites,https://journeyed.org/hotel/venice-breeze-suites-venice-19db7e/,Venice,pets.allowed,yes,,https://www.venicebreezesuites.com/,2026-10-03
 Venice on the Beach Hotel,https://journeyed.org/hotel/venice-on-the-beach-hotel-los-angeles-394b9f/,Venice,pets.allowed,no,,http://www.veniceonthebeachhotel.com/our-hotel/policies.html,2026-10-19
