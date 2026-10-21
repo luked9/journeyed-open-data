@@ -1,6 +1,6 @@
 # The median stated resort fee at LA hotels is $40 a day
 
-Resort and Destination Fees at LA Hotels. Published 2026-10-03. Data checked 2026-10-20.
+Resort and Destination Fees at LA Hotels. Published 2026-10-03. Data checked 2026-10-21.
 
 31 hotels in the Los Angeles area state on their own website whether they charge a resort, destination or amenity fee. 27 state a daily amount, from $3 to $125, and 4 say they charge none.
 
@@ -90,7 +90,7 @@ Video summary: https://www.youtube.com/watch?v=tWwIHHQ2mm0
 
 ## Cite this report
 
-Journeyed, "Resort and Destination Fees at LA Hotels", data checked October 20, 2026, https://journeyed.org/reports/la-hotel-resort-fees/
+Journeyed, "Resort and Destination Fees at LA Hotels", data checked October 21, 2026, https://journeyed.org/reports/la-hotel-resort-fees/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -99,7 +99,7 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 20, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 21, 2026. Nothing comes from booking sites, review sites or guest reports.
 
 The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,224 of them list their own website, and we have read at least one detail about the stay from 451 of those websites so far. A website our crawler opened but found no such detail on is not among the 451, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
@@ -122,6 +122,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-20
+Last checked: 2026-10-21
 
 Canonical: https://journeyed.org/reports/la-hotel-resort-fees/
