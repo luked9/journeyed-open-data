@@ -1,6 +1,6 @@
 # LA Hotel Fee Index, October 2026: median stated self-parking charge is $28.50 a night
 
-The Journeyed LA Hotel Fee Index. Published 2026-10-14. Data checked 2026-10-22.
+The Journeyed LA Hotel Fee Index. Published 2026-10-14. Data checked 2026-10-23.
 
 A monthly index of the fees hotels in the Los Angeles area state on their own websites. October 2026 edition: 213 hotels state a self-parking price and 155 (73%) say it is free, with a median charge of $28.50 a night where one is charged. 27 hotels state a resort or destination fee amount, median $40 a night. 46 state a pet fee, median $100.
 
@@ -134,6 +134,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-22
+Last checked: 2026-10-23
 
 Canonical: https://journeyed.org/reports/la-hotel-fee-index/
