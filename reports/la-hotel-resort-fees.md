@@ -1,6 +1,6 @@
 # The median stated resort fee at LA hotels is $40 a day
 
-Resort and Destination Fees at LA Hotels. Published 2026-10-03. Data checked 2026-10-24.
+Resort and Destination Fees at LA Hotels. Published 2026-10-03. Data checked 2026-10-25.
 
 31 hotels in the Los Angeles area state on their own website whether they charge a resort, destination or amenity fee. 27 state a daily amount, from $3 to $125, and 4 say they charge none.
 
@@ -90,7 +90,7 @@ Video summary: https://www.youtube.com/watch?v=tWwIHHQ2mm0
 
 ## Cite this report
 
-Journeyed, "Resort and Destination Fees at LA Hotels", data checked October 24, 2026, https://journeyed.org/reports/la-hotel-resort-fees/
+Journeyed, "Resort and Destination Fees at LA Hotels", data checked October 25, 2026, https://journeyed.org/reports/la-hotel-resort-fees/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -122,6 +122,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-24
+Last checked: 2026-10-25
 
 Canonical: https://journeyed.org/reports/la-hotel-resort-fees/
