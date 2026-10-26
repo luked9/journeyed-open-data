@@ -1,12 +1,12 @@
 # LA Hotel Fee Index, October 2026: median stated self-parking charge is $28.50 a night
 
-The Journeyed LA Hotel Fee Index. Published 2026-10-14. Data checked 2026-10-25.
+The Journeyed LA Hotel Fee Index. Published 2026-10-14. Data checked 2026-10-26.
 
 A monthly index of the fees hotels in the Los Angeles area state on their own websites. October 2026 edition: 213 hotels state a self-parking price and 155 (73%) say it is free, with a median charge of $28.50 a night where one is charged. 27 hotels state a resort or destination fee amount, median $40 a night. 46 state a pet fee, median $100.
 
 Sample: 277 hotels that state at least one fee, out of 451 hotel websites with a detail read and 2,608 hotels in the market.
 
-Edition: October 2026 (data checked through October 24, 2026). Next edition: first business Tuesday of November 2026.
+Edition: October 2026 (data checked through October 26, 2026). Next edition: first business Tuesday of November 2026.
 
 ## Headline numbers
 
@@ -111,7 +111,7 @@ How medians are taken: one value per hotel, the latest the crawler read, with "f
 
 Editions: the index is published monthly, on the first business Tuesday, from the facts checked through the date shown. Each edition's rows are kept in the CSV under its edition column, so this URL accumulates the series.
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 24, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 26, 2026. Nothing comes from booking sites, review sites or guest reports.
 
 The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,224 of them list their own website, and we have read at least one detail about the stay from 451 of those websites so far. A website our crawler opened but found no such detail on is not among the 451, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
@@ -134,6 +134,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-25
+Last checked: 2026-10-26
 
 Canonical: https://journeyed.org/reports/la-hotel-fee-index/
