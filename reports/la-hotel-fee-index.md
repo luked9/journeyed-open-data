@@ -1,28 +1,28 @@
 # LA Hotel Fee Index, October 2026: median stated self-parking charge is $28.50 a night
 
-The Journeyed LA Hotel Fee Index. Published 2026-10-14. Data checked 2026-10-26.
+The Journeyed LA Hotel Fee Index. Published 2026-10-14. Data checked 2026-10-27.
 
-A monthly index of the fees hotels in the Los Angeles area state on their own websites. October 2026 edition: 213 hotels state a self-parking price and 155 (73%) say it is free, with a median charge of $28.50 a night where one is charged. 27 hotels state a resort or destination fee amount, median $40 a night. 46 state a pet fee, median $100.
+A monthly index of the fees hotels in the Los Angeles area state on their own websites. October 2026 edition: 213 hotels state a self-parking price and 155 (73%) say it is free, with a median charge of $28.50 a night where one is charged. 28 hotels state a resort or destination fee amount, median $37.50 a night. 46 state a pet fee, median $100.
 
-Sample: 277 hotels that state at least one fee, out of 451 hotel websites with a detail read and 2,608 hotels in the market.
+Sample: 279 hotels that state at least one fee, out of 453 hotel websites with a detail read and 2,608 hotels in the market.
 
-Edition: October 2026 (data checked through October 26, 2026). Next edition: first business Tuesday of November 2026.
+Edition: October 2026 (data checked through October 27, 2026). Next edition: first business Tuesday of November 2026.
 
 ## Headline numbers
 
-- **$28.50** median stated self-parking charge per night, where one is charged (48 hotels stating a charge, from $10 to $79)
+- **$28.50** median stated self-parking charge per night, where one is charged (50 hotels stating a charge, from $10 to $79)
 - **73%** of hotels that state a self-parking price say it is free (155 of 213 hotels stating a self-parking price)
-- **$40** median stated resort or destination fee per night (27 hotels stating an amount, from $3 to $125)
-- **7%** of hotel websites read state a resort fee policy, or that there is none (31 of 451 hotel websites with a detail read)
+- **$37.50** median stated resort or destination fee per night (28 hotels stating an amount, from $3 to $125)
+- **7%** of hotel websites read state a resort fee policy, or that there is none (32 of 453 hotel websites with a detail read)
 - **$100** median stated pet fee (46 hotels stating a fee, from $25 to $350)
 - **$60.50** median stated valet charge per night (29 hotels stating a charge, from $25 to $79)
 
 ## Key findings
 
-- 277 hotels in the Los Angeles area state at least one fee in this index on their own website, out of 451 hotel websites with a detail read and 2,608 hotels in the market.
-- Self-parking: 213 hotels state a price, 155 (73%) say it is free, and the 48 that state a charge have a median of $28.50 a night, the middle half from $21 to $40, range $10 to $79.
+- 279 hotels in the Los Angeles area state at least one fee in this index on their own website, out of 453 hotel websites with a detail read and 2,608 hotels in the market.
+- Self-parking: 213 hotels state a price, 155 (73%) say it is free, and the 50 that state a charge have a median of $28.50 a night, the middle half from $20 to $40, range $10 to $79.
 - Valet: 29 hotels state a charge, median $60.50 a night, range $25 to $79.
-- Resort, destination or amenity fee: 31 hotels state a policy, 4 say there is none, and the 27 that state an amount have a median of $40 a night, range $3 to $125.
+- Resort, destination or amenity fee: 32 hotels state a policy, 4 say there is none, and the 28 that state an amount have a median of $37.50 a night, range $3 to $125.
 - Pet fee: 46 hotels state an amount, median $100, range $25 to $350.
 - By area: 7 of 9 areas in the cut have at least 5 hotels stating a parking price; the rest are marked "too few to report".
 
@@ -38,13 +38,13 @@ The FTC's Rule on Unfair or Deceptive Fees took effect on May 12, 2025 and requi
 
 | Fee | Hotels stating a policy | Say it is free or none | State an amount | Median | Range |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| Self-parking, per night | 213 | 155 say free | 48 | $28.50 | $10 to $79 |
+| Self-parking, per night | 213 | 155 say free | 50 | $28.50 | $10 to $79 |
 | Valet parking, per night | 29 | 0 say free | 29 | $60.50 | $25 to $79 |
-| Resort, destination or amenity fee, per night | 31 | 4 say none | 27 | $40 | $3 to $125 |
+| Resort, destination or amenity fee, per night | 32 | 4 say none | 28 | $37.50 | $3 to $125 |
 | Pet fee, per stay or per night as stated | 46 | 0 say none | 46 | $100 | $25 to $350 |
 | Smoking in a room | 34 | 0 say none | 34 | $250 | $100 to $750 |
 | Security deposit or card hold | 35 | 0 say none | 35 | $100 | $50 to $500 |
-| Early check-in | 12 | 3 say free | 9 | $50 | $20 to $99 |
+| Early check-in | 11 | 2 say free | 9 | $50 | $20 to $99 |
 | Late check-out | 10 | 0 say free | 10 | $47.50 | $15 to $99 |
 
 Counts are of hotels whose own website states the fee. A median needs at least 5 stated amounts; "too few to report" marks a cell below that. Amounts are as the hotel states them, before tax. Of the 42 hotels that say how the pet fee is charged, 29 charge it once per stay and 13 per night.
@@ -57,8 +57,8 @@ The same counts for nine areas. An area with fewer than 5 hotels stating a fee i
 
 | Area | Hotels stating a parking price | Say parking is free | Median self-parking charge | Hotels stating a resort fee policy | Median resort fee |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| Downtown | 6 | 2 of 6 (33%) | too few to report | too few to report |  |
-| Hollywood | 11 | 5 of 11 (45%) | $20 | too few to report |  |
+| Downtown | 7 | 2 of 7 (29%) | too few to report | too few to report |  |
+| Hollywood | 11 | 5 of 11 (45%) | $21 | too few to report |  |
 | West Hollywood | 6 | 2 of 6 (33%) | too few to report | 6 | $40 |
 | Santa Monica | 8 | 3 of 8 (38%) | too few to report | 5 | $45 |
 | LAX area | 14 | 12 of 14 (86%) | too few to report | too few to report |  |
@@ -111,9 +111,9 @@ How medians are taken: one value per hotel, the latest the crawler read, with "f
 
 Editions: the index is published monthly, on the first business Tuesday, from the facts checked through the date shown. Each edition's rows are kept in the CSV under its edition column, so this URL accumulates the series.
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 26, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 27, 2026. Nothing comes from booking sites, review sites or guest reports.
 
-The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,224 of them list their own website, and we have read at least one detail about the stay from 451 of those websites so far. A website our crawler opened but found no such detail on is not among the 451, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
+The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,224 of them list their own website, and we have read at least one detail about the stay from 453 of those websites so far. A website our crawler opened but found no such detail on is not among the 453, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
 A hotel is counted only when its website states the fact in plain text. Our crawler reads up to 12 pages per site and runs no JavaScript, so a fee that appears only inside a booking widget, an image or a PDF is not counted. A hotel that is not counted may still offer or charge the thing; it has not said so in a form we could read.
 
@@ -134,6 +134,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-26
+Last checked: 2026-10-27
 
 Canonical: https://journeyed.org/reports/la-hotel-fee-index/

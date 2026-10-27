@@ -1,17 +1,17 @@
 # Crypto.com Arena has 215 hotels within 3 miles, Rose Bowl Stadium has 26
 
-Hotels Near LA Stadiums and Arenas. Published 2026-10-03. Data checked 2026-10-26.
+Hotels Near LA Stadiums and Arenas. Published 2026-10-03. Data checked 2026-10-27.
 
 We counted the hotels within 1, 3 and 5 miles of 12 stadiums and arenas in the Los Angeles area, and what those hotels say about parking and breakfast on their own websites.
 
-Sample: 1,498 hotel and venue pairs within 3 miles, out of 451 hotel websites with a detail read and 2,608 hotels in the market.
+Sample: 1,498 hotel and venue pairs within 3 miles, out of 453 hotel websites with a detail read and 2,608 hotels in the market.
 
 ## Headline numbers
 
 - **102** hotels within 3 miles of SoFi Stadium (15 within 1 mile, 247 within 5 miles)
 - **215** hotels within 3 miles of Crypto.com Arena, the most of any venue (73 within 1 mile)
 - **26** hotels within 3 miles of Rose Bowl Stadium, the fewest (1 within 1 mile, 64 within 5 miles)
-- **10%** of hotels within 3 miles of a venue state a parking price (143 of 1,498 hotel and venue pairs)
+- **10%** of hotels within 3 miles of a venue state a parking price (145 of 1,498 hotel and venue pairs)
 
 ## Key findings
 
@@ -19,7 +19,7 @@ Sample: 1,498 hotel and venue pairs within 3 miles, out of 451 hotel websites wi
 - Dodger Stadium: 174 hotels within 3 miles, 7 within 1 mile and 298 within 5 miles.
 - Angel Stadium: 169 hotels within 3 miles, 10 within 1 mile and 221 within 5 miles.
 - Hollywood Bowl: 169 hotels within 3 miles, 53 within 1 mile and 325 within 5 miles.
-- Across all 12 venues there are 1,498 hotel and venue pairs within 3 miles, and in 143 of them (10%) the hotel states a self-parking price on its own website.
+- Across all 12 venues there are 1,498 hotel and venue pairs within 3 miles, and in 145 of them (10%) the hotel states a self-parking price on its own website.
 
 ## How many hotels are near each LA stadium and arena?
 
@@ -54,10 +54,10 @@ For event nights the practical questions are whether the hotel charges for parki
 
 | Venue | Hotels | State a parking price | Say parking is free | Median charge | Say breakfast is free |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| Crypto.com Arena | 215 | 12 | 4 | $42.50 | 6 |
-| Dodger Stadium | 174 | 8 | 4 |  | 6 |
+| Crypto.com Arena | 215 | 13 | 4 | $40 | 6 |
+| Dodger Stadium | 174 | 9 | 4 |  | 6 |
 | Angel Stadium | 169 | 19 | 10 | $27 | 14 |
-| Hollywood Bowl | 169 | 17 | 8 | $22 | 5 |
+| Hollywood Bowl | 169 | 17 | 8 | $23.50 | 5 |
 | Honda Center | 163 | 19 | 10 | $27 | 14 |
 | Los Angeles Memorial Coliseum | 122 | 6 | 2 |  | 2 |
 | Toyota Sports Performance Center | 118 | 15 | 12 |  | 4 |
@@ -75,7 +75,7 @@ Video summary: https://www.youtube.com/watch?v=qC4S_bNi3zk
 
 ## Cite this report
 
-Journeyed, "Hotels Near LA Stadiums and Arenas", data checked October 26, 2026, https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/
+Journeyed, "Hotels Near LA Stadiums and Arenas", data checked October 27, 2026, https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -84,9 +84,9 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 26, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 27, 2026. Nothing comes from booking sites, review sites or guest reports.
 
-The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,224 of them list their own website, and we have read at least one detail about the stay from 451 of those websites so far. A website our crawler opened but found no such detail on is not among the 451, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
+The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,224 of them list their own website, and we have read at least one detail about the stay from 453 of those websites so far. A website our crawler opened but found no such detail on is not among the 453, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
 A hotel is counted only when its website states the fact in plain text. Our crawler reads up to 12 pages per site and runs no JavaScript, so a fee that appears only inside a booking widget, an image or a PDF is not counted. A hotel that is not counted may still offer or charge the thing; it has not said so in a form we could read.
 
@@ -107,6 +107,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-26
+Last checked: 2026-10-27
 
 Canonical: https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/

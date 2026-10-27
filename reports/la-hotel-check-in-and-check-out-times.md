@@ -1,10 +1,10 @@
 # The usual LA hotel day: check in at 3 PM, check out by 11 AM
 
-Check-in and Check-out Times at LA Hotels. Published 2026-10-03. Data checked 2026-10-26.
+Check-in and Check-out Times at LA Hotels. Published 2026-10-03. Data checked 2026-10-27.
 
 Of 221 hotels in the Los Angeles area that state a check-in time on their own website, 54% say 3 PM, and 27% make guests wait until 4 PM or later.
 
-Sample: 221 hotels that state a check-in time, out of 451 hotel websites with a detail read and 2,608 hotels in the market.
+Sample: 221 hotels that state a check-in time, out of 453 hotel websites with a detail read and 2,608 hotels in the market.
 
 ## Headline numbers
 
@@ -23,7 +23,7 @@ Sample: 221 hotels that state a check-in time, out of 451 hotel websites with a 
 
 ## What time is check-in at LA hotels?
 
-Of the 451 hotel websites we have read at least one detail from, 221 (49%) state a check-in time.
+Of the 453 hotel websites we have read at least one detail from, 221 (49%) state a check-in time.
 
 **Stated check-in times**
 
@@ -40,7 +40,7 @@ Of the 451 hotel websites we have read at least one detail from, 221 (49%) state
 
 ## What time is check-out at LA hotels?
 
-Of the 451 hotel websites we have read at least one detail from, 229 (51%) state a check-out time.
+Of the 453 hotel websites we have read at least one detail from, 229 (51%) state a check-out time.
 
 **Stated check-out times**
 
@@ -54,7 +54,7 @@ Of the 451 hotel websites we have read at least one detail from, 229 (51%) state
 
 ## What do early check-in and late check-out cost?
 
-Few hotels put a price on either. 12 hotels state an early check-in policy: 3 say there is no charge and 9 state a fee from $20 to $99, with a median of $50.
+Few hotels put a price on either. 11 hotels state an early check-in policy: 2 say there is no charge and 9 state a fee from $20 to $99, with a median of $50.
 
 10 hotels state a late check-out fee, from $15 to $99, with a median of $47.50.
 
@@ -64,7 +64,7 @@ Video summary: https://www.youtube.com/watch?v=JX2W2QCuQYI
 
 ## Cite this report
 
-Journeyed, "Check-in and Check-out Times at LA Hotels", data checked October 26, 2026, https://journeyed.org/reports/la-hotel-check-in-and-check-out-times/
+Journeyed, "Check-in and Check-out Times at LA Hotels", data checked October 27, 2026, https://journeyed.org/reports/la-hotel-check-in-and-check-out-times/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -73,9 +73,9 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 26, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 27, 2026. Nothing comes from booking sites, review sites or guest reports.
 
-The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,224 of them list their own website, and we have read at least one detail about the stay from 451 of those websites so far. A website our crawler opened but found no such detail on is not among the 451, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
+The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,224 of them list their own website, and we have read at least one detail about the stay from 453 of those websites so far. A website our crawler opened but found no such detail on is not among the 453, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
 A hotel is counted only when its website states the fact in plain text. Our crawler reads up to 12 pages per site and runs no JavaScript, so a fee that appears only inside a booking widget, an image or a PDF is not counted. A hotel that is not counted may still offer or charge the thing; it has not said so in a form we could read.
 
@@ -91,6 +91,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-26
+Last checked: 2026-10-27
 
 Canonical: https://journeyed.org/reports/la-hotel-check-in-and-check-out-times/
