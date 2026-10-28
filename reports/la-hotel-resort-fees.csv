@@ -4,8 +4,8 @@ hotel,hotel_url,area,key,value,unit,source_url,checked_on
 1 Hotel,https://journeyed.org/hotel/1-hotel-west-hollywood-39a29d/,West Hollywood,deposit,150,USD,https://www.1hotels.com/west-hollywood/faq,2026-10-27
 1 Hotel,https://journeyed.org/hotel/1-hotel-west-hollywood-39a29d/,West Hollywood,deposit.per,per-night,,https://www.1hotels.com/west-hollywood/faq,2026-10-27
 1 Hotel,https://journeyed.org/hotel/1-hotel-west-hollywood-39a29d/,West Hollywood,wifi.free,yes,,https://www.1hotels.com/west-hollywood/faq,2026-10-27
-20th Century Motor Lodge,https://journeyed.org/hotel/20th-century-motor-lodge-glendora-e37c42/,Glendora,wifi.free,yes,,https://20thcenturymotorlodge.com/rooms-and-rates,2026-10-20
-AIR Venice,https://journeyed.org/hotel/air-venice-venice-ff70f0/,Venice,wifi.free,yes,,https://www.airinvenice.com/amenities-services/,2026-10-20
+20th Century Motor Lodge,https://journeyed.org/hotel/20th-century-motor-lodge-glendora-e37c42/,Glendora,wifi.free,yes,,https://20thcenturymotorlodge.com/rooms-and-rates,2026-10-28
+AIR Venice,https://journeyed.org/hotel/air-venice-venice-ff70f0/,Venice,wifi.free,yes,,https://www.airinvenice.com/amenities-services/,2026-10-28
 AKA Beverly Hills,https://journeyed.org/hotel/aka-beverly-hills-beverly-hills-41d546/,Beverly Hills,wifi.free,yes,,https://www.stayaka.com/aka-central-park,2026-10-27
 Alamo Inn and Suites,https://journeyed.org/hotel/alamo-inn-and-suites-anaheim-8277ca/,Anaheim,wifi.free,yes,,https://www.thealamoinn.com/services,2026-10-11
 American Inn Downey,https://journeyed.org/hotel/american-inn-downey-downey-6792b6/,Downey,wifi.free,yes,,http://www.americaninndowney.com/accommodations.php,2026-10-27
@@ -43,8 +43,8 @@ Camelot Inn and Suites,https://journeyed.org/hotel/camelot-inn-and-suites-anahei
 Candy Cane Inn,https://journeyed.org/hotel/candy-cane-inn-anaheim-b3b422/,Anaheim,wifi.free,yes,,https://candycaneinn.net/amenities/,2026-10-27
 Cara Hotel,https://journeyed.org/hotel/cara-hotel-los-angeles-f2d3d6/,Hollywood,wifi.free,yes,,https://www.carahotel.com/rooms,2026-10-27
 Casa Bell Motel,https://journeyed.org/hotel/casa-bell-motel-inglewood-2fe9e6/,Inglewood,wifi.free,yes,,https://www.casabellmotelinglewood.com/amenities-services/,2026-10-27
-Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,resortFee,40,USD,https://casalomalagunabeach.com/faq/,2026-10-20
-Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,smoking.fee,400,USD,https://casalomalagunabeach.com/faq/,2026-10-20
+Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,resortFee,40,USD,https://casalomalagunabeach.com/faq/,2026-10-28
+Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,smoking.fee,400,USD,https://casalomalagunabeach.com/faq/,2026-10-28
 Casa Lu-An Motel,https://journeyed.org/hotel/casa-lu-an-motel-los-angeles-b721ae/,Los Angeles (other areas),wifi.free,yes,,https://casaluanmotel.seasonsnseasons.com/amenities.html,2026-10-27
 Castaway Motel,https://journeyed.org/hotel/castaway-motel-orange-c2cbf9/,Orange,smoking.fee,100,USD,https://www.castawaymotelorange.us/policies.html,2026-10-27
 Castaway Motel,https://journeyed.org/hotel/castaway-motel-orange-c2cbf9/,Orange,deposit,100,USD,https://www.castawaymotelorange.us/policies.html,2026-10-27
@@ -53,7 +53,7 @@ Castaway Motel,https://journeyed.org/hotel/castaway-motel-orange-c2cbf9/,Orange,
 Castle Inn & Suites,https://journeyed.org/hotel/castle-inn-and-suites-anaheim-dc70a5/,Anaheim,wifi.free,yes,,https://www.castleinn.com/amenities.htm,2026-10-27
 Catalina Island Inn,https://journeyed.org/hotel/catalina-island-inn-avalon-ba1727/,Avalon,wifi.free,yes,,https://www.catalinaislandinn.com/faqs,2026-10-03
 Catalina's Courtyard Garden Suites,https://journeyed.org/hotel/catalinas-courtyard-garden-suites-avalon-0b81dc/,Avalon,wifi.free,yes,,https://catalinacourtyardsuites.com/rooms-and-rates,2026-10-21
-Century Park Hotel,https://journeyed.org/hotel/century-park-hotel-los-angeles-0bd74f/,Century City,wifi.free,yes,,https://www.centuryparkla.com/losangeles-boutique-hotels/,2026-10-20
+Century Park Hotel,https://journeyed.org/hotel/century-park-hotel-los-angeles-0bd74f/,Century City,wifi.free,yes,,https://www.centuryparkla.com/losangeles-boutique-hotels/,2026-10-28
 Chamberlain West Hollywood Hotel,https://journeyed.org/hotel/chamberlain-west-hollywood-hotel-west-hollywood-c09126/,West Hollywood,resortFee,40,USD,https://www.chamberlainwesthollywood.com/rooms/ada-premier-king-suite/,2026-10-03
 Chariot Inn,https://journeyed.org/hotel/chariot-inn-glendale-49617a/,Glendale,wifi.free,yes,,https://www.chariotinn.com/amenities-services/,2026-10-27
 Chase Suite Hotel Brea,https://journeyed.org/hotel/chase-suite-hotel-brea-brea-44e66b/,Brea,smoking.fee,250,USD,https://www.chasehotelbrea.com/faqs,2026-10-11
@@ -108,24 +108,24 @@ Embassy Suites by Hilton Los Angeles International Airport North,https://journey
 Empire Inn LAX,https://journeyed.org/hotel/empire-inn-lax-los-angeles-a33244/,Inglewood,wifi.free,yes,,https://www.empireinnlax.com/guestrooms,2026-10-11
 Encore Inn,https://journeyed.org/hotel/encore-inn-inglewood-bfca1e/,Inglewood,wifi.free,yes,,https://www.encoreinnlax.com/guestrooms,2026-10-11
 Epic Hotel,https://journeyed.org/hotel/epic-hotel-pico-rivera-467b8b/,Pico Rivera,wifi.free,yes,,https://www.epichotelpicorivera.com/amenities-services/,2026-10-27
-Evergreen Inn,https://journeyed.org/hotel/evergreen-inn-covina-88d181/,Covina,wifi.free,yes,,https://www.evergreeninncovina.com/,2026-10-20
+Evergreen Inn,https://journeyed.org/hotel/evergreen-inn-covina-88d181/,Covina,wifi.free,yes,,https://www.evergreeninncovina.com/,2026-10-28
 Fenix Hotel Hollywood,https://journeyed.org/hotel/fenix-hotel-hollywood-los-angeles-60ea7f/,Hollywood,wifi.free,yes,,https://www.fenixhollywood.com/,2026-10-27
 Fountain Inn Motel Alhambra Los Angeles,https://journeyed.org/hotel/fountain-inn-motel-alhambra-los-angeles-alhambra-1734ea/,Alhambra,wifi.free,yes,,https://fountaininnla.com/amenities.html,2026-10-27
 Frazier View Motel,https://journeyed.org/hotel/frazier-view-motel-frazier-park-8a3fb1/,Frazier Park,wifi.free,yes,,https://www.frazierviewmotel.com/about-us.html,2026-10-21
 Galaxy Inn,https://journeyed.org/hotel/galaxy-inn-culver-city-9d76e6/,Culver City,wifi.free,yes,,https://www.galaxyinnla.us/amenities.html,2026-10-27
-Garden Inn and Suites,https://journeyed.org/hotel/garden-inn-and-suites-glendora-771f13/,Glendora,wifi.free,yes,,https://www.gardeninnglendora.com/faq.asp,2026-10-20
-Garden Inn San Gabriel,https://journeyed.org/hotel/garden-inn-san-gabriel-san-gabriel-3f14d6/,San Gabriel,wifi.free,yes,,https://gardeninnsangabriel.com/amenities.html,2026-10-20
+Garden Inn and Suites,https://journeyed.org/hotel/garden-inn-and-suites-glendora-771f13/,Glendora,wifi.free,yes,,https://www.gardeninnglendora.com/faq.asp,2026-10-28
+Garden Inn San Gabriel,https://journeyed.org/hotel/garden-inn-san-gabriel-san-gabriel-3f14d6/,San Gabriel,wifi.free,yes,,https://gardeninnsangabriel.com/amenities.html,2026-10-28
 Garden Suite Hotel,https://journeyed.org/hotel/garden-suite-hotel-los-angeles-dafedd/,Koreatown,wifi.free,yes,,https://gardensuitehotel.com/room-%26-suites,2026-10-27
 Garey Motel Pomona,https://journeyed.org/hotel/garey-motel-pomona-pomona-300d55/,Pomona,wifi.free,yes,,https://www.gareymotelpomona.com/amenities-services/,2026-10-22
 Gateway Hotel Santa Monica,https://journeyed.org/hotel/gateway-hotel-santa-monica-santa-monica-d0a412/,Santa Monica,wifi.free,yes,,https://www.gatewayhotel.com/accommodations/1-king-bed,2026-10-27
 Geneva Motel,https://journeyed.org/hotel/geneva-motel-inglewood-455aa6/,Inglewood,wifi.free,yes,,https://www.genevainnlax.com/amenities/,2026-10-27
 Glendale Express Hotel,https://journeyed.org/hotel/glendale-express-hotel-glendale-569f37/,Glendale,smoking.fee,250,USD,https://www.glendaleexpresshotel.com/faq,2026-10-27
 Glendale Express Hotel,https://journeyed.org/hotel/glendale-express-hotel-glendale-569f37/,Glendale,wifi.free,yes,,https://www.glendaleexpresshotel.com/faq,2026-10-27
-Glendora Motel,https://journeyed.org/hotel/glendora-motel-glendora-81b63c/,Glendora,wifi.free,yes,,https://www.glendoramotel.us/,2026-10-20
+Glendora Motel,https://journeyed.org/hotel/glendora-motel-glendora-81b63c/,Glendora,wifi.free,yes,,https://www.glendoramotel.us/amenities.html,2026-10-28
 Glenmore Plaza Hotel,https://journeyed.org/hotel/glenmore-plaza-hotel-avalon-acb040/,Avalon,wifi.free,yes,,https://glenmoreplaza.com/,2026-10-21
 Glenridge Inn Glendale Pasadena,https://journeyed.org/hotel/glenridge-inn-glendale-pasadena-glendale-8c8107/,Glendale,wifi.free,yes,,https://www.glenridgeinn.com/amenities-and-services/,2026-10-27
-Grand Inn,https://journeyed.org/hotel/grand-inn-fullerton-39e3bd/,Fullerton,wifi.free,yes,,http://grandinn.net/,2026-10-20
-Graziadio Executive Center,https://journeyed.org/hotel/graziadio-executive-center-malibu-87310c/,Malibu,wifi.free,yes,,https://villagraziadio.com/accommodations-2/,2026-10-20
+Grand Inn,https://journeyed.org/hotel/grand-inn-fullerton-39e3bd/,Fullerton,wifi.free,yes,,http://grandinn.net/,2026-10-28
+Graziadio Executive Center,https://journeyed.org/hotel/graziadio-executive-center-malibu-87310c/,Malibu,wifi.free,yes,,https://villagraziadio.com/accommodations-2/,2026-10-28
 "H Hotel Los Angeles, Curio Collection by Hilton",https://journeyed.org/hotel/h-hotel-los-angeles-curio-collection-by-hilton-los-angeles-c275f6/,Westchester,wifi.free,yes,,https://hhotellosangeles.com/waypoint-kitchen-bar/,2026-10-27
 H2O Hermosa,https://journeyed.org/hotel/h2o-hermosa-hermosa-beach-570dc4/,Hermosa Beach,resortFee,20,USD,https://www.h2ohermosa.com/faq,2026-10-27
 H2O Hermosa,https://journeyed.org/hotel/h2o-hermosa-hermosa-beach-570dc4/,Hermosa Beach,wifi.free,yes,,https://www.h2ohermosa.com/faq,2026-10-27
@@ -207,10 +207,10 @@ Huntington Beach Inn,https://journeyed.org/hotel/huntington-beach-inn-huntington
 Hyde Park Motel,https://journeyed.org/hotel/hyde-park-motel-los-angeles-99805a/,Los Angeles (other areas),wifi.free,yes,,https://www.hydeparkmotel-la.us/amenities.html,2026-10-27
 Inn at Venice Beach,https://journeyed.org/hotel/inn-at-venice-beach-los-angeles-734c9a/,Marina del Rey,wifi.free,yes,,https://www.innatvenicebeach.com/venice-beach-accommodations/,2026-10-27
 Inn of Long Beach,https://journeyed.org/hotel/inn-of-long-beach-long-beach-acd0db/,Long Beach,wifi.free,yes,,http://www.innoflongbeach.com/faq.asp,2026-10-27
-Islander Motel,https://journeyed.org/hotel/islander-motel-los-angeles-323847/,Los Angeles (other areas),wifi.free,yes,,https://www.theislandermotel.org/apartments,2026-10-20
+Islander Motel,https://journeyed.org/hotel/islander-motel-los-angeles-323847/,Los Angeles (other areas),wifi.free,yes,,https://www.theislandermotel.org/apartments,2026-10-28
 Jet Inn,https://journeyed.org/hotel/jet-inn-los-angeles-c9d0a8/,Los Angeles (other areas),wifi.free,yes,,https://www.jetinn-la.us/amenities.html,2026-10-27
 Kawada Hotel,https://journeyed.org/hotel/kawada-hotel-los-angeles-7be796/,Downtown Los Angeles,wifi.free,yes,,https://www.kawadahotel.com/guestrooms,2026-10-27
-Kellogg West Conference Center And Hotel,https://journeyed.org/hotel/kellogg-west-conference-center-and-hotel-pomona-5f9988/,Pomona,wifi.free,yes,,https://kelloggwest.com/rooms/,2026-10-20
+Kellogg West Conference Center And Hotel,https://journeyed.org/hotel/kellogg-west-conference-center-and-hotel-pomona-5f9988/,Pomona,wifi.free,yes,,https://kelloggwest.com/rooms/,2026-10-28
 Kimpton Everly Hotel,https://journeyed.org/hotel/kimpton-everly-hotel-los-angeles-a953cf/,Hollywood,wifi.free,yes,,https://www.everlyhotelhollywood.com/faq/,2026-10-27
 Kimpton Hotel Palomar Los Angeles Beverly Hills,https://journeyed.org/hotel/kimpton-hotel-palomar-los-angeles-beverly-hills-los-angeles-6e88a1/,Westwood,wifi.free,yes,,https://www.hotelpalomar-beverlyhills.com/faq/,2026-10-27
 Kimpton La Peer West Hollywood,https://journeyed.org/hotel/kimpton-la-peer-west-hollywood-west-hollywood-285817/,West Hollywood,wifi.free,yes,,https://www.lapeerhotel.com/faq/,2026-10-27
@@ -223,14 +223,14 @@ kodō hotel,https://journeyed.org/hotel/kodo-hotel-los-angeles-a4c069/,Downtown 
 kodō hotel,https://journeyed.org/hotel/kodo-hotel-los-angeles-a4c069/,Downtown Los Angeles,earlyCheckin.fee,60,USD,https://kodohotel.com/hotel-policy/,2026-10-27
 kodō hotel,https://journeyed.org/hotel/kodo-hotel-los-angeles-a4c069/,Downtown Los Angeles,lateCheckout.fee,60,USD,https://kodohotel.com/hotel-policy/,2026-10-27
 LA Adventure Hotel,https://journeyed.org/hotel/la-adventure-hotel-inglewood-09a075/,Inglewood,wifi.free,yes,,https://www.laadventureinglewood.com/amenities-services/,2026-10-27
-La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,resortFee.includes,"wifi,beach-gear",,https://lacasadelcamino.com/photo-gallery/faq/,2026-10-20
-La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,smoking.fee,250,USD,https://lacasadelcamino.com/photo-gallery/faq/,2026-10-20
-La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,deposit,50,USD,https://lacasadelcamino.com/photo-gallery/faq/,2026-10-20
-La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,deposit.per,per-night,,https://lacasadelcamino.com/photo-gallery/faq/,2026-10-20
+La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,resortFee.includes,"wifi,beach-gear",,https://lacasadelcamino.com/photo-gallery/faq/,2026-10-28
+La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,smoking.fee,250,USD,https://lacasadelcamino.com/photo-gallery/faq/,2026-10-28
+La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,deposit,50,USD,https://lacasadelcamino.com/photo-gallery/faq/,2026-10-28
+La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,deposit.per,per-night,,https://lacasadelcamino.com/photo-gallery/faq/,2026-10-28
 La Mirage Inn - Long Beach,https://journeyed.org/hotel/la-mirage-inn-long-beach-long-beach-692265/,Long Beach,wifi.free,yes,,https://www.lamirageinnlongbeach.com/amenities-services-long-beach-motel/,2026-10-27
 La Paloma Las Flores,https://journeyed.org/hotel/la-paloma-las-flores-avalon-41d369/,Avalon,wifi.free,yes,,https://www.lapalomalasflores.com/aboutus,2026-10-21
-Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,resortFee,35,USD,https://www.thelagunabeachhouse.com/faq/,2026-10-20
-Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,smoking.fee,400,USD,https://www.thelagunabeachhouse.com/faq/,2026-10-20
+Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,resortFee,35,USD,https://www.thelagunabeachhouse.com/faq/,2026-10-28
+Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,smoking.fee,400,USD,https://www.thelagunabeachhouse.com/faq/,2026-10-28
 Lambert Inn,https://journeyed.org/hotel/lambert-inn-whittier-8efefc/,Whittier,wifi.free,yes,,https://lambertinnca.com/accessible-guest-room/,2026-10-11
 Le Blanc Inn and Suites,https://journeyed.org/hotel/le-blanc-inn-and-suites-el-monte-465f08/,El Monte,wifi.free,yes,,https://www.leblancinnelmonte.com/faq-for-hotel-in-el-monte.html,2026-10-27
 Legacy Inn & Suites,https://journeyed.org/hotel/legacy-inn-and-suites-garden-grove-805f88/,Garden Grove,wifi.free,yes,,https://legacyinngardengrove.com/amenities/,2026-10-27
@@ -239,10 +239,10 @@ Lemon Tree Hotel and suites,https://journeyed.org/hotel/lemon-tree-hotel-and-sui
 Lexen Hotel,https://journeyed.org/hotel/lexen-hotel-los-angeles-10413e/,Hollywood,wifi.free,yes,,https://www.lexenhotelhollywood.us/amenities.html,2026-10-27
 Libra Hotel,https://journeyed.org/hotel/libra-hotel-los-angeles-4a5ef3/,Koreatown,wifi.free,yes,,https://www.librahotella.com/rooms,2026-10-27
 Life Is Good in Los Angeles,https://journeyed.org/hotel/life-is-good-in-los-angeles-sherman-oaks-45f266/,Sherman Oaks,wifi.free,yes,,https://www.lifeisgood-bnb.com/Guest%20Suite.htm,2026-10-27
-（林肯酒店）Lincoln Hotel,https://journeyed.org/hotel/lincoln-hotel-monterey-park-cd0e49/,Monterey Park,wifi.free,yes,,https://lincolnplazahotel.net/about/,2026-10-20
+（林肯酒店）Lincoln Hotel,https://journeyed.org/hotel/lincoln-hotel-monterey-park-cd0e49/,Monterey Park,wifi.free,yes,,https://lincolnplazahotel.net/about/,2026-10-28
 Lincoln Motel,https://journeyed.org/hotel/lincoln-motel-pasadena-76befb/,Pasadena,wifi.free,yes,,https://www.lincolnmotelpasadena.com/,2026-10-27
-Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,deposit,200,USD,https://www.littleinnbythebay.com/rooms-suites/,2026-10-20
-Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,wifi.free,yes,,https://www.littleinnbythebay.com/amenities-services/,2026-10-20
+Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,deposit,200,USD,https://www.littleinnbythebay.com/rooms-suites/,2026-10-28
+Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,wifi.free,yes,,https://www.littleinnbythebay.com/amenities-services/,2026-10-28
 Los Angeles Inn and Suites,https://journeyed.org/hotel/los-angeles-inn-and-suites-los-angeles-8ac74c/,Los Angeles (other areas),wifi.free,yes,,https://www.losangelesinnlax.com/cheap-rooms-near-lax/,2026-10-27
 Magnolia Tree Hotel,https://journeyed.org/hotel/magnolia-tree-hotel-anaheim-7f5868/,Anaheim,wifi.free,yes,,https://www.magnoliatreehotel.com/amenities-services/,2026-10-27
 Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,wifi.free,yes,,https://www.malibucountryinn.com/amenities,2026-10-22
@@ -287,7 +287,7 @@ Palihotel Westwood Village,https://journeyed.org/hotel/palihotel-westwood-villag
 Palihouse West Hollywood,https://journeyed.org/hotel/palihouse-west-hollywood-los-angeles-758142/,West Hollywood,wifi.free,yes,,https://www.palisociety.com/hotels/west-hollywood/faq,2026-10-27
 Palm Garden Hotel,https://journeyed.org/hotel/palm-garden-hotel-thousand-oaks-6f4026/,Thousand Oaks,wifi.free,yes,,https://www.palmgardenhotel.com/,2026-10-21
 Palm Motel - Rosemead,https://journeyed.org/hotel/palm-motel-rosemead-rosemead-26f22a/,Rosemead,wifi.free,yes,,https://palminnmotelrosemead.com/amenities,2026-10-27
-Palm Tree Inn,https://journeyed.org/hotel/palm-tree-inn-los-angeles-afdb78/,Los Angeles (other areas),wifi.free,yes,,https://www.palmtreeinnnhills.us/amenities.html,2026-10-20
+Palm Tree Inn,https://journeyed.org/hotel/palm-tree-inn-los-angeles-afdb78/,Los Angeles (other areas),wifi.free,yes,,https://www.palmtreeinnnhills.us/amenities.html,2026-10-28
 Parkside Inn Anaheim,https://journeyed.org/hotel/parkside-inn-anaheim-anaheim-7f0dd1/,Anaheim,wifi.free,yes,,https://www.parksideinnanaheim.com/amenities,2026-10-27
 Pasadena Hotel & Pool,https://journeyed.org/hotel/pasadena-hotel-and-pool-pasadena-6d95a9/,Pasadena,deposit,50,USD,https://www.pasadenahotel.com/faq,2026-10-27
 Pasadena Hotel & Pool,https://journeyed.org/hotel/pasadena-hotel-and-pool-pasadena-6d95a9/,Pasadena,wifi.free,yes,,https://www.pasadenahotel.com/about,2026-10-27
@@ -300,7 +300,7 @@ Pendry Newport Beach,https://journeyed.org/hotel/pendry-newport-beach-newport-be
 Pendry Newport Beach,https://journeyed.org/hotel/pendry-newport-beach-newport-beach-b5e3d7/,Newport Beach,wifi.free,yes,,https://www.pendry.com/newport-beach/accommodations/,2026-10-11
 Plaza Inn Motel,https://journeyed.org/hotel/plaza-inn-motel-rosemead-7ddfc4/,Rosemead,wifi.free,yes,,https://plazainnmotelrosemead.com/amenities.html,2026-10-27
 Plaza La Reina,https://journeyed.org/hotel/plaza-la-reina-los-angeles-a67d13/,Westwood,wifi.free,yes,,https://www.plazalareina.com/,2026-10-27
-Pomona Inn Motel,https://journeyed.org/hotel/pomona-inn-motel-pomona-99b533/,Pomona,wifi.free,yes,,https://www.pomonainn.com/pomona-ca-hotel-amenities.html,2026-10-20
+Pomona Inn Motel,https://journeyed.org/hotel/pomona-inn-motel-pomona-99b533/,Pomona,wifi.free,yes,,https://www.pomonainn.com/pomona-ca-hotel-amenities.html,2026-10-28
 Portofino Inn Burbank,https://journeyed.org/hotel/portofino-inn-burbank-burbank-1a7fd2/,Burbank,wifi.free,yes,,http://www.portofinoburbank.com/faq.asp,2026-10-27
 Providencia Motel,https://journeyed.org/hotel/providencia-motel-burbank-e89fc0/,Burbank,wifi.free,yes,,https://www.providenciamotelburbank.com/amenities/,2026-10-27
 Queens Inn Anaheim near The Park & Convention Center,https://journeyed.org/hotel/queens-inn-anaheim-near-the-park-and-convention-center-anaheim-dec383/,Anaheim,wifi.free,yes,,https://queensinnanaheim.com/hotel-near-conventions/,2026-10-27
@@ -316,7 +316,7 @@ Ramada Plaza,https://journeyed.org/hotel/ramada-plaza-west-hollywood-5a9d89/,Wes
 Redac Gateway Hotel,https://journeyed.org/hotel/redac-gateway-hotel-torrance-8fd26a/,Torrance,deposit,150,USD,https://www.redachotel.com/overview,2026-10-11
 Redac Gateway Hotel,https://journeyed.org/hotel/redac-gateway-hotel-torrance-8fd26a/,Torrance,wifi.free,yes,,https://www.redachotel.com/,2026-10-11
 Redondo Inn and Suites,https://journeyed.org/hotel/redondo-inn-and-suites-redondo-beach-46c2da/,Redondo Beach,wifi.free,yes,,https://www.redondoinn.com/amenities-services/,2026-10-27
-Redondo Pier Inn,https://journeyed.org/hotel/redondo-pier-inn-redondo-beach-b777f6/,Redondo Beach,wifi.free,yes,,https://www.redondopierinn.com/accomodations.html,2026-10-20
+Redondo Pier Inn,https://journeyed.org/hotel/redondo-pier-inn-redondo-beach-b777f6/,Redondo Beach,wifi.free,yes,,https://www.redondopierinn.com/accomodations.html,2026-10-28
 Regency Inn and Suites Downey,https://journeyed.org/hotel/regency-inn-and-suites-downey-downey-ec7958/,Downey,wifi.free,yes,,https://www.regencyinnla.com/downey-accommodations/,2026-10-27
 Regency Inn,https://journeyed.org/hotel/regency-inn-los-angeles-38f0c4/,Glendale,wifi.free,yes,,https://regencyinneaglerock.com/rooms/,2026-10-27
 Regent Santa Monica Beach,https://journeyed.org/hotel/regent-santa-monica-beach-santa-monica-d42d12/,Santa Monica,resortFee.includes,yoga,,https://santamonica.regenthotels.com/faqs/,2026-10-27
@@ -325,7 +325,7 @@ Rodeway Inn Commerce - Los Angeles,https://journeyed.org/hotel/rodeway-inn-comme
 Rodeway Inn Commerce - Los Angeles,https://journeyed.org/hotel/rodeway-inn-commerce-los-angeles-commerce-21deb1/,Commerce,deposit,500,USD,https://www.destiny-inn.com/hotel-policies,2026-10-27
 Rodeway Inn Commerce - Los Angeles,https://journeyed.org/hotel/rodeway-inn-commerce-los-angeles-commerce-21deb1/,Commerce,wifi.free,yes,,https://www.destiny-inn.com/amenities,2026-10-27
 Roxy Hotel,https://journeyed.org/hotel/roxy-hotel-los-angeles-4f06f8/,Hollywood,wifi.free,yes,,https://www.roxyhotelhollywood.com/motels-holllywood/,2026-10-27
-Royal Inn Motel,https://journeyed.org/hotel/royal-inn-motel-cypress-04952b/,Cypress,wifi.free,yes,,https://www.usamotels.top/royal-inn-motel-cypress/,2026-10-20
+Royal Inn Motel,https://journeyed.org/hotel/royal-inn-motel-cypress-04952b/,Cypress,wifi.free,yes,,https://www.usamotels.top/royal-inn-motel-cypress/,2026-10-28
 Royal Palace Westwood,https://journeyed.org/hotel/royal-palace-westwood-los-angeles-f9522b/,Westwood,wifi.free,yes,,https://www.royalpalacewestwood.com/guestrooms,2026-10-11
 Sahara Motel,https://journeyed.org/hotel/sahara-motel-anaheim-a76b9e/,Anaheim,wifi.free,yes,,https://www.saharamotelanaheim.us/amenities.html,2026-10-27
 Sandbourne Santa Monica Hotel,https://journeyed.org/hotel/sandbourne-santa-monica-hotel-santa-monica-6f6094/,Santa Monica,resortFee.includes,"wifi,coffee,credit",,https://www.sandbournesantamonica.com/stay/amenities/,2026-10-27
@@ -363,7 +363,7 @@ Sonesta ES Suites Chatsworth,https://journeyed.org/hotel/sonesta-es-suites-chats
 Stallion Motel,https://journeyed.org/hotel/stallion-motel-los-angeles-2dacda/,Los Angeles (other areas),wifi.free,yes,,https://www.stallionmotel-losangeles.us/amenities.html,2026-10-27
 Stanford Inn & Suites,https://journeyed.org/hotel/stanford-inn-and-suites-anaheim-adc3f6/,Anaheim,smoking.fee,300,USD,https://www.stanfordinnanaheim.com/hotel-policies,2026-10-19
 Stanford Inn & Suites,https://journeyed.org/hotel/stanford-inn-and-suites-anaheim-adc3f6/,Anaheim,wifi.free,yes,,https://www.stanfordinnanaheim.com/anaheim-hotel-rooms,2026-10-19
-Starlight Inn Canoga Park,https://journeyed.org/hotel/starlight-inn-canoga-park-los-angeles-3b843f/,Los Angeles (other areas),wifi.free,yes,,https://www.starlightinncanogaparkca.com/bob-hope-burbank-airport-faq.html,2026-10-20
+Starlight Inn Canoga Park,https://journeyed.org/hotel/starlight-inn-canoga-park-los-angeles-3b843f/,Los Angeles (other areas),wifi.free,yes,,https://www.starlightinncanogaparkca.com/bob-hope-burbank-airport-faq.html,2026-10-28
 Starlight Inn,https://journeyed.org/hotel/starlight-inn-los-angeles-ac33dc/,Los Angeles (other areas),wifi.free,yes,,https://www.starlightinnla.com/amenities.html,2026-10-27
 Starlight Inn South El Monte,https://journeyed.org/hotel/starlight-inn-south-el-monte-south-el-monte-785d0c/,South El Monte,wifi.free,yes,,https://www.starlightinnsouthelmonte.com/Motel-in-South-El-Monte-California-FAQ.html,2026-10-27
 Stay On Beverly,https://journeyed.org/hotel/stay-on-beverly-los-angeles-208025/,Koreatown,wifi.free,yes,,http://www.stayonbeverly.com/,2026-10-27
@@ -378,7 +378,7 @@ Sunset Tower Hotel,https://journeyed.org/hotel/sunset-tower-hotel-west-hollywood
 Sunshine La,https://journeyed.org/hotel/sunshine-la-los-angeles-d627cf/,Van Nuys,wifi.free,yes,,https://sunshinelabnb.com/faq,2026-10-27
 Super 8 by Wyndham Costa Mesa/Newport Beach Area,https://journeyed.org/hotel/super-8-by-wyndham-costa-mesa-newport-beach-area-costa-mesa-97f8f3/,Costa Mesa,wifi.free,yes,,https://www.costamesainn.com/amenities/,2026-10-27
 Super 8 by Wyndham Cypress Buena Park Area,https://journeyed.org/hotel/super-8-by-wyndham-cypress-buena-park-area-cypress-aa39ed/,Cypress,wifi.free,yes,,https://www.wyndhamhotels.com/super-8/cypress-california/super-8-hotel-cypress/overview,2026-10-17
-Super 8,https://journeyed.org/hotel/super-8-los-angeles-384d4a/,Echo Park,wifi.free,yes,,https://www.super8losangeles.com/lodging-losangeles-ca.asp,2026-10-20
+Super 8,https://journeyed.org/hotel/super-8-los-angeles-384d4a/,Echo Park,wifi.free,yes,,https://www.super8losangeles.com/lodging-losangeles-ca.asp,2026-10-28
 Super 8 North Hollywood,https://journeyed.org/hotel/super-8-north-hollywood-los-angeles-10830e/,Los Angeles (other areas),wifi.free,yes,,https://www.wyndhamhotels.com/super-8/north-hollywood-california/super-8-north-hollywood/overview,2026-10-20
 Super 8 Upland Ontario CA,https://journeyed.org/hotel/super-8-upland-ontario-ca-upland-f6e664/,Upland,wifi.free,yes,,https://www.wyndhamhotels.com/super-8/upland-california/super-8-upland-ontario-ca/overview,2026-10-02
 SureStay Hotel,https://journeyed.org/hotel/surestay-hotel-los-angeles-e062f7/,West Hollywood,wifi.free,yes,,https://www.surestaybeverlyhills.com/dining,2026-10-11
@@ -437,7 +437,7 @@ The Lexmar - Dodger Stadium/hollywood,https://journeyed.org/hotel/the-lexmar-dod
 The LINE LA,https://journeyed.org/hotel/the-line-la-los-angeles-1c473b/,Koreatown,wifi.free,yes,,https://www.thelinehotel.com/los-angeles/amenities/,2026-10-27
 The Live Hotel,https://journeyed.org/hotel/the-live-hotel-los-angeles-0c456a/,Downtown Los Angeles,deposit,100,USD,https://www.thelivehotel.com/faq/,2026-10-27
 The Live Hotel,https://journeyed.org/hotel/the-live-hotel-los-angeles-0c456a/,Downtown Los Angeles,wifi.free,yes,,https://www.thelivehotel.com/amenities/,2026-10-27
-The M Malibu,https://journeyed.org/hotel/the-m-malibu-malibu-59a14f/,Malibu,wifi.free,yes,,https://www.themmalibu.com/rooms,2026-10-20
+The M Malibu,https://journeyed.org/hotel/the-m-malibu-malibu-59a14f/,Malibu,wifi.free,yes,,https://www.themmalibu.com/rooms,2026-10-28
 The Moment Hotel,https://journeyed.org/hotel/the-moment-hotel-los-angeles-82b7bf/,West Hollywood,smoking.fee,250,USD,https://www.themomenthotel.com/faqs/,2026-10-27
 The Moment Hotel,https://journeyed.org/hotel/the-moment-hotel-los-angeles-82b7bf/,West Hollywood,deposit,100,USD,https://www.themomenthotel.com/faqs/,2026-10-27
 The Moment Hotel,https://journeyed.org/hotel/the-moment-hotel-los-angeles-82b7bf/,West Hollywood,wifi.free,yes,,https://www.themomenthotel.com/amenities/,2026-10-27
@@ -448,16 +448,16 @@ The Pierside Santa Monica,https://journeyed.org/hotel/the-pierside-santa-monica-
 The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,resortFee,55,USD,https://www.theranchlb.com/resort-policies,2026-10-21
 The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,resortFee.includes,"wifi,fitness,coffee,water,yoga",,https://www.theranchlb.com/resort-policies,2026-10-21
 The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,wifi.free,yes,,https://www.theranchlb.com/faqs,2026-10-21
-The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,resortFee,125,USD,https://pelicanhill.com/policies/,2026-10-20
-The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,deposit,500,USD,https://pelicanhill.com/policies/,2026-10-20
-The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,deposit.per,per-night,,https://pelicanhill.com/policies/,2026-10-20
+The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,resortFee,125,USD,https://pelicanhill.com/policies/,2026-10-28
+The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,deposit,500,USD,https://pelicanhill.com/policies/,2026-10-28
+The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,deposit.per,per-night,,https://pelicanhill.com/policies/,2026-10-28
 The Richland,https://journeyed.org/hotel/the-richland-orange-99dbc4/,Orange,wifi.free,yes,,https://therichland.com/hotel/,2026-10-27
 "The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,wifi.free,yes,,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-10-21
 The Sojourn,https://journeyed.org/hotel/the-sojourn-sherman-oaks-e165a6/,Sherman Oaks,deposit,100,USD,https://www.thesojournshermanoaks.com/policies-faq,2026-10-19
 The Sojourn,https://journeyed.org/hotel/the-sojourn-sherman-oaks-e165a6/,Sherman Oaks,wifi.free,yes,,https://www.thesojournshermanoaks.com/hotel-rooms-sherman-oaks-ca,2026-10-19
-The Surfrider Malibu,https://journeyed.org/hotel/the-surfrider-malibu-malibu-a16091/,Malibu,resortFee,55,USD,https://www.thesurfridermalibu.com/faq,2026-10-20
-The Surfrider Malibu,https://journeyed.org/hotel/the-surfrider-malibu-malibu-a16091/,Malibu,smoking.fee,500,USD,https://www.thesurfridermalibu.com/faq,2026-10-20
-The Surfrider Malibu,https://journeyed.org/hotel/the-surfrider-malibu-malibu-a16091/,Malibu,wifi.free,yes,,https://www.thesurfridermalibu.com/faq,2026-10-20
+The Surfrider Malibu,https://journeyed.org/hotel/the-surfrider-malibu-malibu-a16091/,Malibu,resortFee,55,USD,https://www.thesurfridermalibu.com/faq,2026-10-28
+The Surfrider Malibu,https://journeyed.org/hotel/the-surfrider-malibu-malibu-a16091/,Malibu,smoking.fee,500,USD,https://www.thesurfridermalibu.com/faq,2026-10-28
+The Surfrider Malibu,https://journeyed.org/hotel/the-surfrider-malibu-malibu-a16091/,Malibu,wifi.free,yes,,https://www.thesurfridermalibu.com/faq,2026-10-28
 The Tangerine,https://journeyed.org/hotel/the-tangerine-burbank-1ef042/,Burbank,wifi.free,yes,,https://www.thetangerine.com/best-hotel-in-burbank/,2026-10-27
 The Venice Beach House,https://journeyed.org/hotel/the-venice-beach-house-los-angeles-84ae0a/,Venice,smoking.fee,200,USD,https://www.venicebeachhouse.com/policies,2026-10-27
 The Venice Beach House,https://journeyed.org/hotel/the-venice-beach-house-los-angeles-84ae0a/,Venice,wifi.free,yes,,https://www.venicebeachhouse.com/rooms,2026-10-27
@@ -465,10 +465,10 @@ The Venice Beach House,https://journeyed.org/hotel/the-venice-beach-house-los-an
 "The Wayfarer Downtown LA, Tapestry Collection by Hilton",https://journeyed.org/hotel/the-wayfarer-downtown-la-tapestry-collection-by-hilton-los-angeles-295154/,Downtown Los Angeles,resortFee,25,USD,https://www.wayfarerdtla.com/faq/,2026-10-27
 "The Wayfarer Downtown LA, Tapestry Collection by Hilton",https://journeyed.org/hotel/the-wayfarer-downtown-la-tapestry-collection-by-hilton-los-angeles-295154/,Downtown Los Angeles,smoking.fee,250,USD,https://www.wayfarerdtla.com/faq/,2026-10-27
 "The Wayfarer Downtown LA, Tapestry Collection by Hilton",https://journeyed.org/hotel/the-wayfarer-downtown-la-tapestry-collection-by-hilton-los-angeles-295154/,Downtown Los Angeles,wifi.free,no,,https://www.wayfarerdtla.com/faq/,2026-10-27
-"Tiller House, Laguna Hills, A Tribute Portfolio Hotel",https://journeyed.org/hotel/tiller-house-laguna-hills-a-tribute-portfolio-hotel-laguna-hills-f99e24/,Laguna Hills,wifi.free,yes,,https://www.tillerhouse.com/faq.htm,2026-10-20
-Topanga Canyon Inn Bed and Breakfast,https://journeyed.org/hotel/topanga-canyon-inn-bed-and-breakfast-topanga-480fc4/,Topanga,earlyCheckin.fee,20,USD,https://www.topangacanyoninn.com/policies,2026-10-20
-Topanga Canyon Inn Bed and Breakfast,https://journeyed.org/hotel/topanga-canyon-inn-bed-and-breakfast-topanga-480fc4/,Topanga,lateCheckout.fee,20,USD,https://www.topangacanyoninn.com/policies,2026-10-20
-Topanga Canyon Inn Bed and Breakfast,https://journeyed.org/hotel/topanga-canyon-inn-bed-and-breakfast-topanga-480fc4/,Topanga,wifi.free,yes,,https://www.topangacanyoninn.com/,2026-10-20
+"Tiller House, Laguna Hills, A Tribute Portfolio Hotel",https://journeyed.org/hotel/tiller-house-laguna-hills-a-tribute-portfolio-hotel-laguna-hills-f99e24/,Laguna Hills,wifi.free,yes,,https://www.tillerhouse.com/faq.htm,2026-10-28
+Topanga Canyon Inn Bed and Breakfast,https://journeyed.org/hotel/topanga-canyon-inn-bed-and-breakfast-topanga-480fc4/,Topanga,earlyCheckin.fee,20,USD,https://www.topangacanyoninn.com/policies,2026-10-28
+Topanga Canyon Inn Bed and Breakfast,https://journeyed.org/hotel/topanga-canyon-inn-bed-and-breakfast-topanga-480fc4/,Topanga,lateCheckout.fee,20,USD,https://www.topangacanyoninn.com/policies,2026-10-28
+Topanga Canyon Inn Bed and Breakfast,https://journeyed.org/hotel/topanga-canyon-inn-bed-and-breakfast-topanga-480fc4/,Topanga,wifi.free,yes,,https://www.topangacanyoninn.com/,2026-10-28
 Tourist Lodge,https://journeyed.org/hotel/tourist-lodge-inglewood-0687c1/,Inglewood,wifi.free,yes,,https://www.touristlodgeinglewood.us/amenities.html,2026-10-27
 Travelers Inn,https://journeyed.org/hotel/travelers-inn-lawndale-6e5332/,Lawndale,wifi.free,yes,,https://www.travelersinnlawndalelax.com/amenities-services/,2026-10-27
 Travelodge,https://journeyed.org/hotel/travelodge-buena-park-27ed52/,Buena Park,wifi.free,yes,,https://www.wyndhamhotels.com/en-ca/travelodge/buena-park-california/travelodge-buena-park/overview,2026-10-22
@@ -495,7 +495,7 @@ Unik Motel,https://journeyed.org/hotel/unik-motel-harbor-city-370f67/,Harbor Cit
 USC Hotel,https://journeyed.org/hotel/usc-hotel-los-angeles-536d2e/,Los Angeles (other areas),wifi.free,yes,,https://uschotel.usc.edu/rooms,2026-10-19
 Valley Hotel,https://journeyed.org/hotel/valley-hotel-rosemead-a8cf33/,Rosemead,wifi.free,yes,,https://valleyhotel.net/rooms/,2026-10-27
 Value Inn Bellflower,https://journeyed.org/hotel/value-inn-bellflower-bellflower-4cafaf/,Bellflower,wifi.free,yes,,https://valueinnbellflowerca.com/amenities/,2026-10-27
-Value Inn Motel,https://journeyed.org/hotel/value-inn-motel-los-angeles-74bee7/,Los Angeles (other areas),wifi.free,yes,,https://www.valueinnsylmar.us/,2026-10-20
+Value Inn Motel,https://journeyed.org/hotel/value-inn-motel-los-angeles-74bee7/,Los Angeles (other areas),wifi.free,yes,,https://www.valueinnsylmar.us/amenities.html,2026-10-28
 Venice on the Beach Hotel,https://journeyed.org/hotel/venice-on-the-beach-hotel-los-angeles-394b9f/,Venice,deposit,100,USD,http://www.veniceonthebeachhotel.com/our-hotel/policies.html,2026-10-27
 Venice on the Beach Hotel,https://journeyed.org/hotel/venice-on-the-beach-hotel-los-angeles-394b9f/,Venice,wifi.free,yes,,http://www.veniceonthebeachhotel.com/our-hotel/amenities.html,2026-10-27
 Venice Suites,https://journeyed.org/hotel/venice-suites-venice-eedb46/,Venice,wifi.free,yes,,https://www.venicesuites.com/extended-stay-suites-venice-beach,2026-10-19
