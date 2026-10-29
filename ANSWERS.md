@@ -1,6 +1,6 @@
 # Answers about Los Angeles hotels
 
-1188 questions people ask about where to stay in Los Angeles, each with the short answer from Journeyed as of 2026-10-28. Each link opens the full ranking, with the fact behind every hotel, its source and the date it was checked. Canonical index: https://journeyed.org/answers.json
+1188 questions people ask about where to stay in Los Angeles, each with the short answer from Journeyed as of 2026-10-29. Each link opens the full ranking, with the fact behind every hotel, its source and the date it was checked. Canonical index: https://journeyed.org/answers.json
 
 ## Los Angeles International Airport
 
@@ -1307,7 +1307,7 @@
 - **What hotels are in San Pedro?** All Star Inn is the closest match, 0.4 miles from San Pedro; our profile of it is an early one, so closest is all this rank says. The hotel on this list with the most verified facts is Doubletree By Hilton Hotel San Pedro - Port Of Los Angeles, 1.3 miles away with a Journeyed Score of 83.2. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-are-in-san-pedro/)
 - **What hotels within 12 miles of San Pedro have accessible rooms?** The Queen Mary is the top match for this question, 6.0 miles from San Pedro. Fairmont Breakers Long Beach and Hotel Mai come next among 298 hotels compared within 12 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-12-miles-of-san-pedro-have-accessible-rooms/)
 - **What hotels within 12 miles of San Pedro have meeting space?** Miyako Hybrid Hotel is the top match for this question, 6.9 miles from San Pedro. Holiday Inn Los Angeles Gateway Torrance and Tapestry Collection by Hilton come next among 298 hotels compared within 12 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-12-miles-of-san-pedro-have-meeting-space/)
-- **What hotels within 8 miles of San Pedro have a fitness center?** Crowne Plaza Los Angeles Harbor Hotel is the top match for this question, 0.6 miles from San Pedro. Doubletree By Hilton Hotel San Pedro - Port Of Los Angeles and Residence Inn come next among 156 hotels compared within 8 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-8-miles-of-san-pedro-have-a-fitness-center/)
+- **What hotels within 8 miles of San Pedro have a fitness center?** Crowne Plaza Los Angeles Harbor Hotel is the top match for this question, 0.6 miles from San Pedro. Doubletree By Hilton Hotel San Pedro - Port Of Los Angeles and Ramada by Wyndham Torrance come next among 156 hotels compared within 8 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-8-miles-of-san-pedro-have-a-fitness-center/)
 
 ## Buena Park
 
