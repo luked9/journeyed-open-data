@@ -1,6 +1,6 @@
 # Of 453 LA hotel websites that state any detail of the stay, 52% say what parking costs and 7% mention a resort fee
 
-What LA Hotel Websites Leave Out. Published 2026-10-03. Data checked 2026-10-29.
+What LA Hotel Websites Leave Out. Published 2026-10-03. Data checked 2026-10-30.
 
 On the websites of 453 hotels in the Los Angeles area our crawler could read at least one detail of the stay. We checked each for 18 basic details: 52% state what parking costs, 47% state a pet policy and 7% say anything about a resort fee.
 
@@ -82,7 +82,7 @@ Video summary: https://www.youtube.com/watch?v=fMt7y3fe6as
 
 ## Cite this report
 
-Journeyed, "What LA Hotel Websites Leave Out", data checked October 29, 2026, https://journeyed.org/reports/what-la-hotel-websites-leave-out/
+Journeyed, "What LA Hotel Websites Leave Out", data checked October 30, 2026, https://journeyed.org/reports/what-la-hotel-websites-leave-out/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -91,7 +91,7 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 29, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 2, 2026 and October 30, 2026. Nothing comes from booking sites, review sites or guest reports.
 
 The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,224 of them list their own website, and we have read at least one detail about the stay from 453 of those websites so far. A website our crawler opened but found no such detail on is not among the 453, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
@@ -109,6 +109,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-10-29
+Last checked: 2026-10-30
 
 Canonical: https://journeyed.org/reports/what-la-hotel-websites-leave-out/
