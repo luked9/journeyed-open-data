@@ -4,8 +4,8 @@
   "title": "Journeyed hotel facts and rankings: Los Angeles",
   "description": "Hotels in Los Angeles with sourced facts (check-in and check-out times, parking, pets, breakfast, pool, Wi-Fi, accessibility and more), each with its source URL and the date it was checked, plus the 0 to 100 score per hotel and the full ranking for every published question. Built by Journeyed from open place data and facts read from hotels' own websites within robots.txt. No photos, reviews or copied text.",
   "homepage": "https://journeyed.org/data/",
-  "version": "2026-10-30",
-  "created": "2026-10-30",
+  "version": "2026-10-31",
+  "created": "2026-10-31",
   "licenses": [
     {
       "name": "CC-BY-4.0",
@@ -215,7 +215,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "rows": 1188,
+      "rows": 1231,
       "schema": {
         "fields": [
           {
@@ -283,7 +283,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "rows": 38674,
+      "rows": 42094,
       "schema": {
         "fields": [
           {
@@ -331,7 +331,7 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "rows": 127,
+      "rows": 138,
       "schema": {
         "fields": [
           {

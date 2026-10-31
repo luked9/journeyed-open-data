@@ -1,9 +1,12 @@
 slug,name,kind,lat,lon,aliases,default_radius_mi,coord_source
 alhambra,Alhambra,area,,,Alhambra CA | Alhambra California,2,https://www.openstreetmap.org/relation/3529865
+alondra-park,Alondra Park,area,,,Alondra Park CA | Alondra Park California | El Camino Village,2,https://www.openstreetmap.org/node/150969774
+altadena,Altadena,area,,,Altadena CA | Altadena California,2,https://www.openstreetmap.org/node/1838340672
 anaheim-convention-center,Anaheim Convention Center,convention,,,Anaheim convention | ACC Anaheim,2,https://www.openstreetmap.org/relation/3588102
 angel-stadium,Angel Stadium,venue,,,Angel Stadium of Anaheim | Angels stadium | Big A,3,https://www.openstreetmap.org/way/23973377
 arcadia,Arcadia,area,,,Arcadia CA | Arcadia California,2,https://www.openstreetmap.org/relation/5547859
 azusa,Azusa,area,,,Azusa CA | Azusa California,2,https://www.openstreetmap.org/relation/112047
+baldwin-park,Baldwin Park,area,,,Baldwin Park CA | Baldwin Park California,2,https://www.openstreetmap.org/relation/18375458
 bell-gardens,Bell Gardens,area,,,Bell Gardens CA | Bell Gardens California,2,https://www.openstreetmap.org/relation/3542118
 bellflower,Bellflower,area,,,Bellflower CA | Bellflower California,2,https://www.openstreetmap.org/relation/3521426
 belmont-shore,Belmont Shore,area,,,Belmont Shore CA | Belmont Shore California | Belmont Shore Long Beach | Second Street Belmont Shore,2,https://www.openstreetmap.org/node/150963482
@@ -46,6 +49,7 @@ griffith-observatory,Griffith Observatory,attraction,,,Griffith Park Observatory
 harbor-ucla,Harbor-UCLA Medical Center,hospital,,,Harbor UCLA | Harbor-UCLA | Harbor UCLA hospital | Harbor General,2,https://www.openstreetmap.org/way/49836233
 hawthorne,Hawthorne,area,,,Hawthorne CA | Hawthorne California,2,https://www.openstreetmap.org/relation/2317585
 hermosa-beach,Hermosa Beach,area,,,Hermosa Beach CA | Hermosa Beach California,2,https://www.openstreetmap.org/relation/2317586
+hidden-hills,Hidden Hills,area,,,Hidden Hills CA | Hidden Hills California,2,https://www.openstreetmap.org/relation/3353287
 hollywood,Hollywood,area,,,Hollywood CA | Hollywood and Vine,2,https://www.openstreetmap.org/node/5041566108
 hollywood-bowl,Hollywood Bowl,venue,,,the Bowl | Hollywood Bowl amphitheater,2,https://www.openstreetmap.org/way/133701914
 honda-center,Honda Center,venue,,,Honda Center Anaheim | Ducks arena | Arrowhead Pond,2,https://www.openstreetmap.org/way/120623151
@@ -54,20 +58,24 @@ huntington-library,The Huntington Library,attraction,,,The Huntington | Huntingt
 inglewood,Inglewood,area,,,Inglewood CA | Inglewood California,2,https://www.openstreetmap.org/relation/112090
 intuit-dome,Intuit Dome,venue,,,Intuit Dome Inglewood | Clippers arena,2,https://www.openstreetmap.org/way/1209626565
 irvine-spectrum,Irvine Spectrum,area,,,Irvine Spectrum CA | Irvine Spectrum California | Irvine Spectrum Center | Spectrum Irvine,2,https://www.openstreetmap.org/way/106580627
+irwindale,Irwindale,area,,,Irwindale CA | Irwindale California,2,https://www.openstreetmap.org/relation/9319972
 john-wayne-airport,John Wayne Airport,airport,33.67566,-117.86823,SNA | John Wayne airport | Orange County airport | Santa Ana airport,3,https://nfdc.faa.gov/nfdcApps/services/ajv5/airportDisplay.jsp?airportId=SNA
 kia-forum,Kia Forum,venue,,,The Forum | Forum Inglewood | Great Western Forum,2,https://www.openstreetmap.org/way/26320999
 knotts-berry-farm,Knott's Berry Farm,attraction,,,Knotts Berry Farm | Knotts | Knott's Buena Park,3,https://www.openstreetmap.org/way/882176907
 koreatown,Koreatown,area,,,Koreatown CA | Koreatown California | K-Town | Ktown LA | Korea Town,2,https://www.openstreetmap.org/node/150968103
 la-convention-center,Los Angeles Convention Center,convention,,,LACC | LA Convention Center | LA convention center downtown,1.5,https://www.openstreetmap.org/way/428021731
 la-memorial-coliseum,Los Angeles Memorial Coliseum,venue,,,LA Coliseum | the Coliseum | Coliseum Los Angeles | USC Coliseum,3,https://www.openstreetmap.org/way/443675312
+la-puente,La Puente,area,,,La Puente CA | La Puente California,2,https://www.openstreetmap.org/relation/13799316
 la-world-cruise-center,Los Angeles World Cruise Center,transit,,,World Cruise Center | Port of Los Angeles cruise terminal | San Pedro cruise terminal | LA cruise port,3,https://www.openstreetmap.org/way/667254123
 lake-forest,Lake Forest,area,,,Lake Forest CA | Lake Forest California,2,https://www.openstreetmap.org/relation/2310727
 lakewood,Lakewood,area,,,Lakewood CA | Lakewood California,2,https://www.openstreetmap.org/relation/112092
+lawndale,Lawndale,area,,,Lawndale CA | Lawndale California,2,https://www.openstreetmap.org/relation/2317587
 lax,Los Angeles International Airport,airport,33.9425,-118.40805,LAX | LAX airport | Los Angeles airport | Los Angeles International,3,https://nfdc.faa.gov/nfdcApps/services/ajv5/airportDisplay.jsp?airportId=LAX
 long-beach-airport,Long Beach Airport,airport,33.81793,-118.15189,LGB | Long Beach airport | Daugherty Field,3,https://nfdc.faa.gov/nfdcApps/services/ajv5/airportDisplay.jsp?airportId=LGB
 long-beach-convention-center,Long Beach Convention Center,convention,,,Long Beach Convention and Entertainment Center | LBCC | Long Beach convention,2,https://www.openstreetmap.org/way/1413556586
 long-beach-cruise-terminal,Long Beach Cruise Terminal,transit,,,Long Beach cruise port | Carnival Long Beach | Carnival cruise terminal Long Beach,3,https://www.openstreetmap.org/relation/6573072
 los-feliz,Los Feliz,area,,,Los Feliz CA | Los Feliz California,2,https://www.openstreetmap.org/way/260858785
+lynwood,Lynwood,area,,,Lynwood CA | Lynwood California,2,https://www.openstreetmap.org/relation/3519914
 malibu-pier,Malibu Pier,beach,,,Malibu | Malibu CA | Surfrider Beach,2,https://www.openstreetmap.org/way/49651537
 manhattan-beach,"Manhattan Beach, CA",area,,,Manhattan Beach California,2,https://www.openstreetmap.org/relation/2317589
 manhattan-beach-pier,Manhattan Beach Pier,beach,,,Manhattan Beach | Manhattan Beach CA,2,https://www.openstreetmap.org/way/49605324
@@ -82,10 +90,12 @@ norwalk,Norwalk,area,,,Norwalk CA | Norwalk California,2,https://www.openstreetm
 ontario,Ontario,area,,,Ontario CA | Ontario California,2,https://www.openstreetmap.org/relation/11066252
 ontario-airport,Ontario International Airport,airport,34.05601,-117.60119,ONT | Ontario airport | Ontario International | Ontario CA airport,3,https://nfdc.faa.gov/nfdcApps/services/ajv5/airportDisplay.jsp?airportId=ONT
 orange,Orange,area,,,Orange CA | Orange California,2,https://www.openstreetmap.org/relation/112972
+palos-verdes-estates,Palos Verdes Estates,area,,,Palos Verdes Estates CA | Palos Verdes Estates California | Palos Verdes Peninsula | Palos Verdes Peninsula CA | Palos Verdes,2,https://www.openstreetmap.org/relation/2314269
 pasadena,Pasadena,area,,,Pasadena CA | Old Pasadena | Old Town Pasadena,2,https://www.openstreetmap.org/way/37741479
 playa-vista,Playa Vista,area,,,Playa Vista CA | Playa Vista California,2,https://www.openstreetmap.org/node/7301120282
 pomona,Pomona,area,,,Pomona CA | Pomona California,2,https://www.openstreetmap.org/relation/1532363
 providence-torrance,Providence Little Company of Mary Medical Center Torrance,hospital,,,Little Company of Mary | Providence Little Company of Mary Torrance | Providence Torrance | LCM Torrance,2,https://www.openstreetmap.org/way/285842342
+rancho-palos-verdes,Rancho Palos Verdes,area,,,Rancho Palos Verdes CA | Rancho Palos Verdes California | RPV | Rancho Palos Verdes CA,2,https://www.openstreetmap.org/relation/2314252
 redondo-beach,"Redondo Beach, CA",area,,,Redondo Beach CA | Redondo Beach California,2,https://www.openstreetmap.org/relation/2314270
 redondo-beach-pier,Redondo Beach Pier,beach,,,Redondo pier | Redondo Beach | King Harbor,2,https://www.openstreetmap.org/relation/9363404
 rose-bowl,Rose Bowl Stadium,venue,,,Rose Bowl | Rose Bowl Pasadena,3,https://www.openstreetmap.org/way/5208863
@@ -97,6 +107,7 @@ santa-monica,Santa Monica,area,,,Santa Monica CA | Santa Monica California,2,htt
 santa-monica-pier,Santa Monica Pier,beach,,,Santa Monica beach | the pier in Santa Monica,2,https://www.openstreetmap.org/way/22728853
 seal-beach,Seal Beach,area,,,Seal Beach CA | Seal Beach California,2,https://www.openstreetmap.org/relation/5547826
 sherman-oaks,Sherman Oaks,area,,,Sherman Oaks CA | Sherman Oaks California,2,https://www.openstreetmap.org/relation/18194737
+sierra-madre,Sierra Madre,area,,,Sierra Madre CA | Sierra Madre California,2,https://www.openstreetmap.org/relation/5547825
 silver-lake,Silver Lake,area,,,Silver Lake CA | Silver Lake California,2,https://www.openstreetmap.org/node/2245850847
 six-flags-magic-mountain,Six Flags Magic Mountain,attraction,,,Magic Mountain | Six Flags Valencia | Six Flags Los Angeles,3,https://www.openstreetmap.org/way/70260375
 sofi-stadium,SoFi Stadium,venue,,,SoFi | Sofi stadium | Inglewood stadium | Hollywood Park stadium,3,https://www.openstreetmap.org/way/860635712
