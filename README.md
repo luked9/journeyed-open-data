@@ -34,8 +34,8 @@ Hotels in Los Angeles with sourced facts (check-in and check-out times, parking,
 |---|---|---|
 | [los-angeles/hotels.csv](los-angeles/hotels.csv) | Hotels in Los Angeles | 2608 |
 | [los-angeles/facts.csv](los-angeles/facts.csv) | Sourced hotel facts, Los Angeles | 10574 |
-| [los-angeles/questions.csv](los-angeles/questions.csv) | Questions and direct answers, Los Angeles | 1275 |
-| [los-angeles/rankings.csv](los-angeles/rankings.csv) | Full rankings per question, Los Angeles | 42837 |
+| [los-angeles/questions.csv](los-angeles/questions.csv) | Questions and direct answers, Los Angeles | 1394 |
+| [los-angeles/rankings.csv](los-angeles/rankings.csv) | Full rankings per question, Los Angeles | 45282 |
 | [los-angeles/anchors.csv](los-angeles/anchors.csv) | Anchors (airports, venues, areas), Los Angeles | 138 |
 | [los-angeles/hotels.json](los-angeles/hotels.json) | Hotels, facts and rankings in one JSON file, Los Angeles |  |
 
@@ -84,7 +84,7 @@ Hotels in Los Angeles with sourced facts (check-in and check-out times, parking,
 
 Journeyed is a guide to hotels in Los Angeles, built from sourced facts and reader votes. Get to know the details.
 
-Version: 2026-11-01
+Version: 2026-11-02
 Landing page: https://journeyed.org/data/
 Methodology: https://journeyed.org/methodology/
 License: Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/)
@@ -92,7 +92,7 @@ Attribute as: Journeyed (https://journeyed.org/), CC BY 4.0, with a link to the 
 
 Contents
 --------
-- Los Angeles: 2608 hotels, 10574 sourced facts, 1275 questions, 42837 ranking rows, 138 anchors
+- Los Angeles: 2608 hotels, 10574 sourced facts, 1394 questions, 45282 ranking rows, 138 anchors
 
 Los Angeles:
   https://journeyed.org/data/open/los-angeles/hotels.csv     one row per hotel (place record, score, page URL)
