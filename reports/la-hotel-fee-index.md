@@ -1,29 +1,29 @@
 # LA Hotel Fee Index, November 2026: median stated self-parking charge is $30 a night
 
-The Journeyed LA Hotel Fee Index. Published 2026-10-14. Data checked 2026-11-02.
+The Journeyed LA Hotel Fee Index. Published 2026-10-14. Data checked 2026-11-03.
 
-A monthly index of the fees hotels in the Los Angeles area state on their own websites. November 2026 edition: 216 hotels state a self-parking price and 156 (72%) say it is free, with a median charge of $30 a night where one is charged. 28 hotels state a resort or destination fee amount, median $37.50 a night. 47 state a pet fee, median $100.
+A monthly index of the fees hotels in the Los Angeles area state on their own websites. November 2026 edition: 217 hotels state a self-parking price and 156 (72%) say it is free, with a median charge of $30 a night where one is charged. 27 hotels state a resort or destination fee amount, median $35 a night. 48 state a pet fee, median $100.
 
 Sample: 283 hotels that state at least one fee, out of 457 hotel websites with a detail read and 2,608 hotels in the market.
 
-Edition: November 2026 (data checked through November 2, 2026). Next edition: first business Tuesday of December 2026.
+Edition: November 2026 (data checked through November 3, 2026). Next edition: first business Tuesday of December 2026.
 
 ## Headline numbers
 
 - **$30** median stated self-parking charge per night, where one is charged (51 hotels stating a charge, from $10 to $79)
-- **72%** of hotels that state a self-parking price say it is free (156 of 216 hotels stating a self-parking price)
-- **$37.50** median stated resort or destination fee per night (28 hotels stating an amount, from $3 to $125)
-- **7%** of hotel websites read state a resort fee policy, or that there is none (33 of 457 hotel websites with a detail read)
-- **$100** median stated pet fee (47 hotels stating a fee, from $25 to $350)
-- **$60.50** median stated valet charge per night (29 hotels stating a charge, from $25 to $79)
+- **72%** of hotels that state a self-parking price say it is free (156 of 217 hotels stating a self-parking price)
+- **$35** median stated resort or destination fee per night (27 hotels stating an amount, from $3 to $125)
+- **7%** of hotel websites read state a resort fee policy, or that there is none (32 of 457 hotel websites with a detail read)
+- **$100** median stated pet fee (48 hotels stating a fee, from $25 to $350)
+- **$60.25** median stated valet charge per night (30 hotels stating a charge, from $25 to $79)
 
 ## Key findings
 
 - 283 hotels in the Los Angeles area state at least one fee in this index on their own website, out of 457 hotel websites with a detail read and 2,608 hotels in the market.
-- Self-parking: 216 hotels state a price, 156 (72%) say it is free, and the 51 that state a charge have a median of $30 a night, the middle half from $20 to $40, range $10 to $79.
-- Valet: 29 hotels state a charge, median $60.50 a night, range $25 to $79.
-- Resort, destination or amenity fee: 33 hotels state a policy, 5 say there is none, and the 28 that state an amount have a median of $37.50 a night, range $3 to $125.
-- Pet fee: 47 hotels state an amount, median $100, range $25 to $350.
+- Self-parking: 217 hotels state a price, 156 (72%) say it is free, and the 51 that state a charge have a median of $30 a night, the middle half from $20 to $40, range $10 to $79.
+- Valet: 30 hotels state a charge, median $60.25 a night, range $25 to $79.
+- Resort, destination or amenity fee: 32 hotels state a policy, 5 say there is none, and the 27 that state an amount have a median of $35 a night, range $3 to $125.
+- Pet fee: 48 hotels state an amount, median $100, range $25 to $350.
 - By area: 7 of 9 areas in the cut have at least 5 hotels stating a parking price; the rest are marked "too few to report".
 
 ## What do LA hotels charge in fees?
@@ -38,16 +38,16 @@ The FTC's Rule on Unfair or Deceptive Fees took effect on May 12, 2025 and requi
 
 | Fee | Hotels stating a policy | Say it is free or none | State an amount | Median | Range |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| Self-parking, per night | 216 | 156 say free | 51 | $30 | $10 to $79 |
-| Valet parking, per night | 29 | 0 say free | 29 | $60.50 | $25 to $79 |
-| Resort, destination or amenity fee, per night | 33 | 5 say none | 28 | $37.50 | $3 to $125 |
-| Pet fee, per stay or per night as stated | 47 | 0 say none | 47 | $100 | $25 to $350 |
+| Self-parking, per night | 217 | 156 say free | 51 | $30 | $10 to $79 |
+| Valet parking, per night | 30 | 0 say free | 30 | $60.25 | $25 to $79 |
+| Resort, destination or amenity fee, per night | 32 | 5 say none | 27 | $35 | $3 to $125 |
+| Pet fee, per stay or per night as stated | 48 | 0 say none | 48 | $100 | $25 to $350 |
 | Smoking in a room | 35 | 0 say none | 35 | $250 | $100 to $750 |
-| Security deposit or card hold | 36 | 0 say none | 36 | $100 | $50 to $500 |
+| Security deposit or card hold | 37 | 0 say none | 37 | $100 | $50 to $500 |
 | Early check-in | 11 | 2 say free | 9 | $50 | $20 to $99 |
 | Late check-out | 10 | 0 say free | 10 | $47.50 | $15 to $99 |
 
-Counts are of hotels whose own website states the fee. A median needs at least 5 stated amounts; "too few to report" marks a cell below that. Amounts are as the hotel states them, before tax. Of the 43 hotels that say how the pet fee is charged, 29 charge it once per stay and 14 per night.
+Counts are of hotels whose own website states the fee. A median needs at least 5 stated amounts; "too few to report" marks a cell below that. Amounts are as the hotel states them, before tax. Of the 45 hotels that say how the pet fee is charged, 31 charge it once per stay and 14 per night.
 
 ## How do hotel fees differ across LA?
 
@@ -111,7 +111,7 @@ How medians are taken: one value per hotel, the latest the crawler read, with "f
 
 Editions: the index is published monthly, on the first business Tuesday, from the facts checked through the date shown. Each edition's rows are kept in the CSV under its edition column, so this URL accumulates the series.
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 2, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 3, 2026. Nothing comes from booking sites, review sites or guest reports.
 
 The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 457 of those websites so far. A website our crawler opened but found no such detail on is not among the 457, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
@@ -134,6 +134,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-11-02
+Last checked: 2026-11-03
 
 Canonical: https://journeyed.org/reports/la-hotel-fee-index/

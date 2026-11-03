@@ -1,6 +1,6 @@
 # 42% of LA hotels that state a pet policy allow pets
 
-Pet Policies Across LA Hotels. Published 2026-10-03. Data checked 2026-11-02.
+Pet Policies Across LA Hotels. Published 2026-10-03. Data checked 2026-11-03.
 
 Of 215 hotels in the Los Angeles area that state a pet policy on their own website, 90 allow pets, 101 do not, and 24 take service animals only. The median stated pet fee is $100.
 
@@ -9,17 +9,17 @@ Sample: 215 hotels that state a pet policy, out of 457 hotel websites with a det
 ## Headline numbers
 
 - **42%** allow pets (90 of 215 hotels that state a pet policy)
-- **$100** median stated pet fee (47 hotels stating a fee, from $25 to $350)
-- **40 lb** median stated weight limit (38 hotels stating a limit)
-- **83%** of stated limits allow two pets per room (34 of 41 hotels stating a limit)
+- **$100** median stated pet fee (48 hotels stating a fee, from $25 to $350)
+- **40 lb** median stated weight limit (37 hotels stating a limit)
+- **83%** of stated limits allow two pets per room (33 of 40 hotels stating a limit)
 
 ## Key findings
 
 - Of the 2,608 hotels in the Los Angeles area, 215 (8%) state a pet policy on their own website.
 - Of those 215, 90 (42%) allow pets, 101 (47%) do not, and 24 (11%) say service animals only.
-- 47 hotels state a pet fee. The median is $100, the middle half runs from $50 to $150 and the range is $25 to $350.
-- Of the 43 hotels that say how the fee is charged, 29 (67%) charge it once per stay and 14 charge it per night.
-- 38 hotels state a weight limit. The median is 40 pounds and the range is 15 to 100 pounds.
+- 48 hotels state a pet fee. The median is $100, the middle half runs from $50 to $150 and the range is $25 to $350.
+- Of the 45 hotels that say how the fee is charged, 31 (69%) charge it once per stay and 14 charge it per night.
+- 37 hotels state a weight limit. The median is 40 pounds and the range is 15 to 100 pounds.
 
 ## How many LA hotels allow pets?
 
@@ -48,13 +48,12 @@ Counts are of hotels that state a policy, so an area with few hotel websites rea
 | Inglewood | 8 | 2 of 8 (25%) | 6 |
 | Los Angeles (other areas) | 8 | 1 of 8 (13%) | 7 |
 | Avalon | 7 | 2 of 7 (29%) | 5 |
+| Beverly Hills | 6 | 3 of 6 (50%) | 3 |
 | Glendale | 6 | 1 of 6 (17%) | 5 |
 | Venice | 6 | 3 of 6 (50%) | 3 |
-| Beverly Hills | 5 | 2 of 5 (40%) | 3 |
 | Hermosa Beach | 5 | 1 of 5 (20%) | 4 |
 | Koreatown | 5 | 3 of 5 (60%) | 2 |
 | Laguna Beach | 5 | 3 of 5 (60%) | 2 |
-| Newport Beach | 5 | 3 of 5 (60%) | 2 |
 
 Areas with at least 5 hotels stating a pet policy.
 
@@ -76,7 +75,7 @@ Video summary: https://www.youtube.com/watch?v=51dWp02JvJc
 
 ## Cite this report
 
-Journeyed, "Pet Policies Across LA Hotels", data checked November 2, 2026, https://journeyed.org/reports/la-hotel-pet-policies/
+Journeyed, "Pet Policies Across LA Hotels", data checked November 3, 2026, https://journeyed.org/reports/la-hotel-pet-policies/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -85,7 +84,7 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 2, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 3, 2026. Nothing comes from booking sites, review sites or guest reports.
 
 The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 457 of those websites so far. A website our crawler opened but found no such detail on is not among the 457, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
@@ -103,6 +102,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-11-02
+Last checked: 2026-11-03
 
 Canonical: https://journeyed.org/reports/la-hotel-pet-policies/

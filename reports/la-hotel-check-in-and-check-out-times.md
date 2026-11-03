@@ -1,6 +1,6 @@
 # The usual LA hotel day: check in at 3 PM, check out by 11 AM
 
-Check-in and Check-out Times at LA Hotels. Published 2026-10-03. Data checked 2026-11-02.
+Check-in and Check-out Times at LA Hotels. Published 2026-10-03. Data checked 2026-11-03.
 
 Of 225 hotels in the Los Angeles area that state a check-in time on their own website, 55% say 3 PM, and 27% make guests wait until 4 PM or later.
 
@@ -9,17 +9,17 @@ Sample: 225 hotels that state a check-in time, out of 457 hotel websites with a 
 ## Headline numbers
 
 - **3 PM** most common check-in time (123 of 225 hotels stating one (55%))
-- **11 AM** most common check-out time (190 of 232 hotels stating one (82%))
+- **11 AM** most common check-out time (190 of 231 hotels stating one (82%))
 - **27%** check in at 4 PM or later (61 of 225 hotels stating a check-in time)
-- **14%** let guests stay until noon or later (32 of 232 hotels stating a check-out time)
+- **13%** let guests stay until noon or later (31 of 231 hotels stating a check-out time)
 
 ## Key findings
 
 - Of the 225 hotels that state a check-in time, 123 (55%) say 3 PM.
 - 61 (27%) start check-in at 4 PM or later.
-- Of the 232 hotels that state a check-out time, 190 (82%) say 11 AM.
-- 32 (14%) give guests until noon or later.
-- 42 hotels state a minimum age to check in: 24 say 18 and 18 say 21 or older.
+- Of the 231 hotels that state a check-out time, 190 (82%) say 11 AM.
+- 31 (13%) give guests until noon or later.
+- 41 hotels state a minimum age to check in: 23 say 18 and 18 say 21 or older.
 
 ## What time is check-in at LA hotels?
 
@@ -40,7 +40,7 @@ Of the 457 hotel websites we have read at least one detail from, 225 (49%) state
 
 ## What time is check-out at LA hotels?
 
-Of the 457 hotel websites we have read at least one detail from, 232 (51%) state a check-out time.
+Of the 457 hotel websites we have read at least one detail from, 231 (51%) state a check-out time.
 
 **Stated check-out times**
 
@@ -50,7 +50,7 @@ Of the 457 hotel websites we have read at least one detail from, 232 (51%) state
 | 10:30 AM | 1 | 0% |
 | 11 AM | 190 | 82% |
 | 11:30 AM | 2 | 1% |
-| 12 PM | 32 | 14% |
+| 12 PM | 31 | 13% |
 
 ## What do early check-in and late check-out cost?
 
@@ -64,7 +64,7 @@ Video summary: https://www.youtube.com/watch?v=JX2W2QCuQYI
 
 ## Cite this report
 
-Journeyed, "Check-in and Check-out Times at LA Hotels", data checked November 2, 2026, https://journeyed.org/reports/la-hotel-check-in-and-check-out-times/
+Journeyed, "Check-in and Check-out Times at LA Hotels", data checked November 3, 2026, https://journeyed.org/reports/la-hotel-check-in-and-check-out-times/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -73,7 +73,7 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 2, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 3, 2026. Nothing comes from booking sites, review sites or guest reports.
 
 The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 457 of those websites so far. A website our crawler opened but found no such detail on is not among the 457, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
@@ -91,6 +91,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-11-02
+Last checked: 2026-11-03
 
 Canonical: https://journeyed.org/reports/la-hotel-check-in-and-check-out-times/
