@@ -1,22 +1,22 @@
-# Of 457 LA hotel websites that state any detail of the stay, 53% say what parking costs and 7% mention a resort fee
+# Of 458 LA hotel websites that state any detail of the stay, 53% say what parking costs and 7% mention a resort fee
 
-What LA Hotel Websites Leave Out. Published 2026-10-03. Data checked 2026-11-03.
+What LA Hotel Websites Leave Out. Published 2026-10-03. Data checked 2026-11-04.
 
-On the websites of 457 hotels in the Los Angeles area our crawler could read at least one detail of the stay. We checked each for 18 basic details: 53% state what parking costs, 47% state a pet policy and 7% say anything about a resort fee.
+On the websites of 458 hotels in the Los Angeles area our crawler could read at least one detail of the stay. We checked each for 18 basic details: 53% state what parking costs, 47% state a pet policy and 7% say anything about a resort fee.
 
-Sample: 457 hotel websites with a detail read, out of 2,608 hotels in the market.
+Sample: 458 hotel websites with a detail read, out of 2,608 hotels in the market.
 
 ## Headline numbers
 
-- **49%** state a check-in time (225 of 457 hotel websites with a detail read)
-- **53%** state what parking costs (240 of 457 hotel websites with a detail read)
-- **47%** state a pet policy (215 of 457 hotel websites with a detail read)
-- **7%** mention a resort fee, or say there is none (32 of 457 hotel websites with a detail read)
+- **49%** state a check-in time (226 of 458 hotel websites with a detail read)
+- **53%** state what parking costs (241 of 458 hotel websites with a detail read)
+- **47%** state a pet policy (215 of 458 hotel websites with a detail read)
+- **7%** mention a resort fee, or say there is none (32 of 458 hotel websites with a detail read)
 
 ## Key findings
 
 - Of 2,608 hotels in the Los Angeles area, 2,228 list their own website and 380 list none.
-- We have read at least one detail about the stay from 457 hotel websites. The figures below are shares of those 457, not of every hotel website: sites where our crawler found no detail at all are not counted, so the true shares are lower.
+- We have read at least one detail about the stay from 458 hotel websites. The figures below are shares of those 458, not of every hotel website: sites where our crawler found no detail at all are not counted, so the true shares are lower.
 - Most often stated: free Wi-Fi or a Wi-Fi fee (77%), whether there is parking (65%), what parking costs (53%).
 - Least often stated: security deposit (8%), resort fee, or that there is none (7%), airport shuttle (4%).
 
@@ -26,26 +26,26 @@ These are the questions travelers ask before booking. A hotel is counted for a d
 
 A low share does not mean hotels hide the detail on purpose. Many chain hotels keep it inside a booking widget, and many small motels have a one-page site. Either way a traveler, or an AI assistant answering for one, cannot read it there.
 
-**Share of the 457 hotel websites with a detail read that state each one**
+**Share of the 458 hotel websites with a detail read that state each one**
 
-- Free Wi-Fi or a Wi-Fi fee: 354 of 457 (77%)
-- Whether there is parking: 297 of 457 (65%)
-- What parking costs: 240 of 457 (53%)
-- Accessible rooms: 235 of 457 (51%)
-- Check-out time: 231 of 457 (51%)
-- Check-in time: 225 of 457 (49%)
-- Pet policy: 215 of 457 (47%)
-- Pool: 183 of 457 (40%)
-- Smoking policy: 133 of 457 (29%)
-- Fitness room: 124 of 457 (27%)
-- Breakfast: 104 of 457 (23%)
-- Number of rooms: 67 of 457 (15%)
-- Pet fee: 48 of 457 (11%)
-- Minimum age to check in: 41 of 457 (9%)
-- Electric vehicle charging: 38 of 457 (8%)
-- Security deposit: 37 of 457 (8%)
-- Resort fee, or that there is none: 32 of 457 (7%)
-- Airport shuttle: 20 of 457 (4%)
+- Free Wi-Fi or a Wi-Fi fee: 354 of 458 (77%)
+- Whether there is parking: 299 of 458 (65%)
+- What parking costs: 241 of 458 (53%)
+- Accessible rooms: 235 of 458 (51%)
+- Check-out time: 232 of 458 (51%)
+- Check-in time: 226 of 458 (49%)
+- Pet policy: 215 of 458 (47%)
+- Pool: 182 of 458 (40%)
+- Smoking policy: 133 of 458 (29%)
+- Fitness room: 124 of 458 (27%)
+- Breakfast: 104 of 458 (23%)
+- Number of rooms: 67 of 458 (15%)
+- Pet fee: 48 of 458 (10%)
+- Minimum age to check in: 41 of 458 (9%)
+- Electric vehicle charging: 38 of 458 (8%)
+- Security deposit: 37 of 458 (8%)
+- Resort fee, or that there is none: 32 of 458 (7%)
+- Airport shuttle: 20 of 458 (4%)
 
 ## How does that look across every hotel in the market?
 
@@ -56,25 +56,25 @@ Measured against all 2,608 hotels, including those with no website of their own 
 | Detail | Hotels stating it | Share of websites with a detail read | Share of all hotels |
 | --- | ---: | ---: | ---: |
 | Free Wi-Fi or a Wi-Fi fee | 354 | 77% | 14% |
-| Whether there is parking | 297 | 65% | 11% |
-| What parking costs | 240 | 53% | 9% |
+| Whether there is parking | 299 | 65% | 11% |
+| What parking costs | 241 | 53% | 9% |
 | Accessible rooms | 235 | 51% | 9% |
-| Check-out time | 231 | 51% | 9% |
-| Check-in time | 225 | 49% | 9% |
+| Check-out time | 232 | 51% | 9% |
+| Check-in time | 226 | 49% | 9% |
 | Pet policy | 215 | 47% | 8% |
-| Pool | 183 | 40% | 7% |
+| Pool | 182 | 40% | 7% |
 | Smoking policy | 133 | 29% | 5% |
 | Fitness room | 124 | 27% | 5% |
 | Breakfast | 104 | 23% | 4% |
 | Number of rooms | 67 | 15% | 3% |
-| Pet fee | 48 | 11% | 2% |
+| Pet fee | 48 | 10% | 2% |
 | Minimum age to check in | 41 | 9% | 2% |
 | Electric vehicle charging | 38 | 8% | 1% |
 | Security deposit | 37 | 8% | 1% |
 | Resort fee, or that there is none | 32 | 7% | 1% |
 | Airport shuttle | 20 | 4% | 1% |
 
-Websites with at least one detail read: 457. All hotels: 2,608.
+Websites with at least one detail read: 458. All hotels: 2,608.
 
 Also asked as: What fees do Los Angeles hotels not tell you about? · What hidden fees do Los Angeles hotels charge? · What percentage of hotel websites list parking prices?
 
@@ -82,7 +82,7 @@ Video summary: https://www.youtube.com/watch?v=fMt7y3fe6as
 
 ## Cite this report
 
-Journeyed, "What LA Hotel Websites Leave Out", data checked November 3, 2026, https://journeyed.org/reports/what-la-hotel-websites-leave-out/
+Journeyed, "What LA Hotel Websites Leave Out", data checked November 4, 2026, https://journeyed.org/reports/what-la-hotel-websites-leave-out/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -91,9 +91,9 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 3, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 4, 2026. Nothing comes from booking sites, review sites or guest reports.
 
-The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 457 of those websites so far. A website our crawler opened but found no such detail on is not among the 457, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
+The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 458 of those websites so far. A website our crawler opened but found no such detail on is not among the 458, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
 A hotel is counted only when its website states the fact in plain text. Our crawler reads up to 12 pages per site and runs no JavaScript, so a fee that appears only inside a booking widget, an image or a PDF is not counted. A hotel that is not counted may still offer or charge the thing; it has not said so in a form we could read.
 
@@ -109,6 +109,6 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-11-03
+Last checked: 2026-11-04
 
 Canonical: https://journeyed.org/reports/what-la-hotel-websites-leave-out/

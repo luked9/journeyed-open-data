@@ -1,6 +1,6 @@
 # Answers about Los Angeles hotels
 
-1390 questions people ask about where to stay in Los Angeles, each with the short answer from Journeyed as of 2026-11-03. Each link opens the full ranking, with the fact behind every hotel, its source and the date it was checked. Canonical index: https://journeyed.org/answers.json
+1390 questions people ask about where to stay in Los Angeles, each with the short answer from Journeyed as of 2026-11-04. Each link opens the full ranking, with the fact behind every hotel, its source and the date it was checked. Canonical index: https://journeyed.org/answers.json
 
 ## Los Angeles International Airport
 
@@ -955,7 +955,7 @@
 - **What hotels within 5 miles of Beverly Hills have accessible rooms?** Mosaic Hotel is the top match for this question, 0.5 miles from Beverly Hills. L'Ermitage Beverly Hills and Fairmont Century Plaza come next among 262 hotels compared within 5 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-5-miles-of-beverly-hills-have-accessible-rooms/)
 - **What hotels within 5 miles of Beverly Hills have free Wi-Fi?** AKA Beverly Hills is the top match for this question, 0.3 miles from Beverly Hills. Burton House Hotel and Hotel Beverly Terrace - Beverly Hills / West Hollywood come next among 262 hotels compared within 5 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-5-miles-of-beverly-hills-have-free-wi-fi/)
 - **What hotels within 5 miles of Beverly Hills have meeting space?** The Carlyle Inn is the top match for this question, 1.3 miles from Beverly Hills. Sofitel Los Angeles at Beverly Hills and Elan Hotel come next among 262 hotels compared within 5 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-5-miles-of-beverly-hills-have-meeting-space/)
-- **What hotels within 8 miles of Beverly Hills have free parking?** UCLA Tiverton House is the top match for this question, 2.4 miles from Beverly Hills. Royal Palace Westwood and Palihotel Westwood Village come next among 558 hotels compared within 8 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-8-miles-of-beverly-hills-have-free-parking/)
+- **What hotels within 8 miles of Beverly Hills have free parking?** The Charlie is the top match for this question, 2.2 miles from Beverly Hills. UCLA Tiverton House and Royal Palace Westwood come next among 558 hotels compared within 8 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-8-miles-of-beverly-hills-have-free-parking/)
 
 ## Culver City
 
@@ -1504,7 +1504,7 @@
 ## El Monte
 
 - **What hotels are in El Monte?** Motel 6 El Monte - Los Angeles is the closest match, 0.6 miles from El Monte; our profile of it is an early one, so closest is all this rank says. The hotel on this list with the most verified facts is Hotel Heritage El Monte Los Angeles, 1.4 miles away with a Journeyed Score of 78.2. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-are-in-el-monte/)
-- **What hotels within 12 miles of El Monte have a pool?** Hotel Heritage El Monte Los Angeles is the top match for this question, 1.4 miles from El Monte. （林肯酒店）Lincoln Hotel and Hotel Le Reve Pasadena come next among 337 hotels compared within 12 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-12-miles-of-el-monte-have-a-pool/)
+- **What hotels within 12 miles of El Monte have a pool?** Hotel Heritage El Monte Los Angeles is the top match for this question, 1.4 miles from El Monte. （林肯酒店）Lincoln Hotel and Hotel Le Reve Pasadena come next among 338 hotels compared within 12 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-12-miles-of-el-monte-have-a-pool/)
 - **What hotels within 8 miles of El Monte have a 24-hour front desk?** Le Blanc Inn and Suites is the top match for this question, 1.1 miles from El Monte. Starlight Inn South El Monte and Epic Hotel come next among 185 hotels compared within 8 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-8-miles-of-el-monte-have-a-24-hour-front-desk/)
 - **What hotels within 8 miles of El Monte have free Wi-Fi?** Le Blanc Inn and Suites is the top match for this question, 1.1 miles from El Monte. Hotel Heritage El Monte Los Angeles and Valley Hotel come next among 184 hotels compared within 8 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-8-miles-of-el-monte-have-free-wi-fi/)
 - **What hotels within 8 miles of El Monte have parking, and what does it cost?** Le Blanc Inn and Suites is the top match for this question, 1.1 miles from El Monte. Hotel Heritage El Monte Los Angeles and Valley Hotel come next among 185 hotels compared within 8 miles. [Full ranking](https://journeyed.org/hotels/los-angeles/what-hotels-within-8-miles-of-el-monte-have-parking-and-what-does-it-cost/)
