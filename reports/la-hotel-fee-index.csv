@@ -248,7 +248,7 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-11,My Sunshine Hotel,https://journeyed.org/hotel/my-sunshine-hotel-los-angeles-2a4b49/,Downtown Los Angeles,parking.fee,0,USD,https://www.mysunshinehotella.us/amenities.html,2026-11-03
 2026-11,MyStayLA,https://journeyed.org/hotel/mystayla-los-angeles-3bbaeb/,Mid-Wilshire,parking.fee,paid,USD,https://mystayla.thelosangeleshotels.com/en/,2026-11-03
 2026-11,Newport Bay Inn,https://journeyed.org/hotel/newport-bay-inn-costa-mesa-6fe5ce/,Costa Mesa,parking.fee,0,USD,https://www.newportbayinncostamesa.us/amenities.html,2026-11-03
-2026-11,Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,parking.fee,0,USD,https://www.newportchannelinn.com/guestrooms.htm,2026-11-03
+2026-11,Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,parking.fee,0,USD,https://www.newportchannelinn.com/guestrooms.htm,2026-11-05
 2026-11,Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,Gardena,parking.fee,0,USD,https://www.niseiinngardena.com/amenities.html,2026-11-03
 2026-11,Nite Inn at Universal City,https://journeyed.org/hotel/nite-inn-at-universal-city-studio-city-110c7a/,Studio City,smoking.fee,200,USD,https://www.niteinnuniversal.com/about,2026-11-03
 2026-11,OC Hotel Costa Mesa,https://journeyed.org/hotel/oc-hotel-costa-mesa-costa-mesa-a5a2cb/,Costa Mesa,parking.fee,0,USD,https://www.ochotelcostamesa.com/best-hotel-costa-mesa/,2026-11-03
@@ -287,7 +287,7 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-11,Pendry Newport Beach,https://journeyed.org/hotel/pendry-newport-beach-newport-beach-b5e3d7/,Newport Beach,valet.fee,70,USD,https://www.pendry.com/newport-beach/faqs/,2026-10-11
 2026-11,Pendry Newport Beach,https://journeyed.org/hotel/pendry-newport-beach-newport-beach-b5e3d7/,Newport Beach,pets.fee,150,USD,https://www.pendry.com/newport-beach/faqs/,2026-10-11
 2026-11,Plaza Inn Motel,https://journeyed.org/hotel/plaza-inn-motel-rosemead-7ddfc4/,Rosemead,parking.fee,0,USD,https://plazainnmotelrosemead.com/amenities.html,2026-11-03
-2026-11,Pomona Inn Motel,https://journeyed.org/hotel/pomona-inn-motel-pomona-99b533/,Pomona,parking.fee,0,USD,https://www.pomonainn.com/hotel-in-pomona-ca-faq.html,2026-10-28
+2026-11,Pomona Inn Motel,https://journeyed.org/hotel/pomona-inn-motel-pomona-99b533/,Pomona,parking.fee,0,USD,https://www.pomonainn.com/hotel-in-pomona-ca-faq.html,2026-11-05
 2026-11,Portofino Inn Burbank,https://journeyed.org/hotel/portofino-inn-burbank-burbank-1a7fd2/,Burbank,parking.fee,0,USD,http://www.portofinoburbank.com/faq.asp,2026-11-03
 2026-11,Providencia Motel,https://journeyed.org/hotel/providencia-motel-burbank-e89fc0/,Burbank,parking.fee,0,USD,https://www.providenciamotelburbank.com/amenities/,2026-11-03
 2026-11,Queens Inn Anaheim near The Park & Convention Center,https://journeyed.org/hotel/queens-inn-anaheim-near-the-park-and-convention-center-anaheim-dec383/,Anaheim,parking.fee,0,USD,https://queensinnanaheim.com/rooms/,2026-11-03
@@ -451,7 +451,7 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-11,UCLA Tiverton House,https://journeyed.org/hotel/ucla-tiverton-house-los-angeles-086c9d/,Westwood,parking.fee,0,USD,https://www.uclahealth.org/locations/tiverton,2026-11-03
 2026-11,Unik Motel,https://journeyed.org/hotel/unik-motel-harbor-city-370f67/,Harbor City,parking.fee,0,USD,https://www.unikmotel.info/,2026-11-03
 2026-11,USC Hotel,https://journeyed.org/hotel/usc-hotel-los-angeles-536d2e/,Los Angeles (other areas),parking.fee,45,USD,https://uschotel.usc.edu/our-hotel,2026-10-19
-2026-11,Valley Hotel,https://journeyed.org/hotel/valley-hotel-rosemead-a8cf33/,Rosemead,parking.fee,0,USD,https://valleyhotel.net/,2026-10-27
+2026-11,Valley Hotel,https://journeyed.org/hotel/valley-hotel-rosemead-a8cf33/,Rosemead,parking.fee,0,USD,https://valleyhotel.net/,2026-11-05
 2026-11,Value Inn Bellflower,https://journeyed.org/hotel/value-inn-bellflower-bellflower-4cafaf/,Bellflower,parking.fee,0,USD,https://valueinnbellflowerca.com/amenities/,2026-11-03
 2026-11,Value Inn Motel,https://journeyed.org/hotel/value-inn-motel-los-angeles-74bee7/,Los Angeles (other areas),parking.fee,0,USD,https://www.valueinnsylmar.us/amenities.html,2026-11-04
 2026-11,Vector Travel,https://journeyed.org/hotel/vector-travel-los-angeles-5b03df/,Downtown Los Angeles,parking.fee,0,USD,https://www.vectorstays.com/property/660189507869474981/capricorn_ga104-s?checkin=2026-11-22&checkout=2026-11-24,2026-11-03
