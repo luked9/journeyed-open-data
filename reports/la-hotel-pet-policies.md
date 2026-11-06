@@ -1,6 +1,6 @@
 # 42% of LA hotels that state a pet policy allow pets
 
-Pet Policies Across LA Hotels. Published 2026-10-03. Data checked 2026-11-05.
+Pet Policies Across LA Hotels. Published 2026-10-03. Data checked 2026-11-06.
 
 Of 215 hotels in the Los Angeles area that state a pet policy on their own website, 90 allow pets, 101 do not, and 24 take service animals only. The median stated pet fee is $100.
 
@@ -75,7 +75,7 @@ Video summary: https://www.youtube.com/watch?v=51dWp02JvJc
 
 ## Cite this report
 
-Journeyed, "Pet Policies Across LA Hotels", data checked November 5, 2026, https://journeyed.org/reports/la-hotel-pet-policies/
+Journeyed, "Pet Policies Across LA Hotels", data checked November 6, 2026, https://journeyed.org/reports/la-hotel-pet-policies/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -84,7 +84,7 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 5, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 6, 2026. Nothing comes from booking sites, review sites or guest reports.
 
 The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 458 of those websites so far. A website our crawler opened but found no such detail on is not among the 458, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
@@ -102,7 +102,7 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-11-05
+Last checked: 2026-11-06
 
 Canonical: https://journeyed.org/reports/la-hotel-pet-policies/
 
