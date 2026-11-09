@@ -104,9 +104,9 @@ El Rancho Inn,https://journeyed.org/hotel/el-rancho-inn-hawthorne-e9ddd1/,Hawtho
 El Rancho Inn,https://journeyed.org/hotel/el-rancho-inn-hawthorne-e9ddd1/,Hawthorne,checkout.time,11:00,,https://www.elranchoinnhawthorne.us/policies.html,2026-11-03
 El Segundo Inn,https://journeyed.org/hotel/el-segundo-inn-hawthorne-f53190/,Hawthorne,checkin.time,13:30,,https://www.elsegundoinnhawthorne.us/policies.html,2026-11-03
 El Segundo Inn,https://journeyed.org/hotel/el-segundo-inn-hawthorne-f53190/,Hawthorne,checkout.time,11:00,,https://www.elsegundoinnhawthorne.us/policies.html,2026-11-03
-El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,checkin.time,14:00,,https://www.elterado.com/policies/,2026-10-29
-El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,checkout.time,10:00,,https://www.elterado.com/policies/,2026-10-29
-El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,checkin.minAge,21,years,https://www.elterado.com/policies/,2026-10-29
+El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,checkin.time,14:00,,https://www.elterado.com/policies/,2026-11-09
+El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,checkout.time,10:00,,https://www.elterado.com/policies/,2026-11-09
+El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,checkin.minAge,21,years,https://www.elterado.com/policies/,2026-11-09
 Elan Hotel,https://journeyed.org/hotel/elan-hotel-los-angeles-3a7d1d/,West Hollywood,checkin.time,15:00,,https://www.elanhotel.com/faqs.php,2026-11-03
 Elan Hotel,https://journeyed.org/hotel/elan-hotel-los-angeles-3a7d1d/,West Hollywood,checkout.time,11:00,,https://www.elanhotel.com/faqs.php,2026-11-03
 Elan Hotel,https://journeyed.org/hotel/elan-hotel-los-angeles-3a7d1d/,West Hollywood,lateCheckout.fee,50,USD,https://www.elanhotel.com/,2026-11-03
@@ -130,8 +130,8 @@ Glendale Express Hotel,https://journeyed.org/hotel/glendale-express-hotel-glenda
 Glendale Express Hotel,https://journeyed.org/hotel/glendale-express-hotel-glendale-569f37/,Glendale,checkin.minAge,21,years,https://www.glendaleexpresshotel.com/faq,2026-11-03
 Glendora Motel,https://journeyed.org/hotel/glendora-motel-glendora-81b63c/,Glendora,checkin.time,14:00,,https://www.glendoramotel.us/policies.html,2026-11-04
 Glendora Motel,https://journeyed.org/hotel/glendora-motel-glendora-81b63c/,Glendora,checkout.time,11:00,,https://www.glendoramotel.us/policies.html,2026-11-04
-Glenmore Plaza Hotel,https://journeyed.org/hotel/glenmore-plaza-hotel-avalon-acb040/,Avalon,checkin.time,15:00,,https://glenmoreplaza.com/,2026-10-29
-Glenmore Plaza Hotel,https://journeyed.org/hotel/glenmore-plaza-hotel-avalon-acb040/,Avalon,checkout.time,11:00,,https://glenmoreplaza.com/,2026-10-29
+Glenmore Plaza Hotel,https://journeyed.org/hotel/glenmore-plaza-hotel-avalon-acb040/,Avalon,checkin.time,15:00,,https://glenmoreplaza.com/,2026-11-09
+Glenmore Plaza Hotel,https://journeyed.org/hotel/glenmore-plaza-hotel-avalon-acb040/,Avalon,checkout.time,11:00,,https://glenmoreplaza.com/,2026-11-09
 Glenridge Inn Glendale Pasadena,https://journeyed.org/hotel/glenridge-inn-glendale-pasadena-glendale-8c8107/,Glendale,checkin.time,15:00,,https://www.glenridgeinn.com/amenities-and-services/,2026-11-03
 Glenridge Inn Glendale Pasadena,https://journeyed.org/hotel/glenridge-inn-glendale-pasadena-glendale-8c8107/,Glendale,checkout.time,11:00,,https://www.glenridgeinn.com/amenities-and-services/,2026-11-03
 Gold Diggers Hotel,https://journeyed.org/hotel/gold-diggers-hotel-los-angeles-c4984e/,Hollywood,checkin.minAge,21,years,https://gold-diggers.com/pages/policies,2026-11-05
@@ -196,8 +196,8 @@ Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef
 Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,checkin.minAge,18,years,https://www.thehoteljune.com/west-los-angeles/faqs/,2026-11-09
 Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,checkin.time,17:00,,https://hotellerevepasadena.com/hotel-policy,2026-11-03
 Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,checkout.time,11:00,,https://hotellerevepasadena.com/hotel-policy,2026-11-03
-Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,checkin.time,15:00,,https://lexenboutique.com/,2026-10-29
-Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,checkout.time,11:00,,https://lexenboutique.com/,2026-10-29
+Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,checkin.time,15:00,,https://lexenboutique.com/,2026-11-09
+Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,checkout.time,11:00,,https://lexenboutique.com/,2026-11-09
 Hotel Mai,https://journeyed.org/hotel/hotel-mai-long-beach-ff7ece/,Long Beach,checkin.time,16:00,,https://hotelmai.com/,2026-11-03
 Hotel Mai,https://journeyed.org/hotel/hotel-mai-long-beach-ff7ece/,Long Beach,checkout.time,11:00,,https://hotelmai.com/,2026-11-03
 Hotel Mariposa Los Angeles,https://journeyed.org/hotel/hotel-mariposa-los-angeles-los-angeles-544268/,Studio City,checkin.time,15:00,,https://www.hotelmariposala.com/hotel-policies/,2026-11-03

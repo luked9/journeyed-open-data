@@ -81,7 +81,7 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-11,El Patio Inn,https://journeyed.org/hotel/el-patio-inn-studio-city-9a51a3/,Studio City,pets.feePeriod,per-night,,https://www.elpatioinn.com/services,2026-11-03
 2026-11,El Rancho Inn,https://journeyed.org/hotel/el-rancho-inn-hawthorne-e9ddd1/,Hawthorne,parking.fee,0,USD,https://www.elranchoinnhawthorne.us/amenities.html,2026-11-03
 2026-11,El Segundo Inn,https://journeyed.org/hotel/el-segundo-inn-hawthorne-f53190/,Hawthorne,parking.fee,0,USD,https://www.elsegundoinnhawthorne.us/amenities.html,2026-11-03
-2026-11,El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,smoking.fee,250,USD,https://www.elterado.com/policies/,2026-10-29
+2026-11,El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,smoking.fee,250,USD,https://www.elterado.com/policies/,2026-11-09
 2026-11,Elan Hotel,https://journeyed.org/hotel/elan-hotel-los-angeles-3a7d1d/,West Hollywood,parking.fee,25,USD,https://www.elanhotel.com/faqs.php,2026-11-03
 2026-11,Elan Hotel,https://journeyed.org/hotel/elan-hotel-los-angeles-3a7d1d/,West Hollywood,resortFee,25,USD,https://www.elanhotel.com/faqs.php,2026-11-03
 2026-11,Elan Hotel,https://journeyed.org/hotel/elan-hotel-los-angeles-3a7d1d/,West Hollywood,lateCheckout.fee,50,USD,https://www.elanhotel.com/,2026-11-03
@@ -105,8 +105,8 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-11,Grandview Inn,https://journeyed.org/hotel/grandview-inn-hermosa-beach-08ae67/,Hermosa Beach,parking.fee,0,USD,https://gvinn.com/,2026-11-03
 2026-11,H2O Hermosa,https://journeyed.org/hotel/h2o-hermosa-hermosa-beach-570dc4/,Hermosa Beach,resortFee,20,USD,https://www.h2ohermosa.com/faq,2026-11-03
 2026-11,Hawthorne Plaza Inn,https://journeyed.org/hotel/hawthorne-plaza-inn-hawthorne-4bfbf9/,Hawthorne,parking.fee,0,USD,https://www.hawthorneplazainn.com/overview,2026-10-11
-2026-11,Hermosa Hotel,https://journeyed.org/hotel/hermosa-hotel-avalon-1ca071/,Avalon,pets.fee,25,USD,https://hermosahotel.com/amenities/,2026-10-29
-2026-11,Hermosa Hotel,https://journeyed.org/hotel/hermosa-hotel-avalon-1ca071/,Avalon,pets.feePeriod,per-night,,https://hermosahotel.com/amenities/,2026-10-29
+2026-11,Hermosa Hotel,https://journeyed.org/hotel/hermosa-hotel-avalon-1ca071/,Avalon,pets.fee,25,USD,https://hermosahotel.com/amenities/,2026-11-09
+2026-11,Hermosa Hotel,https://journeyed.org/hotel/hermosa-hotel-avalon-1ca071/,Avalon,pets.feePeriod,per-night,,https://hermosahotel.com/amenities/,2026-11-09
 2026-11,Highland Gardens Hotel,https://journeyed.org/hotel/highland-gardens-hotel-los-angeles-fb5334/,Hollywood,parking.fee,10,USD,https://www.highlandgardenshotel.com/index.php/en/the-rooms,2026-11-03
 2026-11,Highland Gardens Hotel,https://journeyed.org/hotel/highland-gardens-hotel-los-angeles-fb5334/,Hollywood,pets.fee,25,USD,https://www.highlandgardenshotel.com/index.php/en/the-rooms,2026-11-03
 2026-11,Highland Gardens Hotel,https://journeyed.org/hotel/highland-gardens-hotel-los-angeles-fb5334/,Hollywood,pets.feePeriod,per-night,,https://www.highlandgardenshotel.com/index.php/en/the-rooms,2026-11-03
@@ -162,8 +162,8 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-11,Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,pets.feePeriod,per-night,,https://hotellerevepasadena.com/hotel-policy,2026-11-03
 2026-11,Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,smoking.fee,150,USD,https://hotellerevepasadena.com/hotel-policy,2026-11-03
 2026-11,Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,deposit,150,USD,https://hotellerevepasadena.com/hotel-policy,2026-11-03
-2026-11,Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,parking.fee,0,USD,https://lexenboutique.com/,2026-10-29
-2026-11,Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,smoking.fee,300,USD,https://lexenboutique.com/hotel-policy/,2026-10-29
+2026-11,Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,parking.fee,0,USD,https://lexenboutique.com/,2026-11-09
+2026-11,Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,smoking.fee,300,USD,https://lexenboutique.com/hotel-policy/,2026-11-09
 2026-11,Hotel Lulu,https://journeyed.org/hotel/hotel-lulu-anaheim-ce8e86/,Anaheim,parking.fee,34,USD,https://hotellulu.com/amenities/,2026-11-03
 2026-11,Hotel Mai,https://journeyed.org/hotel/hotel-mai-long-beach-ff7ece/,Long Beach,parking.fee,20,USD,https://hotelmai.com/,2026-11-03
 2026-11,Hotel Mai,https://journeyed.org/hotel/hotel-mai-long-beach-ff7ece/,Long Beach,deposit,200,USD,https://hotelmai.com/faq/,2026-11-03
