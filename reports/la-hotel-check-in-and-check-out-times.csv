@@ -42,7 +42,7 @@ Camelot Inn and Suites,https://journeyed.org/hotel/camelot-inn-and-suites-anahei
 Camelot Inn and Suites,https://journeyed.org/hotel/camelot-inn-and-suites-anaheim-e15e42/,Anaheim,checkout.time,11:00,,https://www.camelotinn-anaheim.com/hotel-near-disneyland-policies/,2026-11-03
 Candy Cane Inn,https://journeyed.org/hotel/candy-cane-inn-anaheim-b3b422/,Anaheim,checkin.time,15:00,,https://candycaneinn.net/hotel-policies/,2026-11-03
 Candy Cane Inn,https://journeyed.org/hotel/candy-cane-inn-anaheim-b3b422/,Anaheim,checkin.minAge,18,years,https://candycaneinn.net/hotel-policies/,2026-11-03
-Capistrano Coast House,https://journeyed.org/hotel/capistrano-coast-house-capistrano-beach-672aa1/,Capistrano Beach,checkin.time,16:00,,https://capistranocoasthouse.com/policies/,2026-10-29
+Capistrano Coast House,https://journeyed.org/hotel/capistrano-coast-house-capistrano-beach-672aa1/,Capistrano Beach,checkin.time,16:00,,https://capistranocoasthouse.com/policies/,2026-11-09
 Casa Bell Motel,https://journeyed.org/hotel/casa-bell-motel-inglewood-2fe9e6/,Inglewood,checkin.time,14:00,,https://www.casabellmotelinglewood.com/amenities-services/,2026-11-03
 Casa Bell Motel,https://journeyed.org/hotel/casa-bell-motel-inglewood-2fe9e6/,Inglewood,checkout.time,10:00,,https://www.casabellmotelinglewood.com/amenities-services/,2026-11-03
 Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,checkin.time,16:00,,https://casalomalagunabeach.com/faq/,2026-11-04
@@ -57,8 +57,8 @@ Catalina Canyon Inn,https://journeyed.org/hotel/catalina-canyon-inn-avalon-454bc
 Catalina Canyon Inn,https://journeyed.org/hotel/catalina-canyon-inn-avalon-454bcc/,Avalon,checkout.time,11:00,,https://www.catalinacanyoninn.com/faq,2026-10-21
 Catalina Island Inn,https://journeyed.org/hotel/catalina-island-inn-avalon-ba1727/,Avalon,checkin.time,16:00,,https://www.catalinaislandinn.com/faqs,2026-10-03
 Catalina Island Inn,https://journeyed.org/hotel/catalina-island-inn-avalon-ba1727/,Avalon,checkout.time,11:00,,https://www.catalinaislandinn.com/faqs,2026-10-03
-Catalina's Courtyard Garden Suites,https://journeyed.org/hotel/catalinas-courtyard-garden-suites-avalon-0b81dc/,Avalon,checkin.time,15:00,,https://catalinacourtyardsuites.com/faq,2026-10-29
-Catalina's Courtyard Garden Suites,https://journeyed.org/hotel/catalinas-courtyard-garden-suites-avalon-0b81dc/,Avalon,checkout.time,11:00,,https://catalinacourtyardsuites.com/faq,2026-10-29
+Catalina's Courtyard Garden Suites,https://journeyed.org/hotel/catalinas-courtyard-garden-suites-avalon-0b81dc/,Avalon,checkin.time,15:00,,https://catalinacourtyardsuites.com/faq,2026-11-09
+Catalina's Courtyard Garden Suites,https://journeyed.org/hotel/catalinas-courtyard-garden-suites-avalon-0b81dc/,Avalon,checkout.time,11:00,,https://catalinacourtyardsuites.com/faq,2026-11-09
 Century Park Hotel,https://journeyed.org/hotel/century-park-hotel-los-angeles-0bd74f/,Century City,checkin.time,15:00,,https://www.centuryparkla.com/losangeles-boutique-hotels/,2026-11-04
 Century Park Hotel,https://journeyed.org/hotel/century-park-hotel-los-angeles-0bd74f/,Century City,checkout.time,12:00,,https://www.centuryparkla.com/losangeles-boutique-hotels/,2026-11-04
 Century Park Hotel,https://journeyed.org/hotel/century-park-hotel-los-angeles-0bd74f/,Century City,checkin.minAge,21,years,https://www.centuryparkla.com/west-la-hotel-accommodations/ada-accessible-rooms/,2026-11-04
@@ -190,10 +190,10 @@ Hotel Figueroa,https://journeyed.org/hotel/hotel-figueroa-los-angeles-6c4fda/,Do
 Hotel Figueroa,https://journeyed.org/hotel/hotel-figueroa-los-angeles-6c4fda/,Downtown Los Angeles,checkin.minAge,21,years,https://www.hotelfigueroa.com/faq/,2026-11-03
 Hotel Heritage El Monte Los Angeles,https://journeyed.org/hotel/hotel-heritage-el-monte-los-angeles-el-monte-b065dd/,El Monte,checkin.time,14:00,,https://www.hotelheritage.us/faq-of-el-monte-ca-hotel.html,2026-11-03
 Hotel Heritage El Monte Los Angeles,https://journeyed.org/hotel/hotel-heritage-el-monte-los-angeles-el-monte-b065dd/,El Monte,checkout.time,12:00,,https://www.hotelheritage.us/faq-of-el-monte-ca-hotel.html,2026-11-03
-Hotel Hermosa,https://journeyed.org/hotel/hotel-hermosa-hermosa-beach-4089c6/,Hermosa Beach,checkin.time,15:00,,https://www.hotelhermosa.com/faq/,2026-10-31
-Hotel Hermosa,https://journeyed.org/hotel/hotel-hermosa-hermosa-beach-4089c6/,Hermosa Beach,checkout.time,11:00,,https://www.hotelhermosa.com/faq/,2026-10-31
-Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,checkin.time,15:00,,https://www.thehoteljune.com/west-los-angeles/rooms/,2026-10-31
-Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,checkin.minAge,18,years,https://www.thehoteljune.com/west-los-angeles/faqs/,2026-10-31
+Hotel Hermosa,https://journeyed.org/hotel/hotel-hermosa-hermosa-beach-4089c6/,Hermosa Beach,checkin.time,15:00,,https://www.hotelhermosa.com/faq/,2026-11-09
+Hotel Hermosa,https://journeyed.org/hotel/hotel-hermosa-hermosa-beach-4089c6/,Hermosa Beach,checkout.time,11:00,,https://www.hotelhermosa.com/faq/,2026-11-09
+Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,checkin.time,15:00,,https://www.thehoteljune.com/west-los-angeles/rooms/,2026-11-09
+Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,checkin.minAge,18,years,https://www.thehoteljune.com/west-los-angeles/faqs/,2026-11-09
 Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,checkin.time,17:00,,https://hotellerevepasadena.com/hotel-policy,2026-11-03
 Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,checkout.time,11:00,,https://hotellerevepasadena.com/hotel-policy,2026-11-03
 Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,checkin.time,15:00,,https://lexenboutique.com/,2026-10-29
@@ -227,8 +227,8 @@ Inn at Venice Beach,https://journeyed.org/hotel/inn-at-venice-beach-los-angeles-
 Inn at Venice Beach,https://journeyed.org/hotel/inn-at-venice-beach-los-angeles-734c9a/,Marina del Rey,checkout.time,11:00,,https://www.innatvenicebeach.com/frequently-asked-questions/,2026-11-03
 Inn of Long Beach,https://journeyed.org/hotel/inn-of-long-beach-long-beach-acd0db/,Long Beach,checkin.time,13:00,,http://www.innoflongbeach.com/index.asp,2026-11-03
 Inn of Long Beach,https://journeyed.org/hotel/inn-of-long-beach-long-beach-acd0db/,Long Beach,checkout.time,11:00,,http://www.innoflongbeach.com/index.asp,2026-11-03
-ITH Hermosa Beach Surf Hostel LAX,https://journeyed.org/hotel/ith-hermosa-beach-surf-hostel-lax-hermosa-beach-0ed813/,Hermosa Beach,checkin.time,16:00,,https://ithhostels.com/ith-hermosa-beach-surf-hostel-lax/,2026-10-31
-ITH Hermosa Beach Surf Hostel LAX,https://journeyed.org/hotel/ith-hermosa-beach-surf-hostel-lax-hermosa-beach-0ed813/,Hermosa Beach,checkout.time,11:00,,https://ithhostels.com/ith-hermosa-beach-surf-hostel-lax/,2026-10-31
+ITH Hermosa Beach Surf Hostel LAX,https://journeyed.org/hotel/ith-hermosa-beach-surf-hostel-lax-hermosa-beach-0ed813/,Hermosa Beach,checkin.time,16:00,,https://ithhostels.com/ith-hermosa-beach-surf-hostel-lax/,2026-11-09
+ITH Hermosa Beach Surf Hostel LAX,https://journeyed.org/hotel/ith-hermosa-beach-surf-hostel-lax-hermosa-beach-0ed813/,Hermosa Beach,checkout.time,11:00,,https://ithhostels.com/ith-hermosa-beach-surf-hostel-lax/,2026-11-09
 Jet Inn,https://journeyed.org/hotel/jet-inn-los-angeles-c9d0a8/,Los Angeles (other areas),checkin.time,14:00,,https://www.jetinn-la.us/policies.html,2026-11-03
 Jet Inn,https://journeyed.org/hotel/jet-inn-los-angeles-c9d0a8/,Los Angeles (other areas),checkout.time,11:00,,https://www.jetinn-la.us/policies.html,2026-11-03
 Kimpton Everly Hotel,https://journeyed.org/hotel/kimpton-everly-hotel-los-angeles-a953cf/,Hollywood,checkin.minAge,18,years,https://www.everlyhotelhollywood.com/faq/,2026-11-03
@@ -254,8 +254,8 @@ Lexen Hotel,https://journeyed.org/hotel/lexen-hotel-los-angeles-10413e/,Hollywoo
 Lexen Hotel,https://journeyed.org/hotel/lexen-hotel-los-angeles-10413e/,Hollywood,checkout.time,11:00,,https://www.lexenhotelhollywood.us/policies.html,2026-11-03
 Lincoln Motel,https://journeyed.org/hotel/lincoln-motel-pasadena-76befb/,Pasadena,checkin.time,15:00,,https://www.lincolnmotelpasadena.com/amenities/,2026-11-03
 Lincoln Motel,https://journeyed.org/hotel/lincoln-motel-pasadena-76befb/,Pasadena,checkout.time,11:00,,https://www.lincolnmotelpasadena.com/amenities/,2026-11-03
-Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,checkin.time,16:00,,https://www.littleinnbythebay.com/faq/,2026-11-06
-Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,checkout.time,11:00,,https://www.littleinnbythebay.com/faq/,2026-11-06
+Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,checkin.time,16:00,,https://www.littleinnbythebay.com/faq/,2026-11-09
+Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,checkout.time,11:00,,https://www.littleinnbythebay.com/faq/,2026-11-09
 Los Angeles Inn and Suites,https://journeyed.org/hotel/los-angeles-inn-and-suites-los-angeles-8ac74c/,Los Angeles (other areas),checkin.time,15:00,,https://www.losangelesinnlax.com/cheap-rooms-near-lax/,2026-11-03
 Los Angeles Inn and Suites,https://journeyed.org/hotel/los-angeles-inn-and-suites-los-angeles-8ac74c/,Los Angeles (other areas),checkout.time,11:00,,https://www.losangelesinnlax.com/cheap-rooms-near-lax/,2026-11-03
 Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,checkin.time,15:00,,https://www.malibucountryinn.com/policies1,2026-11-06
@@ -275,8 +275,8 @@ MyStayLA,https://journeyed.org/hotel/mystayla-los-angeles-3bbaeb/,Mid-Wilshire,c
 MyStayLA,https://journeyed.org/hotel/mystayla-los-angeles-3bbaeb/,Mid-Wilshire,checkout.time,10:00,,https://mystayla.thelosangeleshotels.com/en/,2026-11-03
 Newport Bay Inn,https://journeyed.org/hotel/newport-bay-inn-costa-mesa-6fe5ce/,Costa Mesa,checkin.time,12:00,,https://www.newportbayinncostamesa.us/policies.html,2026-11-03
 Newport Bay Inn,https://journeyed.org/hotel/newport-bay-inn-costa-mesa-6fe5ce/,Costa Mesa,checkout.time,11:00,,https://www.newportbayinncostamesa.us/policies.html,2026-11-03
-Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkin.time,14:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-06
-Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkout.time,11:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-06
+Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkin.time,14:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-09
+Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkout.time,11:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-09
 Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,Gardena,checkin.time,14:00,,https://www.niseiinngardena.com/policies.html,2026-11-03
 Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,Gardena,checkout.time,11:00,,https://www.niseiinngardena.com/policies.html,2026-11-03
 Nite Inn at Universal City,https://journeyed.org/hotel/nite-inn-at-universal-city-studio-city-110c7a/,Studio City,checkin.time,15:00,,https://www.niteinnuniversal.com/about,2026-11-03
