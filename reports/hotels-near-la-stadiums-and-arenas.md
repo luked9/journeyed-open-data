@@ -1,6 +1,6 @@
 # Crypto.com Arena has 215 hotels within 3 miles, Rose Bowl Stadium has 26
 
-Hotels Near LA Stadiums and Arenas. Published 2026-10-03. Data checked 2026-11-12.
+Hotels Near LA Stadiums and Arenas. Published 2026-10-03. Data checked 2026-11-13.
 
 We counted the hotels within 1, 3 and 5 miles of 12 stadiums and arenas in the Los Angeles area, and what those hotels say about parking and breakfast on their own websites.
 
@@ -75,7 +75,7 @@ Video summary: https://www.youtube.com/watch?v=qC4S_bNi3zk
 
 ## Cite this report
 
-Journeyed, "Hotels Near LA Stadiums and Arenas", data checked November 12, 2026, https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/
+Journeyed, "Hotels Near LA Stadiums and Arenas", data checked November 13, 2026, https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -107,7 +107,7 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-11-12
+Last checked: 2026-11-13
 
 Canonical: https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/
 
