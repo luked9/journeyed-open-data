@@ -45,9 +45,9 @@ Candy Cane Inn,https://journeyed.org/hotel/candy-cane-inn-anaheim-b3b422/,Anahei
 Capistrano Coast House,https://journeyed.org/hotel/capistrano-coast-house-capistrano-beach-672aa1/,Capistrano Beach,checkin.time,16:00,,https://capistranocoasthouse.com/policies/,2026-11-09
 Casa Bell Motel,https://journeyed.org/hotel/casa-bell-motel-inglewood-2fe9e6/,Inglewood,checkin.time,14:00,,https://www.casabellmotelinglewood.com/amenities-services/,2026-11-13
 Casa Bell Motel,https://journeyed.org/hotel/casa-bell-motel-inglewood-2fe9e6/,Inglewood,checkout.time,10:00,,https://www.casabellmotelinglewood.com/amenities-services/,2026-11-13
-Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,checkin.time,16:00,,https://casalomalagunabeach.com/faq/,2026-11-04
-Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,checkout.time,11:00,,https://casalomalagunabeach.com/faq/,2026-11-04
-Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,checkin.minAge,21,years,https://casalomalagunabeach.com/faq/,2026-11-04
+Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,checkin.time,16:00,,https://casalomalagunabeach.com/faq/,2026-11-14
+Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,checkout.time,11:00,,https://casalomalagunabeach.com/faq/,2026-11-14
+Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,checkin.minAge,21,years,https://casalomalagunabeach.com/faq/,2026-11-14
 Casa Lu-An Motel,https://journeyed.org/hotel/casa-lu-an-motel-los-angeles-b721ae/,Los Angeles (other areas),checkin.time,15:00,,https://casaluanmotel.seasonsnseasons.com/,2026-11-13
 Casa Lu-An Motel,https://journeyed.org/hotel/casa-lu-an-motel-los-angeles-b721ae/,Los Angeles (other areas),checkout.time,11:00,,https://casaluanmotel.seasonsnseasons.com/,2026-11-13
 Castaway Motel,https://journeyed.org/hotel/castaway-motel-orange-c2cbf9/,Orange,checkin.time,15:00,,https://www.castawaymotelorange.us/policies.html,2026-11-13
@@ -243,9 +243,9 @@ kodō hotel,https://journeyed.org/hotel/kodo-hotel-los-angeles-a4c069/,Downtown 
 kodō hotel,https://journeyed.org/hotel/kodo-hotel-los-angeles-a4c069/,Downtown Los Angeles,lateCheckout.fee,60,USD,https://kodohotel.com/hotel-policy/,2026-11-13
 La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,checkout.time,11:30,,https://lacasadelcamino.com/photo-gallery/faq/,2026-11-04
 La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-067ac9/,Laguna Beach,checkin.minAge,18,years,https://lacasadelcamino.com/photo-gallery/faq/,2026-11-04
-Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,checkin.time,16:00,,https://www.thelagunabeachhouse.com/faq/,2026-11-04
-Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,checkout.time,11:00,,https://www.thelagunabeachhouse.com/faq/,2026-11-04
-Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,checkin.minAge,21,years,https://www.thelagunabeachhouse.com/faq/,2026-11-04
+Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,checkin.time,16:00,,https://www.thelagunabeachhouse.com/faq/,2026-11-14
+Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,checkout.time,11:00,,https://www.thelagunabeachhouse.com/faq/,2026-11-14
+Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,checkin.minAge,21,years,https://www.thelagunabeachhouse.com/faq/,2026-11-14
 Lambert Inn,https://journeyed.org/hotel/lambert-inn-whittier-8efefc/,Whittier,checkout.time,11:00,,https://lambertinnca.com/whittier-hotel-policies/,2026-11-10
 Le Blanc Inn and Suites,https://journeyed.org/hotel/le-blanc-inn-and-suites-el-monte-465f08/,El Monte,checkin.time,15:00,,https://www.leblancinnelmonte.com/faq-for-hotel-in-el-monte.html,2026-11-13
 Le Blanc Inn and Suites,https://journeyed.org/hotel/le-blanc-inn-and-suites-el-monte-465f08/,El Monte,checkout.time,11:00,,https://www.leblancinnelmonte.com/faq-for-hotel-in-el-monte.html,2026-11-13
@@ -312,9 +312,9 @@ Palm Tree Inn,https://journeyed.org/hotel/palm-tree-inn-los-angeles-afdb78/,Los 
 Palm Tree Inn,https://journeyed.org/hotel/palm-tree-inn-los-angeles-afdb78/,Los Angeles (other areas),checkout.time,12:00,,https://www.palmtreeinnnhills.us/policies.html,2026-11-13
 Park Vue Inn,https://journeyed.org/hotel/park-vue-inn-anaheim-182e3c/,Anaheim,checkin.time,16:00,,https://parkvueinn.com/faqs,2026-11-13
 Park Vue Inn,https://journeyed.org/hotel/park-vue-inn-anaheim-182e3c/,Anaheim,checkout.time,11:00,,https://parkvueinn.com/faqs,2026-11-13
-Parkside Inn Anaheim,https://journeyed.org/hotel/parkside-inn-anaheim-anaheim-7f0dd1/,Anaheim,checkin.time,15:00,,https://www.parksideinnanaheim.com/amenities,2026-11-03
-Parkside Inn Anaheim,https://journeyed.org/hotel/parkside-inn-anaheim-anaheim-7f0dd1/,Anaheim,checkout.time,11:00,,https://www.parksideinnanaheim.com/amenities,2026-11-03
-Parkside Inn Anaheim,https://journeyed.org/hotel/parkside-inn-anaheim-anaheim-7f0dd1/,Anaheim,checkin.minAge,18,years,https://www.parksideinnanaheim.com/amenities,2026-11-03
+Parkside Inn Anaheim,https://journeyed.org/hotel/parkside-inn-anaheim-anaheim-7f0dd1/,Anaheim,checkin.time,15:00,,https://www.parksideinnanaheim.com/amenities,2026-11-14
+Parkside Inn Anaheim,https://journeyed.org/hotel/parkside-inn-anaheim-anaheim-7f0dd1/,Anaheim,checkout.time,11:00,,https://www.parksideinnanaheim.com/amenities,2026-11-14
+Parkside Inn Anaheim,https://journeyed.org/hotel/parkside-inn-anaheim-anaheim-7f0dd1/,Anaheim,checkin.minAge,18,years,https://www.parksideinnanaheim.com/amenities,2026-11-14
 Pasadena Hotel & Pool,https://journeyed.org/hotel/pasadena-hotel-and-pool-pasadena-6d95a9/,Pasadena,checkin.time,15:00,,https://www.pasadenahotel.com/faq,2026-11-13
 Pasadena Hotel & Pool,https://journeyed.org/hotel/pasadena-hotel-and-pool-pasadena-6d95a9/,Pasadena,checkout.time,11:00,,https://www.pasadenahotel.com/faq,2026-11-13
 Pasadena Hotel & Pool,https://journeyed.org/hotel/pasadena-hotel-and-pool-pasadena-6d95a9/,Pasadena,checkin.minAge,21,years,https://www.pasadenahotel.com/faq,2026-11-13
