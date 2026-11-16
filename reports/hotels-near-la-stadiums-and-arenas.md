@@ -1,10 +1,10 @@
 # Crypto.com Arena has 215 hotels within 3 miles, Rose Bowl Stadium has 26
 
-Hotels Near LA Stadiums and Arenas. Published 2026-10-03. Data checked 2026-11-14.
+Hotels Near LA Stadiums and Arenas. Published 2026-10-03. Data checked 2026-11-15.
 
 We counted the hotels within 1, 3 and 5 miles of 12 stadiums and arenas in the Los Angeles area, and what those hotels say about parking and breakfast on their own websites.
 
-Sample: 1,498 hotel and venue pairs within 3 miles, out of 459 hotel websites with a detail read and 2,608 hotels in the market.
+Sample: 1,498 hotel and venue pairs within 3 miles, out of 460 hotel websites with a detail read and 2,608 hotels in the market.
 
 ## Headline numbers
 
@@ -75,7 +75,7 @@ Video summary: https://www.youtube.com/watch?v=qC4S_bNi3zk
 
 ## Cite this report
 
-Journeyed, "Hotels Near LA Stadiums and Arenas", data checked November 14, 2026, https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/
+Journeyed, "Hotels Near LA Stadiums and Arenas", data checked November 15, 2026, https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -84,9 +84,9 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 14, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 16, 2026. Nothing comes from booking sites, review sites or guest reports.
 
-The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 459 of those websites so far. A website our crawler opened but found no such detail on is not among the 459, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
+The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 460 of those websites so far. A website our crawler opened but found no such detail on is not among the 460, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
 A hotel is counted only when its website states the fact in plain text. Our crawler reads up to 12 pages per site and runs no JavaScript, so a fee that appears only inside a booking widget, an image or a PDF is not counted. A hotel that is not counted may still offer or charge the thing; it has not said so in a form we could read.
 
@@ -107,7 +107,7 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-11-14
+Last checked: 2026-11-15
 
 Canonical: https://journeyed.org/reports/hotels-near-la-stadiums-and-arenas/
 

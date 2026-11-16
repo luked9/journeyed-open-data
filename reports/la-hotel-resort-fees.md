@@ -1,15 +1,15 @@
 # The median stated resort fee at LA hotels is $37.50 a day
 
-Resort and Destination Fees at LA Hotels. Published 2026-10-03. Data checked 2026-11-14.
+Resort and Destination Fees at LA Hotels. Published 2026-10-03. Data checked 2026-11-15.
 
 31 hotels in the Los Angeles area state on their own website whether they charge a resort, destination or amenity fee. 26 state a daily amount, from $3 to $125, and 5 say they charge none.
 
-Sample: 31 hotels that state a resort fee policy, out of 459 hotel websites with a detail read and 2,608 hotels in the market.
+Sample: 31 hotels that state a resort fee policy, out of 460 hotel websites with a detail read and 2,608 hotels in the market.
 
 ## Headline numbers
 
 - **$37.50** median stated daily resort fee (26 hotels stating an amount, from $3 to $125)
-- **31** hotels state their resort fee policy (of 459 hotel websites with a detail read (7%))
+- **31** hotels state their resort fee policy (of 460 hotel websites with a detail read (7%))
 - **$250** median stated smoking fee (36 hotels, from $100 to $750)
 - **$100** median stated security deposit (38 hotels, from $50 to $500)
 
@@ -23,7 +23,7 @@ Sample: 31 hotels that state a resort fee policy, out of 459 hotel websites with
 
 ## How many LA hotels state a resort fee, and how much is it?
 
-Most hotel websites say nothing about a resort fee either way: of the 459 websites we have read at least one detail from, 31 do. That silence is not proof of no fee, since a fee can sit inside the booking flow where our crawler does not go.
+Most hotel websites say nothing about a resort fee either way: of the 460 websites we have read at least one detail from, 31 do. That silence is not proof of no fee, since a fee can sit inside the booking flow where our crawler does not go.
 
 California's SB 478 took effect on July 1, 2024 and makes it unlawful to advertise a price that leaves out mandatory fees other than government taxes.
 
@@ -89,7 +89,7 @@ Video summary: https://www.youtube.com/watch?v=tWwIHHQ2mm0
 
 ## Cite this report
 
-Journeyed, "Resort and Destination Fees at LA Hotels", data checked November 14, 2026, https://journeyed.org/reports/la-hotel-resort-fees/
+Journeyed, "Resort and Destination Fees at LA Hotels", data checked November 15, 2026, https://journeyed.org/reports/la-hotel-resort-fees/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -98,9 +98,9 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 14, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 16, 2026. Nothing comes from booking sites, review sites or guest reports.
 
-The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 459 of those websites so far. A website our crawler opened but found no such detail on is not among the 459, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
+The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 460 of those websites so far. A website our crawler opened but found no such detail on is not among the 460, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
 A hotel is counted only when its website states the fact in plain text. Our crawler reads up to 12 pages per site and runs no JavaScript, so a fee that appears only inside a booking widget, an image or a PDF is not counted. A hotel that is not counted may still offer or charge the thing; it has not said so in a form we could read.
 
@@ -121,7 +121,7 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-11-14
+Last checked: 2026-11-15
 
 Canonical: https://journeyed.org/reports/la-hotel-resort-fees/
 
