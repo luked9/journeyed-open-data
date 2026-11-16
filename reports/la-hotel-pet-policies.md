@@ -1,6 +1,6 @@
 # 42% of LA hotels that state a pet policy allow pets
 
-Pet Policies Across LA Hotels. Published 2026-10-03. Data checked 2026-11-15.
+Pet Policies Across LA Hotels. Published 2026-10-03. Data checked 2026-11-16.
 
 Of 217 hotels in the Los Angeles area that state a pet policy on their own website, 91 allow pets, 102 do not, and 24 take service animals only. The median stated pet fee is $100.
 
@@ -75,7 +75,7 @@ Video summary: https://www.youtube.com/watch?v=51dWp02JvJc
 
 ## Cite this report
 
-Journeyed, "Pet Policies Across LA Hotels", data checked November 15, 2026, https://journeyed.org/reports/la-hotel-pet-policies/
+Journeyed, "Pet Policies Across LA Hotels", data checked November 16, 2026, https://journeyed.org/reports/la-hotel-pet-policies/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -102,7 +102,7 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-11-15
+Last checked: 2026-11-16
 
 Canonical: https://journeyed.org/reports/la-hotel-pet-policies/
 

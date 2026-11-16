@@ -193,10 +193,10 @@ Hotel Figueroa,https://journeyed.org/hotel/hotel-figueroa-los-angeles-6c4fda/,Do
 Hotel Figueroa,https://journeyed.org/hotel/hotel-figueroa-los-angeles-6c4fda/,Downtown Los Angeles,checkin.minAge,21,years,https://www.hotelfigueroa.com/faq/,2026-11-13
 Hotel Heritage El Monte Los Angeles,https://journeyed.org/hotel/hotel-heritage-el-monte-los-angeles-el-monte-b065dd/,El Monte,checkin.time,14:00,,https://www.hotelheritage.us/faq-of-el-monte-ca-hotel.html,2026-11-13
 Hotel Heritage El Monte Los Angeles,https://journeyed.org/hotel/hotel-heritage-el-monte-los-angeles-el-monte-b065dd/,El Monte,checkout.time,12:00,,https://www.hotelheritage.us/faq-of-el-monte-ca-hotel.html,2026-11-13
-Hotel Hermosa,https://journeyed.org/hotel/hotel-hermosa-hermosa-beach-4089c6/,Hermosa Beach,checkin.time,15:00,,https://www.hotelhermosa.com/faq/,2026-11-09
-Hotel Hermosa,https://journeyed.org/hotel/hotel-hermosa-hermosa-beach-4089c6/,Hermosa Beach,checkout.time,11:00,,https://www.hotelhermosa.com/faq/,2026-11-09
-Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,checkin.time,15:00,,https://www.thehoteljune.com/west-los-angeles/rooms/,2026-11-09
-Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,checkin.minAge,18,years,https://www.thehoteljune.com/west-los-angeles/faqs/,2026-11-09
+Hotel Hermosa,https://journeyed.org/hotel/hotel-hermosa-hermosa-beach-4089c6/,Hermosa Beach,checkin.time,15:00,,https://www.hotelhermosa.com/faq/,2026-11-16
+Hotel Hermosa,https://journeyed.org/hotel/hotel-hermosa-hermosa-beach-4089c6/,Hermosa Beach,checkout.time,11:00,,https://www.hotelhermosa.com/faq/,2026-11-16
+Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,checkin.time,15:00,,https://www.thehoteljune.com/west-los-angeles/rooms/,2026-11-16
+Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,checkin.minAge,18,years,https://www.thehoteljune.com/west-los-angeles/faqs/,2026-11-16
 Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,checkin.time,17:00,,https://hotellerevepasadena.com/hotel-policy,2026-11-13
 Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,checkout.time,11:00,,https://hotellerevepasadena.com/hotel-policy,2026-11-13
 Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,checkin.time,15:00,,https://lexenboutique.com/,2026-11-09
@@ -230,8 +230,8 @@ Inn at Venice Beach,https://journeyed.org/hotel/inn-at-venice-beach-los-angeles-
 Inn at Venice Beach,https://journeyed.org/hotel/inn-at-venice-beach-los-angeles-734c9a/,Marina del Rey,checkout.time,11:00,,https://www.innatvenicebeach.com/frequently-asked-questions/,2026-11-13
 Inn of Long Beach,https://journeyed.org/hotel/inn-of-long-beach-long-beach-acd0db/,Long Beach,checkin.time,13:00,,http://www.innoflongbeach.com/index.asp,2026-11-13
 Inn of Long Beach,https://journeyed.org/hotel/inn-of-long-beach-long-beach-acd0db/,Long Beach,checkout.time,11:00,,http://www.innoflongbeach.com/index.asp,2026-11-13
-ITH Hermosa Beach Surf Hostel LAX,https://journeyed.org/hotel/ith-hermosa-beach-surf-hostel-lax-hermosa-beach-0ed813/,Hermosa Beach,checkin.time,16:00,,https://ithhostels.com/ith-hermosa-beach-surf-hostel-lax/,2026-11-09
-ITH Hermosa Beach Surf Hostel LAX,https://journeyed.org/hotel/ith-hermosa-beach-surf-hostel-lax-hermosa-beach-0ed813/,Hermosa Beach,checkout.time,11:00,,https://ithhostels.com/ith-hermosa-beach-surf-hostel-lax/,2026-11-09
+ITH Hermosa Beach Surf Hostel LAX,https://journeyed.org/hotel/ith-hermosa-beach-surf-hostel-lax-hermosa-beach-0ed813/,Hermosa Beach,checkin.time,16:00,,https://ithhostels.com/ith-hermosa-beach-surf-hostel-lax/,2026-11-16
+ITH Hermosa Beach Surf Hostel LAX,https://journeyed.org/hotel/ith-hermosa-beach-surf-hostel-lax-hermosa-beach-0ed813/,Hermosa Beach,checkout.time,11:00,,https://ithhostels.com/ith-hermosa-beach-surf-hostel-lax/,2026-11-16
 Jet Inn,https://journeyed.org/hotel/jet-inn-los-angeles-c9d0a8/,Los Angeles (other areas),checkin.time,14:00,,https://www.jetinn-la.us/policies.html,2026-11-13
 Jet Inn,https://journeyed.org/hotel/jet-inn-los-angeles-c9d0a8/,Los Angeles (other areas),checkout.time,11:00,,https://www.jetinn-la.us/policies.html,2026-11-13
 Kimpton Everly Hotel,https://journeyed.org/hotel/kimpton-everly-hotel-los-angeles-a953cf/,Hollywood,checkin.minAge,18,years,https://www.everlyhotelhollywood.com/faq/,2026-11-13
@@ -261,9 +261,9 @@ Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-
 Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,checkout.time,11:00,,https://www.littleinnbythebay.com/faq/,2026-11-16
 Los Angeles Inn and Suites,https://journeyed.org/hotel/los-angeles-inn-and-suites-los-angeles-8ac74c/,Los Angeles (other areas),checkin.time,15:00,,https://www.losangelesinnlax.com/cheap-rooms-near-lax/,2026-11-13
 Los Angeles Inn and Suites,https://journeyed.org/hotel/los-angeles-inn-and-suites-los-angeles-8ac74c/,Los Angeles (other areas),checkout.time,11:00,,https://www.losangelesinnlax.com/cheap-rooms-near-lax/,2026-11-13
-Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,checkin.time,15:00,,https://www.malibucountryinn.com/policies1,2026-11-06
-Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,checkout.time,11:00,,https://www.malibucountryinn.com/policies1,2026-11-06
-Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,checkin.minAge,18,years,https://www.malibucountryinn.com/policies1,2026-11-06
+Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,checkin.time,15:00,,https://www.malibucountryinn.com/policies1,2026-11-16
+Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,checkout.time,11:00,,https://www.malibucountryinn.com/policies1,2026-11-16
+Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,checkin.minAge,18,years,https://www.malibucountryinn.com/policies1,2026-11-16
 Marina Seven Motel,https://journeyed.org/hotel/marina-seven-motel-los-angeles-d17851/,Venice,checkin.time,13:00,,https://www.marina7motella.us/policies.html,2026-11-13
 Marina Seven Motel,https://journeyed.org/hotel/marina-seven-motel-los-angeles-d17851/,Venice,checkout.time,11:00,,https://www.marina7motella.us/policies.html,2026-11-13
 Marriott's Newport Coast Villas,https://journeyed.org/hotel/marriotts-newport-coast-villas-newport-coast-e91405/,Newport Coast,checkin.time,16:00,,https://www.marriottvacationclubs.com/experiences/resorts/marriotts-newport-coast-villas.html,2026-11-16
@@ -454,8 +454,8 @@ The Pacific Inn,https://journeyed.org/hotel/the-pacific-inn-seal-beach-722df0/,S
 The Pierside Santa Monica,https://journeyed.org/hotel/the-pierside-santa-monica-santa-monica-53714d/,Santa Monica,checkin.time,16:00,,https://www.thepiersidehotel.com/faq/,2026-11-13
 The Pierside Santa Monica,https://journeyed.org/hotel/the-pierside-santa-monica-santa-monica-53714d/,Santa Monica,checkout.time,11:00,,https://www.thepiersidehotel.com/faq/,2026-11-13
 The Queen Mary,https://journeyed.org/hotel/the-queen-mary-long-beach-bf3763/,Long Beach,checkout.time,11:00,,https://www.queenmary.com/faq.htm,2026-11-13
-The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,checkin.time,12:00,,https://www.theranchlb.com/faqs,2026-11-06
-The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,checkin.minAge,21,years,https://www.theranchlb.com/faqs,2026-11-06
+The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,checkin.time,12:00,,https://www.theranchlb.com/faqs,2026-11-16
+The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,checkin.minAge,21,years,https://www.theranchlb.com/faqs,2026-11-16
 The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,checkin.time,16:00,,https://pelicanhill.com/policies/,2026-11-16
 The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,checkout.time,11:00,,https://pelicanhill.com/policies/,2026-11-16
 The Richland,https://journeyed.org/hotel/the-richland-orange-99dbc4/,Orange,checkin.time,15:00,,https://therichland.com/faq/,2026-11-13
@@ -513,8 +513,8 @@ Venice on the Beach Hotel,https://journeyed.org/hotel/venice-on-the-beach-hotel-
 Venice on the Beach Hotel,https://journeyed.org/hotel/venice-on-the-beach-hotel-los-angeles-394b9f/,Venice,checkout.time,11:00,,http://www.veniceonthebeachhotel.com/our-hotel/policies.html,2026-11-13
 Venice Suites,https://journeyed.org/hotel/venice-suites-venice-eedb46/,Venice,checkin.time,15:00,,https://www.venicesuites.com/,2026-10-19
 Venice Suites,https://journeyed.org/hotel/venice-suites-venice-eedb46/,Venice,checkout.time,11:00,,https://www.venicesuites.com/about-extended-stay-venice-beach,2026-10-19
-Waldorf Astoria Monarch Beach,https://journeyed.org/hotel/waldorf-astoria-monarch-beach-dana-point-979f64/,Dana Point,checkin.time,16:00,,https://www.waldorfastoriamonarchbeach.com/faqs,2026-11-06
-Waldorf Astoria Monarch Beach,https://journeyed.org/hotel/waldorf-astoria-monarch-beach-dana-point-979f64/,Dana Point,checkout.time,11:00,,https://www.waldorfastoriamonarchbeach.com/faqs,2026-11-06
+Waldorf Astoria Monarch Beach,https://journeyed.org/hotel/waldorf-astoria-monarch-beach-dana-point-979f64/,Dana Point,checkin.time,16:00,,https://www.waldorfastoriamonarchbeach.com/faqs,2026-11-16
+Waldorf Astoria Monarch Beach,https://journeyed.org/hotel/waldorf-astoria-monarch-beach-dana-point-979f64/,Dana Point,checkout.time,11:00,,https://www.waldorfastoriamonarchbeach.com/faqs,2026-11-16
 Walnut Inn & Suites,https://journeyed.org/hotel/walnut-inn-and-suites-west-covina-31aea9/,West Covina,checkin.time,14:00,,https://www.walnutinnandsuites.us/policies.html,2026-11-13
 Walnut Inn & Suites,https://journeyed.org/hotel/walnut-inn-and-suites-west-covina-31aea9/,West Covina,checkout.time,11:30,,https://www.walnutinnandsuites.us/policies.html,2026-11-13
 West Coast Motel Santa Ana,https://journeyed.org/hotel/west-coast-motel-santa-ana-santa-ana-0c225d/,Santa Ana,checkin.time,13:00,,https://www.westcoastinnsantaana.us/policies.html,2026-11-13

@@ -173,12 +173,12 @@ Hotel CURRENT,https://journeyed.org/hotel/hotel-current-long-beach-1c5af7/,Long 
 Hotel Erwin,https://journeyed.org/hotel/hotel-erwin-venice-926d74/,Venice,wifi.free,yes,,https://www.hotelerwin.com/about/faqs/,2026-11-13
 Hotel Figueroa,https://journeyed.org/hotel/hotel-figueroa-los-angeles-6c4fda/,Downtown Los Angeles,wifi.free,yes,,https://www.hotelfigueroa.com/faq/,2026-11-13
 Hotel Heritage El Monte Los Angeles,https://journeyed.org/hotel/hotel-heritage-el-monte-los-angeles-el-monte-b065dd/,El Monte,wifi.free,yes,,https://www.hotelheritage.us/el-monte-california-hotel-amenities.html,2026-11-13
-Hotel Hermosa,https://journeyed.org/hotel/hotel-hermosa-hermosa-beach-4089c6/,Hermosa Beach,wifi.free,yes,,https://www.hotelhermosa.com/faq/,2026-11-09
-Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,resortFee,0,USD,https://www.thehoteljune.com/west-los-angeles/wellness/,2026-11-09
-Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,smoking.fee,400,USD,https://www.thehoteljune.com/west-los-angeles/faqs/,2026-11-09
-Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,deposit,75,USD,https://www.thehoteljune.com/west-los-angeles/faqs/,2026-11-09
-Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,deposit.per,per-night,,https://www.thehoteljune.com/west-los-angeles/faqs/,2026-11-09
-Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,wifi.free,yes,,https://www.thehoteljune.com/west-los-angeles/amenities/,2026-11-09
+Hotel Hermosa,https://journeyed.org/hotel/hotel-hermosa-hermosa-beach-4089c6/,Hermosa Beach,wifi.free,yes,,https://www.hotelhermosa.com/faq/,2026-11-16
+Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,resortFee,0,USD,https://www.thehoteljune.com/west-los-angeles/wellness/,2026-11-16
+Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,smoking.fee,400,USD,https://www.thehoteljune.com/west-los-angeles/faqs/,2026-11-16
+Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,deposit,75,USD,https://www.thehoteljune.com/west-los-angeles/faqs/,2026-11-16
+Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,deposit.per,per-night,,https://www.thehoteljune.com/west-los-angeles/faqs/,2026-11-16
+Hotel June West LA,https://journeyed.org/hotel/hotel-june-west-la-los-angeles-ef68e6/,Westchester,wifi.free,yes,,https://www.thehoteljune.com/west-los-angeles/amenities/,2026-11-16
 Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,smoking.fee,150,USD,https://hotellerevepasadena.com/hotel-policy,2026-11-13
 Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,deposit,150,USD,https://hotellerevepasadena.com/hotel-policy,2026-11-13
 Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,wifi.free,no,,https://hotellerevepasadena.com/hotel-policy,2026-11-13
@@ -252,8 +252,8 @@ Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-
 Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,wifi.free,yes,,https://www.littleinnbythebay.com/amenities-services/,2026-10-28
 Los Angeles Inn and Suites,https://journeyed.org/hotel/los-angeles-inn-and-suites-los-angeles-8ac74c/,Los Angeles (other areas),wifi.free,yes,,https://www.losangelesinnlax.com/cheap-rooms-near-lax/,2026-11-13
 Magnolia Tree Hotel,https://journeyed.org/hotel/magnolia-tree-hotel-anaheim-7f5868/,Anaheim,wifi.free,yes,,https://www.magnoliatreehotel.com/amenities-services/,2026-11-13
-Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,wifi.free,yes,,https://www.malibucountryinn.com/amenities,2026-11-06
-Malibu Inn,https://journeyed.org/hotel/malibu-inn-malibu-ab5378/,Malibu,wifi.free,yes,,https://themalibuinn.com/rooms/,2026-11-06
+Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,wifi.free,yes,,https://www.malibucountryinn.com/amenities,2026-11-16
+Malibu Inn,https://journeyed.org/hotel/malibu-inn-malibu-ab5378/,Malibu,wifi.free,yes,,https://themalibuinn.com/rooms/,2026-11-16
 Marina Motel,https://journeyed.org/hotel/marina-motel-long-beach-c794ec/,Long Beach,wifi.free,yes,,https://www.lbmarinamotel.com/,2026-11-13
 Marina Seven Motel,https://journeyed.org/hotel/marina-seven-motel-los-angeles-d17851/,Venice,wifi.free,yes,,https://www.marina7motella.us/amenities.html,2026-11-13
 Metro Plaza Hotel,https://journeyed.org/hotel/metro-plaza-hotel-los-angeles-190134/,Downtown Los Angeles,wifi.free,yes,,https://www.metroplazahotellosangeles.site/amenities.html,2026-11-13
@@ -453,9 +453,9 @@ The Old Turner Inn,https://journeyed.org/hotel/the-old-turner-inn-avalon-2939ae/
 The Pierside Santa Monica,https://journeyed.org/hotel/the-pierside-santa-monica-santa-monica-53714d/,Santa Monica,resortFee.includes,"wifi,fitness,coffee,water,bikes,beach-gear,yoga",,https://www.thepiersidehotel.com/faq/,2026-11-13
 The Pierside Santa Monica,https://journeyed.org/hotel/the-pierside-santa-monica-santa-monica-53714d/,Santa Monica,smoking.fee,400,USD,https://www.thepiersidehotel.com/faq/,2026-11-13
 The Pierside Santa Monica,https://journeyed.org/hotel/the-pierside-santa-monica-santa-monica-53714d/,Santa Monica,wifi.free,yes,,https://www.thepiersidehotel.com/rooms/dog-friendly/,2026-11-13
-The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,resortFee,55,USD,https://www.theranchlb.com/resort-policies,2026-11-06
-The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,resortFee.includes,"wifi,fitness,coffee,water,yoga",,https://www.theranchlb.com/resort-policies,2026-11-06
-The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,wifi.free,yes,,https://www.theranchlb.com/faqs,2026-11-06
+The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,resortFee,55,USD,https://www.theranchlb.com/resort-policies,2026-11-16
+The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,resortFee.includes,"wifi,fitness,coffee,water,yoga",,https://www.theranchlb.com/resort-policies,2026-11-16
+The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,wifi.free,yes,,https://www.theranchlb.com/faqs,2026-11-16
 The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,resortFee,125,USD,https://pelicanhill.com/policies/,2026-11-16
 The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,deposit,500,USD,https://pelicanhill.com/policies/,2026-11-16
 The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,deposit.per,per-night,,https://pelicanhill.com/policies/,2026-11-16
@@ -508,7 +508,7 @@ Venice on the Beach Hotel,https://journeyed.org/hotel/venice-on-the-beach-hotel-
 Venice on the Beach Hotel,https://journeyed.org/hotel/venice-on-the-beach-hotel-los-angeles-394b9f/,Venice,wifi.free,yes,,http://www.veniceonthebeachhotel.com/our-hotel/amenities.html,2026-11-13
 Venice Suites,https://journeyed.org/hotel/venice-suites-venice-eedb46/,Venice,wifi.free,yes,,https://www.venicesuites.com/extended-stay-suites-venice-beach,2026-10-19
 Villa Brasil Motel,https://journeyed.org/hotel/villa-brasil-motel-los-angeles-8b532f/,Playa Vista,wifi.free,yes,,https://www.villabrasilmotel.com/rooms.php?view=1&type_room=Standard%20Room,2026-11-13
-Waldorf Astoria Monarch Beach,https://journeyed.org/hotel/waldorf-astoria-monarch-beach-dana-point-979f64/,Dana Point,wifi.free,yes,,https://www.waldorfastoriamonarchbeach.com/faqs,2026-11-06
+Waldorf Astoria Monarch Beach,https://journeyed.org/hotel/waldorf-astoria-monarch-beach-dana-point-979f64/,Dana Point,wifi.free,yes,,https://www.waldorfastoriamonarchbeach.com/faqs,2026-11-16
 Walnut Inn & Suites,https://journeyed.org/hotel/walnut-inn-and-suites-west-covina-31aea9/,West Covina,wifi.free,yes,,https://www.walnutinnandsuites.us/amenities.html,2026-11-13
 West Coast Motel Santa Ana,https://journeyed.org/hotel/west-coast-motel-santa-ana-santa-ana-0c225d/,Santa Ana,wifi.free,yes,,https://www.westcoastinnsantaana.us/amenities.html,2026-11-13
 Westminster Motor Inn,https://journeyed.org/hotel/westminster-motor-inn-westminster-bed0ff/,Westminster,wifi.free,yes,,https://www.westminstermotorinn.com/,2026-11-13
