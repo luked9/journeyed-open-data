@@ -52,7 +52,7 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-11,Chase Suite Hotel Brea,https://journeyed.org/hotel/chase-suite-hotel-brea-brea-44e66b/,Brea,smoking.fee,250,USD,https://www.chasehotelbrea.com/faqs,2026-10-11
 2026-11,Chase Suite Hotel Brea,https://journeyed.org/hotel/chase-suite-hotel-brea-brea-44e66b/,Brea,deposit,250,USD,https://www.chasehotelbrea.com/faqs,2026-10-11
 2026-11,Chester Inn Motel,https://journeyed.org/hotel/chester-inn-motel-stanton-72ae64/,Stanton,parking.fee,0,USD,https://www.chesterinnmotelstanton.us/amenities.html,2026-11-13
-2026-11,Chino Motel,https://journeyed.org/hotel/chino-motel-chino-4d5c6e/,Chino,parking.fee,0,USD,https://www.chinomotel.com/amenities.html,2026-11-06
+2026-11,Chino Motel,https://journeyed.org/hotel/chino-motel-chino-4d5c6e/,Chino,parking.fee,0,USD,https://www.chinomotel.com/amenities.html,2026-11-17
 2026-11,Clementine Hotel & Suites Anaheim,https://journeyed.org/hotel/clementine-hotel-and-suites-anaheim-anaheim-8c9fc7/,Anaheim,parking.fee,paid,USD,https://clementinehotel.com/faqs/,2026-11-13
 2026-11,Clementine Hotel & Suites Anaheim,https://journeyed.org/hotel/clementine-hotel-and-suites-anaheim-anaheim-8c9fc7/,Anaheim,pets.fee,250,USD,https://clementinehotel.com/faqs/,2026-11-13
 2026-11,Colony Inn,https://journeyed.org/hotel/colony-inn-north-hollywood-2c5229/,North Hollywood,parking.fee,0,USD,https://colonyinn.com/amenities/,2026-11-13
@@ -230,8 +230,8 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-11,L'Ermitage Beverly Hills,https://journeyed.org/hotel/lermitage-beverly-hills-beverly-hills-4385aa/,Beverly Hills,pets.feePeriod,per-stay,,https://www.lermitagebeverlyhills.com/about/pet-policy/,2026-11-13
 2026-11,Lexen Hotel,https://journeyed.org/hotel/lexen-hotel-los-angeles-10413e/,Hollywood,valet.fee,30,USD,https://www.lexenhotelhollywood.us/policies.html,2026-11-13
 2026-11,Lincoln Motel,https://journeyed.org/hotel/lincoln-motel-pasadena-76befb/,Pasadena,parking.fee,0,USD,https://www.lincolnmotelpasadena.com/amenities/,2026-11-13
-2026-11,Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,parking.fee,25,USD,https://www.littleinnbythebay.com/amenities-services/,2026-10-28
-2026-11,Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,deposit,200,USD,https://www.littleinnbythebay.com/rooms-suites/,2026-10-28
+2026-11,Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,parking.fee,25,USD,https://www.littleinnbythebay.com/amenities-services/,2026-11-17
+2026-11,Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,deposit,200,USD,https://www.littleinnbythebay.com/rooms-suites/,2026-11-17
 2026-11,Los Angeles Inn and Suites,https://journeyed.org/hotel/los-angeles-inn-and-suites-los-angeles-8ac74c/,Los Angeles (other areas),parking.fee,0,USD,https://www.losangelesinnlax.com/cheap-motel-la-area/,2026-11-13
 2026-11,Magnolia Tree Hotel,https://journeyed.org/hotel/magnolia-tree-hotel-anaheim-7f5868/,Anaheim,parking.fee,10,USD,https://www.magnoliatreehotel.com/amenities-services/,2026-11-13
 2026-11,Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,pets.feePeriod,per-stay,,https://www.malibucountryinn.com/policies1,2026-11-16
@@ -252,7 +252,7 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-11,Motel Moonlight,https://journeyed.org/hotel/motel-moonlight-anaheim-ca0a41/,Anaheim,parking.fee,0,USD,https://www.moonlightmotelanaheim.com/overview,2026-10-11
 2026-11,My Sunshine Hotel,https://journeyed.org/hotel/my-sunshine-hotel-los-angeles-2a4b49/,Downtown Los Angeles,parking.fee,0,USD,https://www.mysunshinehotella.us/amenities.html,2026-11-13
 2026-11,Newport Bay Inn,https://journeyed.org/hotel/newport-bay-inn-costa-mesa-6fe5ce/,Costa Mesa,parking.fee,0,USD,https://www.newportbayinncostamesa.us/amenities.html,2026-11-16
-2026-11,Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,parking.fee,0,USD,https://www.newportchannelinn.com/guestrooms.htm,2026-11-16
+2026-11,Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,parking.fee,0,USD,https://www.newportchannelinn.com/guestrooms.htm,2026-11-17
 2026-11,Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,Gardena,parking.fee,0,USD,https://www.niseiinngardena.com/amenities.html,2026-11-13
 2026-11,Nite Inn at Universal City,https://journeyed.org/hotel/nite-inn-at-universal-city-studio-city-110c7a/,Studio City,smoking.fee,200,USD,https://www.niteinnuniversal.com/about,2026-11-13
 2026-11,OC Hotel Costa Mesa,https://journeyed.org/hotel/oc-hotel-costa-mesa-costa-mesa-a5a2cb/,Costa Mesa,parking.fee,0,USD,https://www.ochotelcostamesa.com/best-hotel-costa-mesa/,2026-11-13
@@ -416,10 +416,10 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-11,The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,resortFee,55,USD,https://www.theranchlb.com/resort-policies,2026-11-16
 2026-11,The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,resortFee,125,USD,https://pelicanhill.com/policies/,2026-11-16
 2026-11,The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,deposit,500,USD,https://pelicanhill.com/policies/,2026-11-16
-2026-11,"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,parking.fee,75,USD,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-06
-2026-11,"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,valet.fee,75,USD,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-06
-2026-11,"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,pets.fee,350,USD,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-06
-2026-11,"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,pets.feePeriod,per-stay,,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-06
+2026-11,"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,parking.fee,75,USD,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-17
+2026-11,"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,valet.fee,75,USD,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-17
+2026-11,"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,pets.fee,350,USD,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-17
+2026-11,"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,pets.feePeriod,per-stay,,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-17
 2026-11,The Sojourn,https://journeyed.org/hotel/the-sojourn-sherman-oaks-e165a6/,Sherman Oaks,parking.fee,10,USD,https://www.thesojournshermanoaks.com/policies-faq,2026-10-19
 2026-11,The Sojourn,https://journeyed.org/hotel/the-sojourn-sherman-oaks-e165a6/,Sherman Oaks,deposit,100,USD,https://www.thesojournshermanoaks.com/policies-faq,2026-10-19
 2026-11,The Surfrider Malibu,https://journeyed.org/hotel/the-surfrider-malibu-malibu-a16091/,Malibu,parking.fee,25,USD,https://www.thesurfridermalibu.com/faq,2026-11-16

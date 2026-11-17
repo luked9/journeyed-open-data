@@ -1,6 +1,6 @@
 detail,fact_keys,hotels_stating,websites_with_a_detail_read,share_of_websites_with_a_detail_read,all_hotels,share_of_all_hotels
 Free Wi-Fi or a Wi-Fi fee,wifi.free,355,460,0.772,2608,0.136
-Whether there is parking,parking.available,298,460,0.648,2608,0.114
+Whether there is parking,parking.available,297,460,0.646,2608,0.114
 What parking costs,parking.fee valet.fee,241,460,0.524,2608,0.092
 Accessible rooms,accessibility.accessibleRooms,237,460,0.515,2608,0.091
 Check-out time,checkout.time,235,460,0.511,2608,0.09
