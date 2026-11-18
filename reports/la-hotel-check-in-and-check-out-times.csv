@@ -42,7 +42,7 @@ Camelot Inn and Suites,https://journeyed.org/hotel/camelot-inn-and-suites-anahei
 Camelot Inn and Suites,https://journeyed.org/hotel/camelot-inn-and-suites-anaheim-e15e42/,Anaheim,checkout.time,11:00,,https://www.camelotinn-anaheim.com/hotel-near-disneyland-policies/,2026-11-13
 Candy Cane Inn,https://journeyed.org/hotel/candy-cane-inn-anaheim-b3b422/,Anaheim,checkin.time,15:00,,https://candycaneinn.net/hotel-policies/,2026-11-13
 Candy Cane Inn,https://journeyed.org/hotel/candy-cane-inn-anaheim-b3b422/,Anaheim,checkin.minAge,18,years,https://candycaneinn.net/hotel-policies/,2026-11-13
-Capistrano Coast House,https://journeyed.org/hotel/capistrano-coast-house-capistrano-beach-672aa1/,Capistrano Beach,checkin.time,16:00,,https://capistranocoasthouse.com/policies/,2026-11-09
+Capistrano Coast House,https://journeyed.org/hotel/capistrano-coast-house-capistrano-beach-672aa1/,Capistrano Beach,checkin.time,16:00,,https://capistranocoasthouse.com/policies/,2026-11-18
 Casa Bell Motel,https://journeyed.org/hotel/casa-bell-motel-inglewood-2fe9e6/,Inglewood,checkin.time,14:00,,https://www.casabellmotelinglewood.com/amenities-services/,2026-11-13
 Casa Bell Motel,https://journeyed.org/hotel/casa-bell-motel-inglewood-2fe9e6/,Inglewood,checkout.time,10:00,,https://www.casabellmotelinglewood.com/amenities-services/,2026-11-13
 Casa Loma Beach Hotel,https://journeyed.org/hotel/casa-loma-beach-hotel-laguna-beach-d67838/,Laguna Beach,checkin.time,16:00,,https://casalomalagunabeach.com/faq/,2026-11-16
@@ -246,7 +246,7 @@ La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-0
 Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,checkin.time,16:00,,https://www.thelagunabeachhouse.com/faq/,2026-11-16
 Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,checkout.time,11:00,,https://www.thelagunabeachhouse.com/faq/,2026-11-16
 Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,checkin.minAge,21,years,https://www.thelagunabeachhouse.com/faq/,2026-11-16
-Lambert Inn,https://journeyed.org/hotel/lambert-inn-whittier-8efefc/,Whittier,checkout.time,11:00,,https://lambertinnca.com/whittier-hotel-policies/,2026-11-10
+Lambert Inn,https://journeyed.org/hotel/lambert-inn-whittier-8efefc/,Whittier,checkout.time,11:00,,https://lambertinnca.com/whittier-hotel-policies/,2026-11-18
 Le Blanc Inn and Suites,https://journeyed.org/hotel/le-blanc-inn-and-suites-el-monte-465f08/,El Monte,checkin.time,15:00,,https://www.leblancinnelmonte.com/faq-for-hotel-in-el-monte.html,2026-11-13
 Le Blanc Inn and Suites,https://journeyed.org/hotel/le-blanc-inn-and-suites-el-monte-465f08/,El Monte,checkout.time,11:00,,https://www.leblancinnelmonte.com/faq-for-hotel-in-el-monte.html,2026-11-13
 Level Long Beach,https://journeyed.org/hotel/level-long-beach-long-beach-1b60a6/,Long Beach,checkin.time,16:00,,https://stayinglevel.com/long-beach/east-village/,2026-11-13
@@ -278,8 +278,8 @@ MyStayLA,https://journeyed.org/hotel/mystayla-los-angeles-3bbaeb/,Mid-Wilshire,c
 MyStayLA,https://journeyed.org/hotel/mystayla-los-angeles-3bbaeb/,Mid-Wilshire,checkout.time,10:00,,https://mystayla.thelosangeleshotels.com/en/,2026-11-13
 Newport Bay Inn,https://journeyed.org/hotel/newport-bay-inn-costa-mesa-6fe5ce/,Costa Mesa,checkin.time,12:00,,https://www.newportbayinncostamesa.us/policies.html,2026-11-16
 Newport Bay Inn,https://journeyed.org/hotel/newport-bay-inn-costa-mesa-6fe5ce/,Costa Mesa,checkout.time,11:00,,https://www.newportbayinncostamesa.us/policies.html,2026-11-16
-Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkin.time,14:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-17
-Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkout.time,11:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-17
+Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkin.time,14:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-18
+Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkout.time,11:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-18
 Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,Gardena,checkin.time,14:00,,https://www.niseiinngardena.com/policies.html,2026-11-13
 Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,Gardena,checkout.time,11:00,,https://www.niseiinngardena.com/policies.html,2026-11-13
 Nite Inn at Universal City,https://journeyed.org/hotel/nite-inn-at-universal-city-studio-city-110c7a/,Studio City,checkin.time,15:00,,https://www.niteinnuniversal.com/about,2026-11-13
@@ -488,7 +488,7 @@ Tourist Lodge,https://journeyed.org/hotel/tourist-lodge-inglewood-0687c1/,Inglew
 Tourist Lodge,https://journeyed.org/hotel/tourist-lodge-inglewood-0687c1/,Inglewood,checkout.time,11:00,,https://www.touristlodgeinglewood.us/policies.html,2026-11-13
 Travelers Inn,https://journeyed.org/hotel/travelers-inn-lawndale-6e5332/,Lawndale,checkin.time,15:00,,https://www.travelersinnlawndalelax.com/amenities-services/,2026-11-13
 Travelers Inn,https://journeyed.org/hotel/travelers-inn-lawndale-6e5332/,Lawndale,checkout.time,11:00,,https://www.travelersinnlawndalelax.com/amenities-services/,2026-11-13
-Travelodge by Wyndham LAX,https://journeyed.org/hotel/travelodge-by-wyndham-lax-el-segundo-e64d4f/,El Segundo,lateCheckout.fee,15,USD,https://www.wyndhamhotels.com/en-ca/travelodge/el-segundo-california/travelodge-by-wyndham-lax/overview,2026-10-31
+Travelodge by Wyndham LAX,https://journeyed.org/hotel/travelodge-by-wyndham-lax-el-segundo-e64d4f/,El Segundo,lateCheckout.fee,15,USD,https://www.wyndhamhotels.com/travelodge/el-segundo-california/travelodge-by-wyndham-lax,2026-11-18
 Travelodge Inn & Suites,https://journeyed.org/hotel/travelodge-inn-and-suites-anaheim-7d1c50/,Anaheim,checkin.time,15:00,,https://www.travelodgedisneyland.com/,2026-10-11
 Travelodge Inn & Suites,https://journeyed.org/hotel/travelodge-inn-and-suites-anaheim-7d1c50/,Anaheim,checkout.time,11:00,,https://www.travelodgedisneyland.com/,2026-10-11
 Travelodge Inn and Suites by Wyndham Bell Los Angeles Area,https://journeyed.org/hotel/travelodge-inn-and-suites-by-wyndham-bell-los-angeles-area-bell-7cb6b5/,Bell,checkin.time,15:00,,https://www.travelodgeinnbell.com/budget-accommodation-bell-ca/,2026-11-13
