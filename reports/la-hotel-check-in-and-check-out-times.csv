@@ -57,8 +57,8 @@ Catalina Canyon Inn,https://journeyed.org/hotel/catalina-canyon-inn-avalon-454bc
 Catalina Canyon Inn,https://journeyed.org/hotel/catalina-canyon-inn-avalon-454bcc/,Avalon,checkout.time,11:00,,https://www.catalinacanyoninn.com/faq,2026-10-21
 Catalina Island Inn,https://journeyed.org/hotel/catalina-island-inn-avalon-ba1727/,Avalon,checkin.time,16:00,,https://www.catalinaislandinn.com/faqs,2026-10-03
 Catalina Island Inn,https://journeyed.org/hotel/catalina-island-inn-avalon-ba1727/,Avalon,checkout.time,11:00,,https://www.catalinaislandinn.com/faqs,2026-10-03
-Catalina's Courtyard Garden Suites,https://journeyed.org/hotel/catalinas-courtyard-garden-suites-avalon-0b81dc/,Avalon,checkin.time,15:00,,https://catalinacourtyardsuites.com/faq,2026-11-09
-Catalina's Courtyard Garden Suites,https://journeyed.org/hotel/catalinas-courtyard-garden-suites-avalon-0b81dc/,Avalon,checkout.time,11:00,,https://catalinacourtyardsuites.com/faq,2026-11-09
+Catalina's Courtyard Garden Suites,https://journeyed.org/hotel/catalinas-courtyard-garden-suites-avalon-0b81dc/,Avalon,checkin.time,15:00,,https://catalinacourtyardsuites.com/faq,2026-11-19
+Catalina's Courtyard Garden Suites,https://journeyed.org/hotel/catalinas-courtyard-garden-suites-avalon-0b81dc/,Avalon,checkout.time,11:00,,https://catalinacourtyardsuites.com/faq,2026-11-19
 Century Park Hotel,https://journeyed.org/hotel/century-park-hotel-los-angeles-0bd74f/,Century City,checkin.time,15:00,,https://www.centuryparkla.com/losangeles-boutique-hotels/,2026-11-13
 Century Park Hotel,https://journeyed.org/hotel/century-park-hotel-los-angeles-0bd74f/,Century City,checkout.time,12:00,,https://www.centuryparkla.com/losangeles-boutique-hotels/,2026-11-13
 Century Park Hotel,https://journeyed.org/hotel/century-park-hotel-los-angeles-0bd74f/,Century City,checkin.minAge,21,years,https://www.centuryparkla.com/west-la-hotel-accommodations/ada-accessible-rooms/,2026-11-13
@@ -104,9 +104,9 @@ El Rancho Inn,https://journeyed.org/hotel/el-rancho-inn-hawthorne-e9ddd1/,Hawtho
 El Rancho Inn,https://journeyed.org/hotel/el-rancho-inn-hawthorne-e9ddd1/,Hawthorne,checkout.time,11:00,,https://www.elranchoinnhawthorne.us/policies.html,2026-11-13
 El Segundo Inn,https://journeyed.org/hotel/el-segundo-inn-hawthorne-f53190/,Hawthorne,checkin.time,13:30,,https://www.elsegundoinnhawthorne.us/policies.html,2026-11-13
 El Segundo Inn,https://journeyed.org/hotel/el-segundo-inn-hawthorne-f53190/,Hawthorne,checkout.time,11:00,,https://www.elsegundoinnhawthorne.us/policies.html,2026-11-13
-El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,checkin.time,14:00,,https://www.elterado.com/policies/,2026-11-09
-El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,checkout.time,10:00,,https://www.elterado.com/policies/,2026-11-09
-El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,checkin.minAge,21,years,https://www.elterado.com/policies/,2026-11-09
+El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,checkin.time,14:00,,https://www.elterado.com/policies/,2026-11-19
+El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,checkout.time,10:00,,https://www.elterado.com/policies/,2026-11-19
+El Terado Terrace,https://journeyed.org/hotel/el-terado-terrace-avalon-39aa3b/,Avalon,checkin.minAge,21,years,https://www.elterado.com/policies/,2026-11-19
 Elan Hotel,https://journeyed.org/hotel/elan-hotel-los-angeles-3a7d1d/,West Hollywood,checkin.time,15:00,,https://www.elanhotel.com/faqs.php,2026-11-13
 Elan Hotel,https://journeyed.org/hotel/elan-hotel-los-angeles-3a7d1d/,West Hollywood,checkout.time,11:00,,https://www.elanhotel.com/faqs.php,2026-11-13
 Elan Hotel,https://journeyed.org/hotel/elan-hotel-los-angeles-3a7d1d/,West Hollywood,lateCheckout.fee,50,USD,https://www.elanhotel.com/,2026-11-13
@@ -278,8 +278,8 @@ MyStayLA,https://journeyed.org/hotel/mystayla-los-angeles-3bbaeb/,Mid-Wilshire,c
 MyStayLA,https://journeyed.org/hotel/mystayla-los-angeles-3bbaeb/,Mid-Wilshire,checkout.time,10:00,,https://mystayla.thelosangeleshotels.com/en/,2026-11-13
 Newport Bay Inn,https://journeyed.org/hotel/newport-bay-inn-costa-mesa-6fe5ce/,Costa Mesa,checkin.time,12:00,,https://www.newportbayinncostamesa.us/policies.html,2026-11-16
 Newport Bay Inn,https://journeyed.org/hotel/newport-bay-inn-costa-mesa-6fe5ce/,Costa Mesa,checkout.time,11:00,,https://www.newportbayinncostamesa.us/policies.html,2026-11-16
-Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkin.time,14:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-18
-Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkout.time,11:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-18
+Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkin.time,14:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-19
+Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkout.time,11:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-19
 Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,Gardena,checkin.time,14:00,,https://www.niseiinngardena.com/policies.html,2026-11-13
 Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,Gardena,checkout.time,11:00,,https://www.niseiinngardena.com/policies.html,2026-11-13
 Nite Inn at Universal City,https://journeyed.org/hotel/nite-inn-at-universal-city-studio-city-110c7a/,Studio City,checkin.time,15:00,,https://www.niteinnuniversal.com/about,2026-11-13
@@ -488,7 +488,7 @@ Tourist Lodge,https://journeyed.org/hotel/tourist-lodge-inglewood-0687c1/,Inglew
 Tourist Lodge,https://journeyed.org/hotel/tourist-lodge-inglewood-0687c1/,Inglewood,checkout.time,11:00,,https://www.touristlodgeinglewood.us/policies.html,2026-11-13
 Travelers Inn,https://journeyed.org/hotel/travelers-inn-lawndale-6e5332/,Lawndale,checkin.time,15:00,,https://www.travelersinnlawndalelax.com/amenities-services/,2026-11-13
 Travelers Inn,https://journeyed.org/hotel/travelers-inn-lawndale-6e5332/,Lawndale,checkout.time,11:00,,https://www.travelersinnlawndalelax.com/amenities-services/,2026-11-13
-Travelodge by Wyndham LAX,https://journeyed.org/hotel/travelodge-by-wyndham-lax-el-segundo-e64d4f/,El Segundo,lateCheckout.fee,15,USD,https://www.wyndhamhotels.com/travelodge/el-segundo-california/travelodge-by-wyndham-lax,2026-11-18
+Travelodge by Wyndham LAX,https://journeyed.org/hotel/travelodge-by-wyndham-lax-el-segundo-e64d4f/,El Segundo,lateCheckout.fee,15,USD,https://www.wyndhamhotels.com/travelodge/el-segundo-california/travelodge-by-wyndham-lax,2026-11-19
 Travelodge Inn & Suites,https://journeyed.org/hotel/travelodge-inn-and-suites-anaheim-7d1c50/,Anaheim,checkin.time,15:00,,https://www.travelodgedisneyland.com/,2026-10-11
 Travelodge Inn & Suites,https://journeyed.org/hotel/travelodge-inn-and-suites-anaheim-7d1c50/,Anaheim,checkout.time,11:00,,https://www.travelodgedisneyland.com/,2026-10-11
 Travelodge Inn and Suites by Wyndham Bell Los Angeles Area,https://journeyed.org/hotel/travelodge-inn-and-suites-by-wyndham-bell-los-angeles-area-bell-7cb6b5/,Bell,checkin.time,15:00,,https://www.travelodgeinnbell.com/budget-accommodation-bell-ca/,2026-11-13

@@ -2,13 +2,13 @@ detail,fact_keys,hotels_stating,websites_with_a_detail_read,share_of_websites_wi
 Free Wi-Fi or a Wi-Fi fee,wifi.free,355,460,0.772,2608,0.136
 Whether there is parking,parking.available,297,460,0.646,2608,0.114
 What parking costs,parking.fee valet.fee,241,460,0.524,2608,0.092
-Accessible rooms,accessibility.accessibleRooms,237,460,0.515,2608,0.091
+Accessible rooms,accessibility.accessibleRooms,238,460,0.517,2608,0.091
 Check-out time,checkout.time,235,460,0.511,2608,0.09
 Check-in time,checkin.time,229,460,0.498,2608,0.088
 Pet policy,pets.allowed,217,460,0.472,2608,0.083
 Pool,pool,183,460,0.398,2608,0.07
 Smoking policy,smokeFree,135,460,0.293,2608,0.052
-Fitness room,fitness,127,460,0.276,2608,0.049
+Fitness room,fitness,128,460,0.278,2608,0.049
 Breakfast,breakfast,103,460,0.224,2608,0.039
 Number of rooms,rooms.count,67,460,0.146,2608,0.026
 Pet fee,pets.fee,49,460,0.107,2608,0.019
