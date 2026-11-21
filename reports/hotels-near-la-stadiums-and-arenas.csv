@@ -35,7 +35,7 @@ Angel Stadium,La Quinta Inn and Suites by Wyndham Anaheim,https://journeyed.org/
 Angel Stadium,SunCoast Park Hotel,https://journeyed.org/hotel/suncoast-park-hotel-anaheim-770acb/,1.6,,,,,
 Angel Stadium,JW Marriott,https://journeyed.org/hotel/jw-marriott-anaheim-b609b1/,1.7,,,,,
 Angel Stadium,Element,https://journeyed.org/hotel/element-anaheim-73643f/,1.7,,,,,
-Angel Stadium,Big A Motel,https://journeyed.org/hotel/big-a-motel-orange-68b48c/,1.7,0,https://www.bigamotel.com/amenities,,,2026-11-13
+Angel Stadium,Big A Motel,https://journeyed.org/hotel/big-a-motel-orange-68b48c/,1.7,0,https://www.bigamotel.com/amenities,,,2026-11-21
 Angel Stadium,Ruta's Old Towne Inn,https://journeyed.org/hotel/rutas-old-towne-inn-orange-0bde0a/,1.8,,,,,
 Angel Stadium,Best Western Plus Meridian Inn and Suites Anaheim Orange,https://journeyed.org/hotel/best-western-plus-meridian-inn-and-suites-anaheim-orange-orange-c6a7dc/,1.8,,,,,
 Angel Stadium,Riviera Motel,https://journeyed.org/hotel/riviera-motel-anaheim-b05a49/,1.8,,,,,
@@ -109,7 +109,7 @@ Angel Stadium,Hyatt Regency Orange County,https://journeyed.org/hotel/hyatt-rege
 Angel Stadium,Red Roof Inn Santa Ana,https://journeyed.org/hotel/red-roof-inn-santa-ana-santa-ana-4e43f5/,2.1,,,,,
 Angel Stadium,Sheraton,https://journeyed.org/hotel/sheraton-garden-grove-95aab5/,2.2,,,,,
 Angel Stadium,Delta Hotels,https://journeyed.org/hotel/delta-hotels-garden-grove-e2b33c/,2.2,,,,,
-Angel Stadium,Hotel 414 Anaheim,https://journeyed.org/hotel/hotel-414-anaheim-anaheim-7c695b/,2.2,0,https://hotel414anaheim.com/,,none,2026-11-20
+Angel Stadium,Hotel 414 Anaheim,https://journeyed.org/hotel/hotel-414-anaheim-anaheim-7c695b/,2.2,,,,none,
 Angel Stadium,Knights Inn Anaheim,https://journeyed.org/hotel/knights-inn-anaheim-anaheim-396d24/,2.2,,,,,
 Angel Stadium,Anaheim Marriott Suites,https://journeyed.org/hotel/anaheim-marriott-suites-garden-grove-6c87cf/,2.2,,,,,
 Angel Stadium,Anaheim Astoria Inn and Suites,https://journeyed.org/hotel/anaheim-astoria-inn-and-suites-anaheim-8b9d77/,2.2,,,,,
@@ -133,7 +133,7 @@ Angel Stadium,Ramada by Wyndham Anaheim Maingate North,https://journeyed.org/hot
 Angel Stadium,California Inn,https://journeyed.org/hotel/california-inn-anaheim-0d8a9c/,2.5,,,,,
 Angel Stadium,Harbor Motel,https://journeyed.org/hotel/harbor-motel-garden-grove-f79587/,2.5,,,,,
 Angel Stadium,Anaheim Tropic Motel,https://journeyed.org/hotel/anaheim-tropic-motel-anaheim-f7f436/,2.5,,,,,
-Angel Stadium,Best Western Plus Stovall's Inn,https://journeyed.org/hotel/best-western-plus-stovalls-inn-anaheim-caa2a1/,2.5,25,https://stovallshotels.com/faqs/,,,2026-11-13
+Angel Stadium,Best Western Plus Stovall's Inn,https://journeyed.org/hotel/best-western-plus-stovalls-inn-anaheim-caa2a1/,2.5,25,https://stovallshotels.com/faqs/,,,2026-11-21
 Angel Stadium,Golden West Lodge,https://journeyed.org/hotel/golden-west-lodge-santa-ana-a6a5e3/,2.5,,,,,
 Angel Stadium,Harbor Inn and Suites,https://journeyed.org/hotel/harbor-inn-and-suites-garden-grove-5e7e33/,2.5,,,,,
 Angel Stadium,Pixar Place Hotel,https://journeyed.org/hotel/pixar-place-hotel-anaheim-4f365e/,2.5,,,,,
@@ -210,7 +210,7 @@ Crypto.com Arena,"Hotel Per La, Autograph Collection",https://journeyed.org/hote
 Crypto.com Arena,Residences at 616,https://journeyed.org/hotel/residences-at-616-los-angeles-13be43/,0.7,,,,,
 Crypto.com Arena,Stuart Hotel,https://journeyed.org/hotel/stuart-hotel-los-angeles-7d77ab/,0.7,10,https://www.stuarthotel-losangeles.us/,,,2026-11-20
 Crypto.com Arena,The Hotel At The Los Angeles Athletic Club,https://journeyed.org/hotel/the-hotel-at-the-los-angeles-athletic-club-los-angeles-607626/,0.7,,,,,
-Crypto.com Arena,The Audemar Hotel,https://journeyed.org/hotel/the-audemar-hotel-los-angeles-54d6f0/,0.8,35,https://theaudemar.com/your-stay/,,,2026-11-13
+Crypto.com Arena,The Audemar Hotel,https://journeyed.org/hotel/the-audemar-hotel-los-angeles-54d6f0/,0.8,35,https://theaudemar.com/your-stay/,,,2026-11-21
 Crypto.com Arena,The Delphi Downtown LA,https://journeyed.org/hotel/the-delphi-downtown-la-los-angeles-df22e3/,0.8,50,https://www.thedelphihotel.com/faq,,,2026-10-19
 Crypto.com Arena,The Dart Hotel,https://journeyed.org/hotel/the-dart-hotel-los-angeles-5aa6cd/,0.8,,,,,
 Crypto.com Arena,Tuck Hotel,https://journeyed.org/hotel/tuck-hotel-los-angeles-d4b8c4/,0.8,,,,,
@@ -336,7 +336,7 @@ Crypto.com Arena,Aiden Los Angeles Downtown Dragon Gate Inn,https://journeyed.or
 Crypto.com Arena,Kins Hotel,https://journeyed.org/hotel/kins-hotel-los-angeles-2ccc8d/,2.2,,,,,
 Crypto.com Arena,The Lexmar - Dodger Stadium/hollywood,https://journeyed.org/hotel/the-lexmar-dodger-stadium-hollywood-los-angeles-1ca44e/,2.2,0,https://www.thelexmar.com/overview,free,,2026-10-11
 Crypto.com Arena,Arts District Firehouse Hotel,https://journeyed.org/hotel/arts-district-firehouse-hotel-los-angeles-0ffedb/,2.2,,,,,
-Crypto.com Arena,kodō hotel,https://journeyed.org/hotel/kodo-hotel-los-angeles-a4c069/,2.2,50,https://kodohotel.com/hotel-policy/,,,2026-11-20
+Crypto.com Arena,kodō hotel,https://journeyed.org/hotel/kodo-hotel-los-angeles-a4c069/,2.2,50,https://kodohotel.com/hotel-policy/,,,2026-11-21
 Crypto.com Arena,Venice Hotel,https://journeyed.org/hotel/venice-hotel-los-angeles-f8c88c/,2.2,,,,,
 Crypto.com Arena,Super 8,https://journeyed.org/hotel/super-8-los-angeles-384d4a/,2.3,,,free,,
 Crypto.com Arena,King Junior Hotel,https://journeyed.org/hotel/king-junior-hotel-los-angeles-7f4b74/,2.3,,,,,
@@ -371,7 +371,7 @@ Crypto.com Arena,Jesus Saves Hostel,https://journeyed.org/hotel/jesus-saves-host
 Crypto.com Arena,Comfort Inn Los Angeles near Hollywood,https://journeyed.org/hotel/comfort-inn-los-angeles-near-hollywood-los-angeles-d38e4e/,2.6,,,,,
 Crypto.com Arena,Hotel Koxie,https://journeyed.org/hotel/hotel-koxie-los-angeles-f204e3/,2.7,,,,,
 Crypto.com Arena,Olive Motel,https://journeyed.org/hotel/olive-motel-los-angeles-31a26f/,2.7,,,,,
-Crypto.com Arena,Garden Suite Hotel,https://journeyed.org/hotel/garden-suite-hotel-los-angeles-dafedd/,2.7,paid,https://gardensuitehotel.com/,,,2026-11-13
+Crypto.com Arena,Garden Suite Hotel,https://journeyed.org/hotel/garden-suite-hotel-los-angeles-dafedd/,2.7,paid,https://gardensuitehotel.com/,,,2026-11-21
 Crypto.com Arena,The MoonPad,https://journeyed.org/hotel/the-moonpad-los-angeles-9e6663/,2.7,,,,,
 Crypto.com Arena,Boyle Hotel – Cummings Block,https://journeyed.org/hotel/boyle-hotel-cummings-block-los-angeles-a18e52/,2.7,,,,,
 Crypto.com Arena,Little Caesars Motel,https://journeyed.org/hotel/little-caesars-motel-los-angeles-3755c1/,2.7,,,,,
@@ -402,7 +402,7 @@ Dignity Health Sports Park,Rodeway Inn Carson - Los Angeles South,https://journe
 Dignity Health Sports Park,Rodeway Inn Carson - Los Angeles South,https://journeyed.org/hotel/rodeway-inn-carson-los-angeles-south-carson-f2b72e/,2.2,,,,,
 Dignity Health Sports Park,Extended Stay America,https://journeyed.org/hotel/extended-stay-america-los-angeles-2ef696/,2.3,,,,,
 Dignity Health Sports Park,Cali Inn,https://journeyed.org/hotel/cali-inn-carson-c1418c/,2.4,,,,,
-Dignity Health Sports Park,El Dorado Motel,https://journeyed.org/hotel/el-dorado-motel-gardena-d25eb1/,2.5,0,https://www.eldoradomotelgardena.com/,,,2026-11-20
+Dignity Health Sports Park,El Dorado Motel,https://journeyed.org/hotel/el-dorado-motel-gardena-d25eb1/,2.5,0,https://www.eldoradomotelgardena.com/amenities.html,,,2026-11-21
 Dignity Health Sports Park,LA Crystal Hotel,https://journeyed.org/hotel/la-crystal-hotel-compton-4691a7/,2.6,,,,,
 Dignity Health Sports Park,"Studio 6 Suites Gardena, CA",https://journeyed.org/hotel/studio-6-suites-gardena-ca-gardena-d7ec84/,2.7,,,,,
 Dignity Health Sports Park,Gateway Inn Gardena Los Angeles South,https://journeyed.org/hotel/gateway-inn-gardena-los-angeles-south-gardena-bd1bcc/,2.8,,,,,
@@ -410,7 +410,7 @@ Dignity Health Sports Park,Rodeway Inn Near Stubhub Center,https://journeyed.org
 Dignity Health Sports Park,Sonesta Select Los Angeles Torrance South Bay,https://journeyed.org/hotel/sonesta-select-los-angeles-torrance-south-bay-torrance-97d306/,2.8,,,,,
 Dignity Health Sports Park,Sonesta Select Los Angeles Torrance South Bay,https://journeyed.org/hotel/sonesta-select-los-angeles-torrance-south-bay-torrance-f04169/,2.8,,,,,
 Dignity Health Sports Park,Redondo Beach Motel,https://journeyed.org/hotel/redondo-beach-motel-gardena-917800/,2.9,,,,,
-Dignity Health Sports Park,Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,3,0,https://www.niseiinngardena.com/amenities.html,,,2026-11-20
+Dignity Health Sports Park,Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,3,0,https://www.niseiinngardena.com/amenities.html,,,2026-11-21
 Dignity Health Sports Park,Gardena Towers Inn,https://journeyed.org/hotel/gardena-towers-inn-gardena-9eb6bc/,3,,,,,
 Dignity Health Sports Park,Hotel Pacific Garden,https://journeyed.org/hotel/hotel-pacific-garden-gardena-8163bb/,3,0,https://www.hotelpg.com/rooms.php,free,,2026-11-20
 Dodger Stadium,The Royal Pagoda Motel,https://journeyed.org/hotel/the-royal-pagoda-motel-los-angeles-b56ae9/,0.5,,,,,
@@ -526,7 +526,7 @@ Dodger Stadium,Hotel Solaire Los Angeles,https://journeyed.org/hotel/hotel-solai
 Dodger Stadium,Ellis Hotel,https://journeyed.org/hotel/ellis-hotel-los-angeles-5cf8a2/,2.3,,,,,
 Dodger Stadium,Level Los Angeles - Downtown South Olive,https://journeyed.org/hotel/level-los-angeles-downtown-south-olive-los-angeles-94b270/,2.3,,,,,
 Dodger Stadium,Rosslyn Hotel,https://journeyed.org/hotel/rosslyn-hotel-los-angeles-c3f15a/,2.3,,,,,
-Dodger Stadium,The Audemar Hotel,https://journeyed.org/hotel/the-audemar-hotel-los-angeles-54d6f0/,2.3,35,https://theaudemar.com/your-stay/,,,2026-11-13
+Dodger Stadium,The Audemar Hotel,https://journeyed.org/hotel/the-audemar-hotel-los-angeles-54d6f0/,2.3,35,https://theaudemar.com/your-stay/,,,2026-11-21
 Dodger Stadium,The Dart Hotel,https://journeyed.org/hotel/the-dart-hotel-los-angeles-5aa6cd/,2.3,,,,,
 Dodger Stadium,Marion,https://journeyed.org/hotel/marion-los-angeles-ca04cf/,2.3,,,,,
 Dodger Stadium,Hotel Indigo Los Angeles Downtown,https://journeyed.org/hotel/hotel-indigo-los-angeles-downtown-los-angeles-7c682c/,2.3,,,,,
@@ -579,7 +579,7 @@ Dodger Stadium,Silver Lake Pool & Inn,https://journeyed.org/hotel/silver-lake-po
 Dodger Stadium,Morrison Hotel,https://journeyed.org/hotel/morrison-hotel-los-angeles-50c441/,2.8,,,,,
 Dodger Stadium,AC Hotel Downtown Los Angeles,https://journeyed.org/hotel/ac-hotel-downtown-los-angeles-los-angeles-25f487/,2.8,,,,,
 Dodger Stadium,Arts District Firehouse Hotel,https://journeyed.org/hotel/arts-district-firehouse-hotel-los-angeles-0ffedb/,2.8,,,,,
-Dodger Stadium,kodō hotel,https://journeyed.org/hotel/kodo-hotel-los-angeles-a4c069/,2.8,50,https://kodohotel.com/hotel-policy/,,,2026-11-20
+Dodger Stadium,kodō hotel,https://journeyed.org/hotel/kodo-hotel-los-angeles-a4c069/,2.8,50,https://kodohotel.com/hotel-policy/,,,2026-11-21
 Dodger Stadium,Tuscan Garden Inn,https://journeyed.org/hotel/tuscan-garden-inn-los-angeles-57cb52/,2.8,,,,,
 Dodger Stadium,Sunset Pacific Motel,https://journeyed.org/hotel/sunset-pacific-motel-los-angeles-fa2385/,2.9,,,,,
 Dodger Stadium,The Bates Motel,https://journeyed.org/hotel/the-bates-motel-los-angeles-dee029/,2.9,,,,,
@@ -729,8 +729,8 @@ Hollywood Bowl,1 Hotel,https://journeyed.org/hotel/1-hotel-west-hollywood-39a29d
 Hollywood Bowl,The James West Hollywood-Sunset,https://journeyed.org/hotel/the-james-west-hollywood-sunset-west-hollywood-9670a2/,2.4,,,,,
 Hollywood Bowl,The Jeremy West Hollywood,https://journeyed.org/hotel/the-jeremy-west-hollywood-west-hollywood-3ae090/,2.4,,,,,
 Hollywood Bowl,Banana Bungalow West Hollywood Hotel & Hostel,https://journeyed.org/hotel/banana-bungalow-west-hollywood-hotel-and-hostel-los-angeles-89e248/,2.5,,,,,
-Hollywood Bowl,Hollywood Historic Hotel,https://journeyed.org/hotel/hollywood-historic-hotel-los-angeles-1de7b4/,2.5,32,https://hollywoodhistorichotel.com/amenities/,,,2026-11-13
-Hollywood Bowl,The Charlie,https://journeyed.org/hotel/the-charlie-west-hollywood-a96f2f/,2.5,0,https://thecharliehotel.com/,,,2026-11-20
+Hollywood Bowl,Hollywood Historic Hotel,https://journeyed.org/hotel/hollywood-historic-hotel-los-angeles-1de7b4/,2.5,32,https://hollywoodhistorichotel.com/amenities/,,,2026-11-21
+Hollywood Bowl,The Charlie,https://journeyed.org/hotel/the-charlie-west-hollywood-a96f2f/,2.5,0,https://thecharliehotel.com/suites/,,,2026-11-21
 Hollywood Bowl,Holloway Motel,https://journeyed.org/hotel/holloway-motel-los-angeles-9d0ef0/,2.6,,,,,
 Hollywood Bowl,Sunset Marquis,https://journeyed.org/hotel/sunset-marquis-west-hollywood-94a578/,2.6,68,https://sunsetmarquis.com/west-hollywood-hotel-faqs/,paid,,2026-11-16
 Hollywood Bowl,Alta Cienega Motel,https://journeyed.org/hotel/alta-cienega-motel-west-hollywood-5f4612/,2.6,,,,,
@@ -761,7 +761,7 @@ Honda Center,Extended Stay America,https://journeyed.org/hotel/extended-stay-ame
 Honda Center,TownePlace Suites,https://journeyed.org/hotel/towneplace-suites-anaheim-37febc/,0.7,,,,,
 Honda Center,The Westin Resort Anaheim,https://journeyed.org/hotel/the-westin-resort-anaheim-anaheim-576602/,1.1,,,,,
 Honda Center,Embassy Suites by Hilton Anaheim Orange,https://journeyed.org/hotel/embassy-suites-by-hilton-anaheim-orange-orange-1e0a7b/,1.2,,,,,
-Honda Center,Big A Motel,https://journeyed.org/hotel/big-a-motel-orange-68b48c/,1.3,0,https://www.bigamotel.com/amenities,,,2026-11-13
+Honda Center,Big A Motel,https://journeyed.org/hotel/big-a-motel-orange-68b48c/,1.3,0,https://www.bigamotel.com/amenities,,,2026-11-21
 Honda Center,Castaway Motel,https://journeyed.org/hotel/castaway-motel-orange-c2cbf9/,1.4,0,https://www.castawaymotelorange.us/amenities.html,,,2026-11-13
 Honda Center,Angel Motel,https://journeyed.org/hotel/angel-motel-orange-a3ff04/,1.4,,,,,
 Honda Center,Ayres Hotel Orange,https://journeyed.org/hotel/ayres-hotel-orange-orange-2f88d3/,1.5,,,,,
@@ -826,7 +826,7 @@ Honda Center,Camelot Inn and Suites,https://journeyed.org/hotel/camelot-inn-and-
 Honda Center,Tropicana Inn & Suites,https://journeyed.org/hotel/tropicana-inn-and-suites-anaheim-946424/,2.2,,,,,
 Honda Center,Hyatt House At Anaheim Resort/convention Center,https://journeyed.org/hotel/hyatt-house-at-anaheim-resort-convention-center-anaheim-795346/,2.2,,,,,
 Honda Center,Hotel Lulu,https://journeyed.org/hotel/hotel-lulu-anaheim-ce8e86/,2.2,34,https://hotellulu.com/amenities/,,,2026-11-20
-Honda Center,Hotel 414 Anaheim,https://journeyed.org/hotel/hotel-414-anaheim-anaheim-7c695b/,2.2,0,https://hotel414anaheim.com/,,none,2026-11-20
+Honda Center,Hotel 414 Anaheim,https://journeyed.org/hotel/hotel-414-anaheim-anaheim-7c695b/,2.2,,,,none,
 Honda Center,Red Lion Hotel Anaheim Resort,https://journeyed.org/hotel/red-lion-hotel-anaheim-resort-anaheim-539328/,2.2,,,,,
 Honda Center,Knights Inn Anaheim,https://journeyed.org/hotel/knights-inn-anaheim-anaheim-396d24/,2.2,,,,,
 Honda Center,Homewood Suites by Hilton Anaheim Resort Convention Center,https://journeyed.org/hotel/homewood-suites-by-hilton-anaheim-resort-convention-center-anaheim-e16f16/,2.2,,,,,
@@ -906,7 +906,7 @@ Honda Center,Agave Resort,https://journeyed.org/hotel/agave-resort-santa-ana-920
 Honda Center,Super 8 by Wyndham Anaheim Disneyland Drive,https://journeyed.org/hotel/super-8-by-wyndham-anaheim-disneyland-drive-anaheim-b15351/,2.8,,,,,
 Honda Center,Travelodge Inn & Suites,https://journeyed.org/hotel/travelodge-inn-and-suites-anaheim-7d1c50/,2.8,0,https://www.travelodgedisneyland.com/services,free,,2026-10-11
 Honda Center,Best Western Courtesy Inn,https://journeyed.org/hotel/best-western-courtesy-inn-anaheim-fdc119/,2.8,,,,,
-Honda Center,Best Western Plus Stovall's Inn,https://journeyed.org/hotel/best-western-plus-stovalls-inn-anaheim-caa2a1/,2.8,25,https://stovallshotels.com/faqs/,,,2026-11-13
+Honda Center,Best Western Plus Stovall's Inn,https://journeyed.org/hotel/best-western-plus-stovalls-inn-anaheim-caa2a1/,2.8,25,https://stovallshotels.com/faqs/,,,2026-11-21
 Honda Center,Legacy Inn & Suites,https://journeyed.org/hotel/legacy-inn-and-suites-garden-grove-805f88/,2.8,,,,,
 Honda Center,Anaheim Discovery Inn & Suites at the Park,https://journeyed.org/hotel/anaheim-discovery-inn-and-suites-at-the-park-anaheim-5e7942/,2.8,0,https://www.anaheimdiscoveryinn.com/rooms,,,2026-11-20
 Honda Center,Disneyland Hotel,https://journeyed.org/hotel/disneyland-hotel-anaheim-c6e079/,2.9,,,,,
@@ -1101,7 +1101,7 @@ Kia Forum,24 Hours Motel,https://journeyed.org/hotel/24-hours-motel-los-angeles-
 Kia Forum,Anand Motel,https://journeyed.org/hotel/anand-motel-los-angeles-cb0879/,2.1,,,,,
 Kia Forum,Atlas motel,https://journeyed.org/hotel/atlas-motel-los-angeles-459252/,2.2,,,,,
 Kia Forum,Travelodge Hotel At Lax,https://journeyed.org/hotel/travelodge-hotel-at-lax-los-angeles-8d8853/,2.2,,,,,
-Kia Forum,Jet Inn,https://journeyed.org/hotel/jet-inn-los-angeles-c9d0a8/,2.2,0,https://www.jetinn-la.us/amenities.html,,,2026-11-13
+Kia Forum,Jet Inn,https://journeyed.org/hotel/jet-inn-los-angeles-c9d0a8/,2.2,0,https://www.jetinn-la.us/amenities.html,,,2026-11-21
 Kia Forum,Hill Top Motor Inn,https://journeyed.org/hotel/hill-top-motor-inn-los-angeles-6c200a/,2.3,,,,,
 Kia Forum,King Motel,https://journeyed.org/hotel/king-motel-los-angeles-e2976f/,2.4,,,,,
 Kia Forum,Hilton Los Angeles Airport,https://journeyed.org/hotel/hilton-los-angeles-airport-los-angeles-d583ed/,2.4,,,,,
@@ -1209,14 +1209,14 @@ Los Angeles Memorial Coliseum,King Motel,https://journeyed.org/hotel/king-motel-
 Los Angeles Memorial Coliseum,Trinity Hotel by LuxUrban,https://journeyed.org/hotel/trinity-hotel-by-luxurban-los-angeles-b873c8/,2.7,,,,,
 Los Angeles Memorial Coliseum,Stillwell Hotel,https://journeyed.org/hotel/stillwell-hotel-los-angeles-9b2ddb/,2.7,,,,,
 Los Angeles Memorial Coliseum,Alvarado Palms Motel,https://journeyed.org/hotel/alvarado-palms-motel-los-angeles-e1f3bc/,2.7,,,,,
-Los Angeles Memorial Coliseum,One Ten Motel,https://journeyed.org/hotel/one-ten-motel-los-angeles-a7f07d/,2.7,0,https://www.onetenmotella.us/amenities.html,,,2026-11-13
+Los Angeles Memorial Coliseum,One Ten Motel,https://journeyed.org/hotel/one-ten-motel-los-angeles-a7f07d/,2.7,0,https://www.onetenmotella.us/amenities.html,,,2026-11-21
 Los Angeles Memorial Coliseum,South Park Hotel,https://journeyed.org/hotel/south-park-hotel-los-angeles-83bdd7/,2.7,,,,,
 Los Angeles Memorial Coliseum,Level Los Angeles - Downtown South Hill,https://journeyed.org/hotel/level-los-angeles-downtown-south-hill-los-angeles-aecc33/,2.7,,,,,
 Los Angeles Memorial Coliseum,Americas Best Value Inn,https://journeyed.org/hotel/americas-best-value-inn-los-angeles-1ae129/,2.8,,,,,
 Los Angeles Memorial Coliseum,Motel 6 Los Angeles- Ca - Downtown,https://journeyed.org/hotel/motel-6-los-angeles-ca-downtown-los-angeles-87af6e/,2.8,,,,,
 Los Angeles Memorial Coliseum,O Hotel,https://journeyed.org/hotel/o-hotel-los-angeles-f98ab6/,2.8,,,,,
 Los Angeles Memorial Coliseum,Angeles B&B,https://journeyed.org/hotel/angeles-b-and-b-los-angeles-db651d/,2.8,,,,,
-Los Angeles Memorial Coliseum,The Audemar Hotel,https://journeyed.org/hotel/the-audemar-hotel-los-angeles-54d6f0/,2.8,35,https://theaudemar.com/your-stay/,,,2026-11-13
+Los Angeles Memorial Coliseum,The Audemar Hotel,https://journeyed.org/hotel/the-audemar-hotel-los-angeles-54d6f0/,2.8,35,https://theaudemar.com/your-stay/,,,2026-11-21
 Los Angeles Memorial Coliseum,The Dart Hotel,https://journeyed.org/hotel/the-dart-hotel-los-angeles-5aa6cd/,2.8,,,,,
 Los Angeles Memorial Coliseum,Main Motel,https://journeyed.org/hotel/main-motel-los-angeles-6a1785/,2.8,,,,,
 Los Angeles Memorial Coliseum,Supreme Hotel,https://journeyed.org/hotel/supreme-hotel-los-angeles-e30d12/,2.8,,,,,
@@ -1251,7 +1251,7 @@ Los Angeles Memorial Coliseum,Cecil Hotel,https://journeyed.org/hotel/cecil-hote
 Los Angeles Memorial Coliseum,Stay on Main,https://journeyed.org/hotel/stay-on-main-los-angeles-2a4661/,3,,,,,
 Los Angeles Memorial Coliseum,Hotel Cortez,https://journeyed.org/hotel/hotel-cortez-los-angeles-a65344/,3,,,,,
 Los Angeles Memorial Coliseum,Madison Hotel,https://journeyed.org/hotel/madison-hotel-los-angeles-7e7e32/,3,,,,,
-Rose Bowl Stadium,Lincoln Motel,https://journeyed.org/hotel/lincoln-motel-pasadena-76befb/,0.9,0,https://www.lincolnmotelpasadena.com/amenities/,,,2026-11-13
+Rose Bowl Stadium,Lincoln Motel,https://journeyed.org/hotel/lincoln-motel-pasadena-76befb/,0.9,0,https://www.lincolnmotelpasadena.com/amenities/,,,2026-11-21
 Rose Bowl Stadium,Residence Inn,https://journeyed.org/hotel/residence-inn-pasadena-3b04ff/,1.2,,,,,
 Rose Bowl Stadium,Courtyard by Marriott Los Angeles Pasadena/Old Town,https://journeyed.org/hotel/courtyard-by-marriott-los-angeles-pasadena-old-town-pasadena-a2acd8/,1.3,,,,,
 Rose Bowl Stadium,Pasadena Hotel Old Towne Bed & Breakfast,https://journeyed.org/hotel/pasadena-hotel-old-towne-bed-and-breakfast-pasadena-16065e/,1.4,,,,,
@@ -1264,7 +1264,7 @@ Rose Bowl Stadium,Evanston Inn,https://journeyed.org/hotel/evanston-inn-pasadena
 Rose Bowl Stadium,AC Hotel Pasadena,https://journeyed.org/hotel/ac-hotel-pasadena-pasadena-92fb66/,2,,,,,
 Rose Bowl Stadium,Hilton Pasadena,https://journeyed.org/hotel/hilton-pasadena-pasadena-4f3bb5/,2,,,,,
 Rose Bowl Stadium,Arroyo del Sol Clothing Optional Bed and Breakfast,https://journeyed.org/hotel/arroyo-del-sol-clothing-optional-bed-and-breakfast-pasadena-8009a4/,2,,,,,
-Rose Bowl Stadium,Casa Lu-An Motel,https://journeyed.org/hotel/casa-lu-an-motel-los-angeles-b721ae/,2,0,https://casaluanmotel.seasonsnseasons.com/,,,2026-11-13
+Rose Bowl Stadium,Casa Lu-An Motel,https://journeyed.org/hotel/casa-lu-an-motel-los-angeles-b721ae/,2,0,https://casaluanmotel.seasonsnseasons.com/,,,2026-11-21
 Rose Bowl Stadium,Sharyn's Place,https://journeyed.org/hotel/sharyns-place-altadena-668146/,2,,,,,
 Rose Bowl Stadium,Pasadena Gateway Villas,https://journeyed.org/hotel/pasadena-gateway-villas-pasadena-7e6c26/,2.1,,,,,
 Rose Bowl Stadium,Langham Huntington Hotel & Spa,https://journeyed.org/hotel/langham-huntington-hotel-and-spa-pasadena-ef2701/,2.1,,,,,
@@ -1359,7 +1359,7 @@ SoFi Stadium,Shangri-La Hotels & Resort,https://journeyed.org/hotel/shangri-la-h
 SoFi Stadium,El Rancho Inn,https://journeyed.org/hotel/el-rancho-inn-hawthorne-e9ddd1/,2.6,0,https://www.elranchoinnhawthorne.us/amenities.html,,,2026-11-13
 SoFi Stadium,Manor Motel,https://journeyed.org/hotel/manor-motel-hawthorne-f2ac07/,2.6,,,,,
 SoFi Stadium,King Motel,https://journeyed.org/hotel/king-motel-los-angeles-e2976f/,2.6,,,,,
-SoFi Stadium,Jet Inn,https://journeyed.org/hotel/jet-inn-los-angeles-c9d0a8/,2.6,0,https://www.jetinn-la.us/amenities.html,,,2026-11-13
+SoFi Stadium,Jet Inn,https://journeyed.org/hotel/jet-inn-los-angeles-c9d0a8/,2.6,0,https://www.jetinn-la.us/amenities.html,,,2026-11-21
 SoFi Stadium,TownePlace Suites by Marriott Los Angeles LAX/Hawthorne,https://journeyed.org/hotel/towneplace-suites-by-marriott-los-angeles-lax-hawthorne-hawthorne-15ce22/,2.6,,,,,
 SoFi Stadium,Colonial Hotel,https://journeyed.org/hotel/colonial-hotel-hawthorne-422704/,2.6,,,,,
 SoFi Stadium,Los Angeles Airport Marriott,https://journeyed.org/hotel/los-angeles-airport-marriott-los-angeles-2ccce5/,2.7,,,,,

@@ -1,37 +1,37 @@
-# 72% of LA hotels that publish a parking price say parking is free
+# 71% of LA hotels that publish a parking price say parking is free
 
-The LA Hotel Parking Report. Published 2026-10-03. Data checked 2026-11-20.
+The LA Hotel Parking Report. Published 2026-10-03. Data checked 2026-11-21.
 
-Of 220 hotels in the Los Angeles area that state a self-parking price on their own website, 158 say it is free. Where a price is charged, the median stated price is $30.
+Of 219 hotels in the Los Angeles area that state a self-parking price on their own website, 156 say it is free. Where a price is charged, the median stated price is $30.
 
-Sample: 220 hotels that state a self-parking price, out of 460 hotel websites with a detail read and 2,608 hotels in the market.
+Sample: 219 hotels that state a self-parking price, out of 460 hotel websites with a detail read and 2,608 hotels in the market.
 
 ## Headline numbers
 
-- **72%** say self-parking is free (158 of 220 hotels that state a self-parking price)
+- **71%** say self-parking is free (156 of 219 hotels that state a self-parking price)
 - **$30** median stated self-parking price where one is charged (53 hotels stating a price, from $10 to $79)
 - **$60** median stated valet price (32 hotels stating a valet price, from $25 to $79)
-- **8%** of all hotels state a self-parking price (220 of 2,608 hotels in the market)
+- **8%** of all hotels state a self-parking price (219 of 2,608 hotels in the market)
 
 ## Key findings
 
-- Of the 2,608 hotels in the Los Angeles area, 220 (8%) state a self-parking price on their own website in a form software can read.
-- Of those 220, 158 (72%) say self-parking is free.
+- Of the 2,608 hotels in the Los Angeles area, 219 (8%) state a self-parking price on their own website in a form software can read.
+- Of those 219, 156 (71%) say self-parking is free.
 - 53 hotels state a price for self-parking. The median is $30, the middle half runs from $21 to $40 and the full range is $10 to $79.
 - 32 hotels state a valet price. The median is $60 and the range is $25 to $79.
-- 9 hotels say parking costs money without stating the price.
+- 10 hotels say parking costs money without stating the price.
 
 ## How many LA hotels say what parking costs?
 
-296 hotels say whether they have parking at all, and 289 of them say they do. Fewer go on to state the price: 220 hotels, or 48% of the 460 hotel websites we have read at least one detail from.
+297 hotels say whether they have parking at all, and 290 of them say they do. Fewer go on to state the price: 219 hotels, or 48% of the 460 hotel websites we have read at least one detail from.
 
 38 of the hotels we read say they have electric vehicle charging.
 
 **What hotels that state a self-parking price say**
 
-- Free: 158 of 220 (72%)
-- A stated price: 53 of 220 (24%)
-- Paid, price not stated: 9 of 220 (4%)
+- Free: 156 of 219 (71%)
+- A stated price: 53 of 219 (24%)
+- Paid, price not stated: 10 of 219 (5%)
 
 ## Where is hotel parking free, and where does it cost the most?
 
@@ -41,7 +41,7 @@ The split between free and paid parking depends on where the hotel is. The table
 
 | Area | Hotels stating a price | Say it is free | Charge | Median charge |
 | --- | ---: | ---: | ---: | ---: |
-| Anaheim | 24 | 15 of 24 (63%) | 9 | $27 |
+| Anaheim | 22 | 13 of 22 (59%) | 9 | $27 |
 | Long Beach | 13 | 9 of 13 (69%) | 4 |  |
 | Los Angeles (other areas) | 12 | 11 of 12 (92%) | 1 |  |
 | Hollywood | 11 | 5 of 11 (45%) | 6 | $21 |
@@ -90,7 +90,7 @@ Video summary: https://www.youtube.com/watch?v=1QJQm5Mg1Fk
 
 ## Cite this report
 
-Journeyed, "The LA Hotel Parking Report", data checked November 20, 2026, https://journeyed.org/reports/la-hotel-parking-report/
+Journeyed, "The LA Hotel Parking Report", data checked November 21, 2026, https://journeyed.org/reports/la-hotel-parking-report/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -99,7 +99,7 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 20, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 21, 2026. Nothing comes from booking sites, review sites or guest reports.
 
 The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 460 of those websites so far. A website our crawler opened but found no such detail on is not among the 460, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
@@ -117,7 +117,7 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-11-20
+Last checked: 2026-11-21
 
 Canonical: https://journeyed.org/reports/la-hotel-parking-report/
 
