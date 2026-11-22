@@ -167,8 +167,8 @@ edition,hotel,hotel_url,area,key,value,unit,source_url,checked_on
 2026-11,Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,pets.feePeriod,per-night,,https://hotellerevepasadena.com/hotel-policy,2026-11-21
 2026-11,Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,smoking.fee,150,USD,https://hotellerevepasadena.com/hotel-policy,2026-11-21
 2026-11,Hotel Le Reve Pasadena,https://journeyed.org/hotel/hotel-le-reve-pasadena-pasadena-86f3f4/,Pasadena,deposit,150,USD,https://hotellerevepasadena.com/hotel-policy,2026-11-21
-2026-11,Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,parking.fee,0,USD,https://lexenboutique.com/,2026-11-09
-2026-11,Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,smoking.fee,300,USD,https://lexenboutique.com/hotel-policy/,2026-11-09
+2026-11,Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,parking.fee,0,USD,https://lexenboutique.com/,2026-11-22
+2026-11,Hotel Lexen,https://journeyed.org/hotel/hotel-lexen-santa-clarita-3c1271/,Santa Clarita,smoking.fee,300,USD,https://lexenboutique.com/hotel-policy/,2026-11-22
 2026-11,Hotel Lulu,https://journeyed.org/hotel/hotel-lulu-anaheim-ce8e86/,Anaheim,parking.fee,34,USD,https://hotellulu.com/amenities/,2026-11-20
 2026-11,Hotel Mai,https://journeyed.org/hotel/hotel-mai-long-beach-ff7ece/,Long Beach,parking.fee,20,USD,https://hotelmai.com/,2026-11-20
 2026-11,Hotel Mai,https://journeyed.org/hotel/hotel-mai-long-beach-ff7ece/,Long Beach,deposit,200,USD,https://hotelmai.com/faq/,2026-11-20
