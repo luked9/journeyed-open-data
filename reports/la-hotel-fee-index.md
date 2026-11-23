@@ -1,12 +1,12 @@
 # LA Hotel Fee Index, November 2026: median stated self-parking charge is $30 a night
 
-The Journeyed LA Hotel Fee Index. Published 2026-10-14. Data checked 2026-11-22.
+The Journeyed LA Hotel Fee Index. Published 2026-10-14. Data checked 2026-11-23.
 
 A monthly index of the fees hotels in the Los Angeles area state on their own websites. November 2026 edition: 219 hotels state a self-parking price and 156 (71%) say it is free, with a median charge of $30 a night where one is charged. 26 hotels state a resort or destination fee amount, median $37.50 a night. 49 state a pet fee, median $100.
 
 Sample: 286 hotels that state at least one fee, out of 460 hotel websites with a detail read and 2,608 hotels in the market.
 
-Edition: November 2026 (data checked through November 22, 2026). Next edition: first business Tuesday of December 2026.
+Edition: November 2026 (data checked through November 23, 2026). Next edition: first business Tuesday of December 2026.
 
 ## Headline numbers
 
@@ -43,7 +43,7 @@ The FTC's Rule on Unfair or Deceptive Fees took effect on May 12, 2025 and requi
 | Resort, destination or amenity fee, per night | 31 | 5 say none | 26 | $37.50 | $3 to $125 |
 | Pet fee, per stay or per night as stated | 49 | 0 say none | 49 | $100 | $25 to $350 |
 | Smoking in a room | 37 | 0 say none | 37 | $250 | $100 to $2000 |
-| Security deposit or card hold | 38 | 0 say none | 38 | $100 | $50 to $500 |
+| Security deposit or card hold | 39 | 0 say none | 39 | $100 | $50 to $500 |
 | Early check-in | 11 | 2 say free | 9 | $50 | $20 to $99 |
 | Late check-out | 10 | 0 say free | 10 | $47.50 | $15 to $99 |
 
@@ -111,7 +111,7 @@ How medians are taken: one value per hotel, the latest the crawler read, with "f
 
 Editions: the index is published monthly, on the first business Tuesday, from the facts checked through the date shown. Each edition's rows are kept in the CSV under its edition column, so this URL accumulates the series.
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 22, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 23, 2026. Nothing comes from booking sites, review sites or guest reports.
 
 The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 460 of those websites so far. A website our crawler opened but found no such detail on is not among the 460, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
@@ -134,7 +134,7 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-11-22
+Last checked: 2026-11-23
 
 Canonical: https://journeyed.org/reports/la-hotel-fee-index/
 
