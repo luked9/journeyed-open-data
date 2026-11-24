@@ -257,13 +257,13 @@ Lexen Hotel,https://journeyed.org/hotel/lexen-hotel-los-angeles-10413e/,Hollywoo
 Lexen Hotel,https://journeyed.org/hotel/lexen-hotel-los-angeles-10413e/,Hollywood,checkout.time,11:00,,https://www.lexenhotelhollywood.us/policies.html,2026-11-20
 Lincoln Motel,https://journeyed.org/hotel/lincoln-motel-pasadena-76befb/,Pasadena,checkin.time,15:00,,https://www.lincolnmotelpasadena.com/amenities/,2026-11-21
 Lincoln Motel,https://journeyed.org/hotel/lincoln-motel-pasadena-76befb/,Pasadena,checkout.time,11:00,,https://www.lincolnmotelpasadena.com/amenities/,2026-11-21
-Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,checkin.time,16:00,,https://www.littleinnbythebay.com/faq/,2026-11-17
-Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,checkout.time,11:00,,https://www.littleinnbythebay.com/faq/,2026-11-17
+Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,checkin.time,16:00,,https://www.littleinnbythebay.com/faq/,2026-11-24
+Little Inn By the Bay,https://journeyed.org/hotel/little-inn-by-the-bay-newport-beach-199a95/,Newport Beach,checkout.time,11:00,,https://www.littleinnbythebay.com/faq/,2026-11-24
 Los Angeles Inn and Suites,https://journeyed.org/hotel/los-angeles-inn-and-suites-los-angeles-8ac74c/,Los Angeles (other areas),checkin.time,15:00,,https://www.losangelesinnlax.com/cheap-rooms-near-lax/,2026-11-20
 Los Angeles Inn and Suites,https://journeyed.org/hotel/los-angeles-inn-and-suites-los-angeles-8ac74c/,Los Angeles (other areas),checkout.time,11:00,,https://www.losangelesinnlax.com/cheap-rooms-near-lax/,2026-11-20
-Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,checkin.time,15:00,,https://www.malibucountryinn.com/policies1,2026-11-16
-Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,checkout.time,11:00,,https://www.malibucountryinn.com/policies1,2026-11-16
-Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,checkin.minAge,18,years,https://www.malibucountryinn.com/policies1,2026-11-16
+Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,checkin.time,15:00,,https://www.malibucountryinn.com/policies1,2026-11-24
+Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,checkout.time,11:00,,https://www.malibucountryinn.com/policies1,2026-11-24
+Malibu Country Inn,https://journeyed.org/hotel/malibu-country-inn-malibu-782672/,Malibu,checkin.minAge,18,years,https://www.malibucountryinn.com/policies1,2026-11-24
 Marina Seven Motel,https://journeyed.org/hotel/marina-seven-motel-los-angeles-d17851/,Venice,checkin.time,13:00,,https://www.marina7motella.us/policies.html,2026-11-21
 Marina Seven Motel,https://journeyed.org/hotel/marina-seven-motel-los-angeles-d17851/,Venice,checkout.time,11:00,,https://www.marina7motella.us/policies.html,2026-11-21
 Marriott's Newport Coast Villas,https://journeyed.org/hotel/marriotts-newport-coast-villas-newport-coast-e91405/,Newport Coast,checkin.time,16:00,,https://www.marriottvacationclubs.com/experiences/resorts/marriotts-newport-coast-villas.html,2026-11-23
@@ -321,7 +321,7 @@ Pasadena Hotel & Pool,https://journeyed.org/hotel/pasadena-hotel-and-pool-pasade
 Pasea Hotel & Spa,https://journeyed.org/hotel/pasea-hotel-and-spa-huntington-beach-334342/,Huntington Beach,checkin.time,16:00,,https://www.paseahotel.com/pages/faq/,2026-11-21
 Pasea Hotel & Spa,https://journeyed.org/hotel/pasea-hotel-and-spa-huntington-beach-334342/,Huntington Beach,checkout.time,11:00,,https://www.paseahotel.com/pages/faq/,2026-11-21
 Pendry Newport Beach,https://journeyed.org/hotel/pendry-newport-beach-newport-beach-b5e3d7/,Newport Beach,checkin.minAge,18,years,https://www.pendry.com/newport-beach/faqs/,2026-10-11
-Pomona Inn Motel,https://journeyed.org/hotel/pomona-inn-motel-pomona-99b533/,Pomona,checkout.time,11:00,,https://www.pomonainn.com/hotel-in-pomona-ca-faq.html,2026-11-16
+Pomona Inn Motel,https://journeyed.org/hotel/pomona-inn-motel-pomona-99b533/,Pomona,checkout.time,11:00,,https://www.pomonainn.com/hotel-in-pomona-ca-faq.html,2026-11-24
 Portofino Inn Burbank,https://journeyed.org/hotel/portofino-inn-burbank-burbank-1a7fd2/,Burbank,checkin.time,15:00,,http://www.portofinoburbank.com/faq.asp,2026-11-21
 Portofino Inn Burbank,https://journeyed.org/hotel/portofino-inn-burbank-burbank-1a7fd2/,Burbank,checkout.time,11:00,,http://www.portofinoburbank.com/faq.asp,2026-11-21
 Queens Inn Anaheim near The Park & Convention Center,https://journeyed.org/hotel/queens-inn-anaheim-near-the-park-and-convention-center-anaheim-dec383/,Anaheim,checkin.time,15:00,,https://queensinnanaheim.com/hotel-near-conventions/,2026-11-20
@@ -456,8 +456,8 @@ The Pacific Inn,https://journeyed.org/hotel/the-pacific-inn-seal-beach-722df0/,S
 The Pierside Santa Monica,https://journeyed.org/hotel/the-pierside-santa-monica-santa-monica-53714d/,Santa Monica,checkin.time,16:00,,https://www.thepiersidehotel.com/faq/,2026-11-20
 The Pierside Santa Monica,https://journeyed.org/hotel/the-pierside-santa-monica-santa-monica-53714d/,Santa Monica,checkout.time,11:00,,https://www.thepiersidehotel.com/faq/,2026-11-20
 The Queen Mary,https://journeyed.org/hotel/the-queen-mary-long-beach-bf3763/,Long Beach,checkout.time,11:00,,https://www.queenmary.com/faq.htm,2026-11-21
-The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,checkin.time,12:00,,https://www.theranchlb.com/faqs,2026-11-16
-The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,checkin.minAge,21,years,https://www.theranchlb.com/faqs,2026-11-16
+The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,checkin.time,12:00,,https://www.theranchlb.com/faqs,2026-11-24
+The Ranch at Laguna Beach,https://journeyed.org/hotel/the-ranch-at-laguna-beach-laguna-beach-e35c24/,Laguna Beach,checkin.minAge,21,years,https://www.theranchlb.com/faqs,2026-11-24
 The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,checkin.time,16:00,,https://pelicanhill.com/policies/,2026-11-23
 The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hill-newport-coast-3020d9/,Newport Coast,checkout.time,11:00,,https://pelicanhill.com/policies/,2026-11-23
 The Richland,https://journeyed.org/hotel/the-richland-orange-99dbc4/,Orange,checkin.time,15:00,,https://therichland.com/faq/,2026-11-21
