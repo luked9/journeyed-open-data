@@ -246,7 +246,7 @@ La Casa Del Camino,https://journeyed.org/hotel/la-casa-del-camino-laguna-beach-0
 Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,checkin.time,16:00,,https://www.thelagunabeachhouse.com/faq/,2026-11-23
 Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,checkout.time,11:00,,https://www.thelagunabeachhouse.com/faq/,2026-11-23
 Laguna Beach House,https://journeyed.org/hotel/laguna-beach-house-laguna-beach-f2c7af/,Laguna Beach,checkin.minAge,21,years,https://www.thelagunabeachhouse.com/faq/,2026-11-23
-Lambert Inn,https://journeyed.org/hotel/lambert-inn-whittier-8efefc/,Whittier,checkout.time,11:00,,https://lambertinnca.com/whittier-hotel-policies/,2026-11-18
+Lambert Inn,https://journeyed.org/hotel/lambert-inn-whittier-8efefc/,Whittier,checkout.time,11:00,,https://lambertinnca.com/whittier-hotel-policies/,2026-11-25
 Le Blanc Inn and Suites,https://journeyed.org/hotel/le-blanc-inn-and-suites-el-monte-465f08/,El Monte,checkin.time,15:00,,https://www.leblancinnelmonte.com/faq-for-hotel-in-el-monte.html,2026-11-20
 Le Blanc Inn and Suites,https://journeyed.org/hotel/le-blanc-inn-and-suites-el-monte-465f08/,El Monte,checkout.time,11:00,,https://www.leblancinnelmonte.com/faq-for-hotel-in-el-monte.html,2026-11-20
 Level Long Beach,https://journeyed.org/hotel/level-long-beach-long-beach-1b60a6/,Long Beach,checkin.time,16:00,,https://stayinglevel.com/long-beach/east-village/,2026-11-20
@@ -278,8 +278,8 @@ MyStayLA,https://journeyed.org/hotel/mystayla-los-angeles-3bbaeb/,Mid-Wilshire,c
 MyStayLA,https://journeyed.org/hotel/mystayla-los-angeles-3bbaeb/,Mid-Wilshire,checkout.time,10:00,,https://mystayla.thelosangeleshotels.com/en/,2026-11-21
 Newport Bay Inn,https://journeyed.org/hotel/newport-bay-inn-costa-mesa-6fe5ce/,Costa Mesa,checkin.time,12:00,,https://www.newportbayinncostamesa.us/policies.html,2026-11-23
 Newport Bay Inn,https://journeyed.org/hotel/newport-bay-inn-costa-mesa-6fe5ce/,Costa Mesa,checkout.time,11:00,,https://www.newportbayinncostamesa.us/policies.html,2026-11-23
-Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkin.time,14:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-23
-Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkout.time,11:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-23
+Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkin.time,14:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-25
+Newport Channel Inn,https://journeyed.org/hotel/newport-channel-inn-newport-beach-2c9c6d/,Newport Beach,checkout.time,11:00,,https://www.newportchannelinn.com/guestrooms.htm,2026-11-25
 Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,Gardena,checkin.time,14:00,,https://www.niseiinngardena.com/policies.html,2026-11-21
 Nisei Inn,https://journeyed.org/hotel/nisei-inn-gardena-209ab6/,Gardena,checkout.time,11:00,,https://www.niseiinngardena.com/policies.html,2026-11-21
 Nite Inn at Universal City,https://journeyed.org/hotel/nite-inn-at-universal-city-studio-city-110c7a/,Studio City,checkin.time,15:00,,https://www.niteinnuniversal.com/about,2026-11-21
@@ -448,7 +448,7 @@ The Live Hotel,https://journeyed.org/hotel/the-live-hotel-los-angeles-0c456a/,Do
 The Live Hotel,https://journeyed.org/hotel/the-live-hotel-los-angeles-0c456a/,Downtown Los Angeles,checkout.time,11:00,,https://www.thelivehotel.com/faq/,2026-11-20
 The M Malibu,https://journeyed.org/hotel/the-m-malibu-malibu-59a14f/,Malibu,checkin.time,15:00,,https://www.themmalibu.com/rooms,2026-11-23
 The M Malibu,https://journeyed.org/hotel/the-m-malibu-malibu-59a14f/,Malibu,checkout.time,11:00,,https://www.themmalibu.com/rooms,2026-11-23
-The Malibu Bella Vista B&B,https://journeyed.org/hotel/the-malibu-bella-vista-b-and-b-calabasas-9c06a4/,Calabasas,checkout.time,12:00,,https://www.malibubellavista.com/rooms,2026-11-17
+The Malibu Bella Vista B&B,https://journeyed.org/hotel/the-malibu-bella-vista-b-and-b-calabasas-9c06a4/,Calabasas,checkout.time,12:00,,https://www.malibubellavista.com/rooms,2026-11-25
 The Moment Hotel,https://journeyed.org/hotel/the-moment-hotel-los-angeles-82b7bf/,West Hollywood,checkin.time,16:00,,https://www.themomenthotel.com/amenities/,2026-11-20
 The Moment Hotel,https://journeyed.org/hotel/the-moment-hotel-los-angeles-82b7bf/,West Hollywood,checkout.time,11:00,,https://www.themomenthotel.com/amenities/,2026-11-20
 The Pacific Inn,https://journeyed.org/hotel/the-pacific-inn-seal-beach-722df0/,Seal Beach,checkin.time,16:00,,https://www.thepacificinn.com/about.asp,2026-11-20
@@ -463,9 +463,9 @@ The Resort at Pelican Hill,https://journeyed.org/hotel/the-resort-at-pelican-hil
 The Richland,https://journeyed.org/hotel/the-richland-orange-99dbc4/,Orange,checkin.time,15:00,,https://therichland.com/faq/,2026-11-21
 The Richland,https://journeyed.org/hotel/the-richland-orange-99dbc4/,Orange,checkout.time,11:00,,https://therichland.com/faq/,2026-11-21
 The Richland,https://journeyed.org/hotel/the-richland-orange-99dbc4/,Orange,checkin.minAge,21,years,https://therichland.com/faq/,2026-11-21
-"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,checkin.time,16:00,,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-17
-"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,checkout.time,11:00,,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-17
-"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,checkin.minAge,18,years,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-17
+"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,checkin.time,16:00,,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-25
+"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,checkout.time,11:00,,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-25
+"The Ritz-Carlton, Laguna Niguel",https://journeyed.org/hotel/the-ritz-carlton-laguna-niguel-dana-point-c2bb3c/,Dana Point,checkin.minAge,18,years,https://www.ritzcarlton.com/en/hotels/snarz-the-ritz-carlton-laguna-niguel/overview/?scid=d2406702-e8ea-4b45-bb9b-69cddaaef03d,2026-11-25
 The Sojourn,https://journeyed.org/hotel/the-sojourn-sherman-oaks-e165a6/,Sherman Oaks,checkin.time,15:00,,https://www.thesojournshermanoaks.com/policies-faq,2026-10-19
 The Sojourn,https://journeyed.org/hotel/the-sojourn-sherman-oaks-e165a6/,Sherman Oaks,checkout.time,11:00,,https://www.thesojournshermanoaks.com/policies-faq,2026-10-19
 The Steady,https://journeyed.org/hotel/the-steady-los-angeles-2ef8a9/,Silver Lake,checkin.time,15:00,,https://www.thesteadyhostel.com/policy,2026-11-21
