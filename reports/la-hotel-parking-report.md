@@ -1,16 +1,16 @@
 # 71% of LA hotels that publish a parking price say parking is free
 
-The LA Hotel Parking Report. Published 2026-10-03. Data checked 2026-11-25.
+The LA Hotel Parking Report. Published 2026-10-03. Data checked 2026-11-27.
 
 Of 219 hotels in the Los Angeles area that state a self-parking price on their own website, 156 say it is free. Where a price is charged, the median stated price is $30.
 
-Sample: 219 hotels that state a self-parking price, out of 460 hotel websites with a detail read and 2,608 hotels in the market.
+Sample: 219 hotels that state a self-parking price, out of 458 hotel websites with a detail read and 2,608 hotels in the market.
 
 ## Headline numbers
 
 - **71%** say self-parking is free (156 of 219 hotels that state a self-parking price)
 - **$30** median stated self-parking price where one is charged (53 hotels stating a price, from $10 to $79)
-- **$60** median stated valet price (32 hotels stating a valet price, from $25 to $79)
+- **$60** median stated valet price (33 hotels stating a valet price, from $25 to $79)
 - **8%** of all hotels state a self-parking price (219 of 2,608 hotels in the market)
 
 ## Key findings
@@ -18,14 +18,14 @@ Sample: 219 hotels that state a self-parking price, out of 460 hotel websites wi
 - Of the 2,608 hotels in the Los Angeles area, 219 (8%) state a self-parking price on their own website in a form software can read.
 - Of those 219, 156 (71%) say self-parking is free.
 - 53 hotels state a price for self-parking. The median is $30, the middle half runs from $21 to $40 and the full range is $10 to $79.
-- 32 hotels state a valet price. The median is $60 and the range is $25 to $79.
+- 33 hotels state a valet price. The median is $60 and the range is $25 to $79.
 - 10 hotels say parking costs money without stating the price.
 
 ## How many LA hotels say what parking costs?
 
-297 hotels say whether they have parking at all, and 290 of them say they do. Fewer go on to state the price: 219 hotels, or 48% of the 460 hotel websites we have read at least one detail from.
+296 hotels say whether they have parking at all, and 289 of them say they do. Fewer go on to state the price: 219 hotels, or 48% of the 458 hotel websites we have read at least one detail from.
 
-38 of the hotels we read say they have electric vehicle charging.
+37 of the hotels we read say they have electric vehicle charging.
 
 **What hotels that state a self-parking price say**
 
@@ -71,7 +71,7 @@ Only values a person re-read on the hotel’s own page are named here.
 
 ## What does valet parking cost?
 
-32 hotels state a valet price, with a median of $60.
+33 hotels state a valet price, with a median of $60.
 
 **Highest stated valet prices**
 
@@ -90,7 +90,7 @@ Video summary: https://www.youtube.com/watch?v=1QJQm5Mg1Fk
 
 ## Cite this report
 
-Journeyed, "The LA Hotel Parking Report", data checked November 25, 2026, https://journeyed.org/reports/la-hotel-parking-report/
+Journeyed, "The LA Hotel Parking Report", data checked November 27, 2026, https://journeyed.org/reports/la-hotel-parking-report/
 
 The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
@@ -99,9 +99,9 @@ The data is free to reuse under CC BY 4.0 with a credit and a link to this page.
 
 ## How we got these numbers
 
-Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 25, 2026. Nothing comes from booking sites, review sites or guest reports.
+Every number on this page is computed from facts that Journeyed read on hotels' own websites, within each site's robots.txt, between October 3, 2026 and November 27, 2026. Nothing comes from booking sites, review sites or guest reports.
 
-The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 460 of those websites so far. A website our crawler opened but found no such detail on is not among the 460, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
+The Los Angeles market on this site covers Los Angeles County and most of Orange County, from Malibu and Lancaster to Anaheim, Newport Beach and Laguna Beach, plus Avalon on Catalina Island. It has 2,608 hotels, motels, inns and hostels. 2,228 of them list their own website, and we have read at least one detail about the stay from 458 of those websites so far. A website our crawler opened but found no such detail on is not among the 458, so a share of "websites with a detail read" is higher than the share of all hotel websites would be.
 
 A hotel is counted only when its website states the fact in plain text. Our crawler reads up to 12 pages per site and runs no JavaScript, so a fee that appears only inside a booking widget, an image or a PDF is not counted. A hotel that is not counted may still offer or charge the thing; it has not said so in a form we could read.
 
@@ -117,7 +117,7 @@ Contact: hello@journeyed.org
 
 ---
 
-Last checked: 2026-11-25
+Last checked: 2026-11-27
 
 Canonical: https://journeyed.org/reports/la-hotel-parking-report/
 
